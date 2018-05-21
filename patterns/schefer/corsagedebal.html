@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Corsage de Bal</title>
+	<link href="css/pattern.css" rel="stylesheet">
+</head>
+
+<body>
+
+	<div class="sidebar">
+    Scale<input id="scaleSlider" type="range" min="1" max="100" value="15" step=".25"><input type="number" id="scaleText" min="1" max="100" value="15" step=".25"><p>
+	Bust <input id="bustSlider" type="range" min="24" max="150" value="92" step=".25"><input type="number" id="bustText" min="24" max="100" value="92" step=".25"><p>
+	Waist<input id="waistSlider" type="range" min="18" max="100" value="60" step=".25"> <input type="number" id="waistText" min="18" max="100" value="60" step=".25"><p>
+	Hips<input id="hipsSlider" type="range" min="24" max="150" step=".25" value="110" /><input type="number" id="hipsText" min="24" max="120" step=".25" value="110"><p>
+	BackWidth<input id="backWidthSlider" type="range" min="8" max="40" step=".25" value="33" /><input type="number" id="backWidthText" min="8" max="40" step=".25" value="33"><p>
+	BackLength<input id="backLengthSlider" type="range" min="20" max="50" step=".25" value="38" /><input type="number" id="backLengthText" min="20" max="50" step=".25" value="38"><p>
+	FrontLength<input id="frontLengthSlider" type="range" min="20" max="60" step=".25" value="42" /><input type="number" id="frontLengthText" min="20" max="60" step=".25" value="42"><p>
+    Length to Elbow <input id="armLength1Slider" type="range" min="15" max="35" value="19" step=".25"><input type="number" id="armLength1Text" min="15" max="35" value="19" step=".25"><p>
+	<form>PointA<input id="pointA" type="text"><p> PointB<input id="pointB" type="text"><p> distance<input id="distanceField" type="number"> </form>
+		</div>
+		<div class="maincontent" id="container"></div>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>
+		<script type="text/javascript" src="pattern.js"></script>
+
+		<script type="text/javascript" src="corsagedebal.js"></script>
+
+</body>
+
+</html>
