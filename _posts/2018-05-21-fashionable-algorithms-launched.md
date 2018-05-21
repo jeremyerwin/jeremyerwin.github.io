@@ -17,6 +17,6 @@ Brown, H A. [Scientific dress cutting and making, "The Harriet A. Brown system,"
 
 But the real reason I'm attracted to these systems is that they can be computerized, providing a diverting problem for learning new computer languages, as well as generating customized patterns for sewing.
 
-(insert image here)
+![screenshot of patterndesigner, a pattern editor implemented in Swing](/images/patterndesigner.png)
 
 This is a program I wrote in Java/Swing. At some point I would like to rewrite large portion of it to use JavaFX, as well as providing more CAD like features (like layers). I happen to have a javascript version of the code, and I'd thought it would be fun to illustrate my research on the web.
