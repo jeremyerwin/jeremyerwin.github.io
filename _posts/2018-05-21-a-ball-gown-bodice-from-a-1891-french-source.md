@@ -15,5 +15,8 @@ From [Rhein Schéfer, Ève.  _Méthode de coupe et d'assemblage pour robes de fe
 | Tour des hanches | (hip circumference) | 110 cm
 | Longueurs du bras | (length of arm to elbow) | 19 cm
 
+![back](http://gallica.bnf.fr/ark:/12148/bpt6k204052z/f121.highres)
+![front](http://gallica.bnf.fr/ark:/12148/bpt6k204052z/f125.highres)
+
 [And now, for the pattern itself!](https://jeremyerwin.github.io/patterns/schefer/corsagedebal.html)
 
