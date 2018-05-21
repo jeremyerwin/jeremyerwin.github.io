@@ -1,7 +1,7 @@
---
+---
 layout: post
 date: 2018-05-21
---
+---
 In the latter half the 19th century, there was an explosion of books dedicated to the art of pattern drafting, purporting to make dressmaking into a science.
 
 For instance:
