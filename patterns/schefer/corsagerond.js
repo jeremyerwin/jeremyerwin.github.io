@@ -31,7 +31,7 @@ rightPoint("U","L",backWidth/2.0);
 displacementPoint("N","U",-1.0 *scale,distance("L","X"));
 rightPoint("O","S",3.0 *scale);
 displacementPoint("H","C",-2.0 *scale,-1.0 *scale);
-circleLSIntersectionPoint("Oa","H","C","D",-waist/5.0+1.0 *scale);
+circleLineIntersectionPoint("Oa","H","D",waist/5.0-1.0 *scale,0);
 displacementPoint("fA","A",distance("A","B")+3.0 *scale,-2.0 *scale);
 rightPoint("fB","fA",(bust/2.0+4.0 *scale)-(backWidth/2.0+bust/16.0));
 downPoint("fC","fB",frontLength);
