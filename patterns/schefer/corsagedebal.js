@@ -31,7 +31,19 @@ displacementPoint("P","A",bust/16.0,-1.0 *scale);
 alongPoint("U","L","M",backWidth/2.0+2.0 *scale);
 alongPoint("Pa","U","P",3.0 *scale);
 displacementPoint("N","U",-1.0 *scale,distance("L","X"));
-rightPoint("O","S",3.0 *scale);
+    if(waist>75.0)
+    {
+        rightPoint("O","S",4.0 *scale);
+    }
+    elif(waist>65.0)
+    {
+        rightPoint("O","S",3.5 *scale);
+    }
+    else
+    {
+        
+        rightPoint("O","S",3.0 *scale);
+    }
 leftPoint("Db","Da",1.0 *scale);
 displacementPoint("T","Db",hips/12.0-1.0 *scale,-4.0 *scale);
 leftPoint("I","Ya",bust/12.0-3.0 *scale);
