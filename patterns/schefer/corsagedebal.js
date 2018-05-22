@@ -31,10 +31,10 @@ displacementPoint("P","A",bust/16.0,-1.0 *scale);
 alongPoint("U","L","M",backWidth/2.0+2.0 *scale);
 alongPoint("Pa","U","P",3.0 *scale);
 displacementPoint("N","U",-1.0 *scale,distance("L","X"));
-    if(waist>75.0)    {
+    if(waist>75.0*scale)    {
         rightPoint("O","S",4.0 *scale);
     }
-    else if(waist>65.0){
+    else if(waist>65.0*scale){
         rightPoint("O","S",3.5 *scale);
     }else{
         
