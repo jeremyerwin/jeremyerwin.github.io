@@ -8,8 +8,6 @@ var backLength=document.getElementById('backLengthSlider').value*scale;
 var backWidth=document.getElementById('backWidthSlider').value*scale;
 var bust=document.getElementById('bustSlider').value*scale;
 var frontLength=document.getElementById('frontLengthSlider').value*scale;
-var hipDepth=document.getElementById('hipDepthSlider').value*scale;
-var hips=document.getElementById('hipsSlider').value*scale;
 var waist=document.getElementById('waistSlider').value*scale;
 addPoint("A",18.59 *scale,12.98 *scale)
 rightPoint("B","A",backWidth/2.0+bust/16.0);
@@ -91,7 +89,5 @@ wireUpControl(document,'backLength');
 wireUpControl(document,'backWidth');
 wireUpControl(document,'bust');
 wireUpControl(document,'frontLength');
-wireUpControl(document,'hipDepth');
-wireUpControl(document,'hips');
 wireUpControl(document,'waist');
 wireUpDistance(document);
