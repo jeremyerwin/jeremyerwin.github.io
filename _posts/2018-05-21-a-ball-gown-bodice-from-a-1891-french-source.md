@@ -17,4 +17,4 @@ From [Rhein Schéfer, Ève.  _Méthode de coupe et d'assemblage pour robes de fe
 ![front](http://gallica.bnf.fr/ark:/12148/bpt6k204052z/f125.highres)
 
 Click on the picture for an _interactive version_ of this pattern. Use the sliders to change the measurements
-[![corsage rong(/images/corsagerond.png)](https://jeremyerwin.github.io/patterns/schefer/corsagerond.html)
+[![corsage de bal](/images/corsagedebal.png)](https://jeremyerwin.github.io/patterns/schefer/corsagerond.html)
