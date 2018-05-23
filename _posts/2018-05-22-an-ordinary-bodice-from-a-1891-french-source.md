@@ -12,12 +12,10 @@ From [Rhein Schéfer, Ève.  _Méthode de coupe et d'assemblage pour robes de fe
 | Longueur du devant | (front length) | 42 cm
 | Tour de poitrine | (bust circumferance) | 92 cm
 | Tour de taille | (waist circumference) | 60 cm
-| Tour des hanches | (hip circumference) | 110 cm
-| Longueurs du bras | (length of arm to elbow) | 19 cm
 
 ![back](http://gallica.bnf.fr/ark:/12148/bpt6k204052z/f121.highres)
 ![front](http://gallica.bnf.fr/ark:/12148/bpt6k204052z/f125.highres)
 
 Click on the picture for an _interactive version_ of this pattern. Use the sliders to change the measurements
-[![corsage de bal](/images/corsagedebal.png)](https://jeremyerwin.github.io/patterns/schefer/corsagedebal.html)
+[![corsage rong(/images/corsagerond.png)](https://jeremyerwin.github.io/patterns/schefer/corsagerond.html)
 
