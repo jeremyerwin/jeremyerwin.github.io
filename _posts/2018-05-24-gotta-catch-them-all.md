@@ -29,7 +29,7 @@ Anyway, the computerized pattern for this post is from
 
 [Rhein Schéfer, Ève.  _Méthode de coupe et d'assemblage pour robes de femmes et vêtements d'enfants : trousseau et layette_ Paris. 1891](http://gallica.bnf.fr/ark:/12148/bpt6k204052z)(pp 22-24) 
 
-![sleeve](http://gallica.bnf.fr/ark:/12148/bpt6k204052z/f81.highres)
+![sleeve](http://gallica.bnf.fr/ark:/12148/bpt6k204052z/f29.highres)
 
 Click on the picture for an _interactive version_ of this pattern. Use the sliders to change the measurements
 [![sleeve](/images/manche_ordinaire.png)](https://jeremyerwin.github.io/patterns/schefer/manche_ordinaire.html)
