@@ -19,6 +19,8 @@ From issue 31
 
 > Nous renvoyons au __numéro 19__ pour l'explications e la blouse de ce costume, qui est exactement semblable à celle que nous avons donnée; il en est de même du plastron et du col marin.
 
+Both patterns build on what I don't have, and this pattern continues for the rest of the year.
+
 My second run is from 1897-- and I lept on the chance to get those issues in the expectaion that I would receive the basic pattern instructions that I belived were included in issue number 1. Nope. Turns out that the January patterns refer to the November and December issues in 1896. Argh...
 
 So, I've been pouring through old french pattern manuals from the 1890s in search of something that looks familiar... Of course, I coud try to find the exact issues of LMP I need. But given that they aren't online, yet, tracking down them down is an iffy proposition,
@@ -32,5 +34,5 @@ Rhein Schéfer, Ève. Méthode de coupe et d'assemblage pour robes de femmes et 
 Click on the picture for an _interactive version_ of this pattern. Use the sliders to change the measurements
 [![sleeve](/images/manche_ordinaire.png)](https://jeremyerwin.github.io/patterns/schefer/manche_ordinaire.html)
 
-If you'd like to read a copy of LMP, Vol 1 issue 31, I've uploaded a copy [here](https://drive.google.com/open?id=1RgoheBzzKbJ0Sop9hfxCDlRz_QOpPuvB)
+If you'd like to read a copy of LMP, Vol 1 issue 30, I've uploaded a copy [here](https://drive.google.com/open?id=1RgoheBzzKbJ0Sop9hfxCDlRz_QOpPuvB)
 
