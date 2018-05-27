@@ -1,18 +1,17 @@
-name: Jeremy Erwin
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+--- 
 comments: 
   appid: 1792738694148588
   colorscheme: light
   facebook: ~
   num_posts: 10
   order_by: reverse_time
-
-  
-defaults:
-  # _posts
-  - scope:
+defaults: 
+  - 
+    scope: 
       path: ""
       type: posts
-    values:
+    values: 
       comments: true
+markdown: kramdown
+name: "Jeremy Erwin"
+permalink: "/blog/:year/:month/:day/:title"
