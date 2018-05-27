@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2018-05-24
+comments: true
 ---
 
 One of the reasons I'm so focused on French patterns at the moment is that I own quite a few unpublished drafts from the French pattern magazine _La Mode Pratique_. The trouble is, I own the "wrong" issues.
@@ -32,6 +33,7 @@ Anyway, the computerized pattern for this post is from
 ![sleeve](http://gallica.bnf.fr/ark:/12148/bpt6k204052z/f29.highres)
 
 Click on the picture for an _interactive version_ of this pattern. Use the sliders to change the measurements
+
 [![sleeve](/images/manche_ordinaire.png)](https://jeremyerwin.github.io/patterns/schefer/manche_ordinaire.html)
 
 If you'd like to read a copy of LMP, Vol 1 issue 30, I've uploaded a copy [here](https://drive.google.com/open?id=1RgoheBzzKbJ0Sop9hfxCDlRz_QOpPuvB)
