@@ -6,7 +6,7 @@ comments: true
 
 One of the reasons I'm so focused on French patterns at the moment is that I own quite a few unpublished drafts from the French pattern magazine _La Mode Pratique_. The trouble is, I own the "wrong" issues.
 
-My first run of the magazine runs from July to December of 1892. Let me quote the pattern instructions from issue 30  (2 uillet 1892)
+My first run of the magazine runs from July to December of 1892. Let me quote the pattern instructions from issue 30  (2 Juillet 1892)
 
 > Robe en voile vert amande, petite veste en gaze vert amande à rayures vert foncé (fig 5)
 
