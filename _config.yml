@@ -6,7 +6,7 @@ comments:
 		appid : 1792738694148588
 		num_posts : 10
 		colorscheme: "light"
-  	order_by : "reverse_time"
+		order_by : "reverse_time"
   
 defaults:
   # _posts
