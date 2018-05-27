@@ -10,3 +10,11 @@ comments:
   num_posts : 10
   colorscheme: "light"
   order_by : "reverse_time"
+  
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
