@@ -13,9 +13,13 @@ I came across this page on capes:
 ![page](https://ia800207.us.archive.org/BookReader/BookReaderImages.php?zip=/33/items/baughmansadvance00baug/baughmansadvance00baug_jp2.zip&file=baughmansadvance00baug_jp2/baughmansadvance00baug_0012.jp2&scale=4&rotate=0)
 
 
+The large semi circular protrusion looked awfully similar to a LMP tissue pattern....
+
 ![lmp30](/images/lmp30.png)
 
-Besides the [pelerine](https://www.metmuseum.org/art/collection/search#!?sortBy=Relevance&material=Pelerines&offset=40&PerPage=20), it provides a fairly complete set of patterns-- bodice back, side panels, front, sleeves and collar, and should let me reverse engineer LMP's pattern drafting system.
+Besides the [pelerine](https://www.metmuseum.org/art/collection/search#!?sortBy=Relevance&material=Pelerines&offset=40&PerPage=20), it provides a fairly complete set of patterns-- bodice back, side panels, front, sleeves and collar, and should let me reverse engineer LMP's pattern drafting system. 
+
+I may make this up shortly, though most probably not using chinchilla.
 
 Getting the tissue pattern into my computer proved a bit of an ordeal. I first traced the pattern pieces onto some semi transparent Exam Table Paper, and then drew a grid on those pattern pieces. It took me a while to figure out a viable technique, thus asense of blog posts.
 
