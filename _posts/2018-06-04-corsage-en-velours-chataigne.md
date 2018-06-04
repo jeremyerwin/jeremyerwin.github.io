@@ -25,5 +25,5 @@ Getting the tissue pattern into my computer proved a bit of an ordeal. I first t
 
 Right now, the pattern is in a .las (Wild ginger Patternmaster) file, and IIRC, licensing prolems complicate the sharing of theis sort of file. I should have it available as a DXF file shortly.
 
-In the mean time, if any one has any suggestions on how best to import tissue paper pattern sheets that have been bound into a book, I'd be glad to hearof them. Perhaps I can get an old and obsolete (and therefore inexpensive) large scale drawing tablet, and reverse engineer the RS232 connection
+In the mean time, if any one has any suggestions on how best to import tissue paper pattern sheets that have been bound into a book, I'd be glad to hear of them. Perhaps I can get an old and obsolete (and therefore inexpensive) large scale drawing tablet, and reverse engineer the RS232 connection
 
