@@ -21,9 +21,9 @@ Besides the [pelerine](https://www.metmuseum.org/art/collection/search#!?sortBy=
 
 I may make this up shortly, though most probably not using chinchilla.
 
-Getting the tissue pattern into my computer proved a bit of an ordeal. I first traced the pattern pieces onto some semi transparent Exam Table Paper, and then drew a grid on those pattern pieces. It took me a while to figure out a viable technique, thus asense of blog posts.
+Getting the tissue pattern into my computer proved a bit of an ordeal. I first traced the pattern pieces onto some semi transparent Exam Table Paper, and then drew a grid on those pattern pieces. It took me a while to figure out a viable technique, thus the absense of blog posts.
 
-Right now, the pattern is in a .las (Wild ginger Patternmaster) file, and IIRC, licensing prolems complicate the sharing of theis sort of file. I should have it available as a DXF file shortly.
+Right now, the pattern is in a .las (Wild ginger Patternmaster) file, and IIRC, licensing prolems complicate the sharing of this sort of file. I should have it available as a DXF file shortly. And hopefully, I'll be able to resize it, though that may take soem experimentation.
 
 In the mean time, if any one has any suggestions on how best to import tissue paper pattern sheets that have been bound into a book, I'd be glad to hear of them. Perhaps I can get an old and obsolete (and therefore inexpensive) large scale drawing tablet, and reverse engineer the RS232 connection
 
