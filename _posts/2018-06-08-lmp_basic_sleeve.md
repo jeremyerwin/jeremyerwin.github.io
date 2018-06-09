@@ -17,4 +17,4 @@ pattern later on. I think it shoud also be applicable to patterns published in 1
 
 
 Click on the picture for an _interactive version_ of this pattern. Use the sliders to change the measurements.
-[![manche](/images/lmp_manche.png)](https://jeremyerwin.github.io/patterns/lmp/manche.html)
+[![manche](/images/lmp_manche.png)](https://jeremyerwin.github.io/patterns/lmp/sleeve168.html)
