@@ -9,5 +9,8 @@ layout: default
 <div class="post">
   {{ content }}
 </div>
-
+<div class="post-content" itemprop="articleBody">
+    {{ content }}
+    {% include share-bar.html %}
+</div>
 {% include comments.html %}
