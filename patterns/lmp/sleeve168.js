@@ -7,7 +7,6 @@ paper.clear()
 var armholeLength=document.getElementById('armholeLengthSlider').value*scale;
 var elbowLength=document.getElementById('elbowLengthSlider').value*scale;
 var forearmLength=document.getElementById('forearmLengthSlider').value*scale;
-var sleeveLength=document.getElementById('sleeveLengthSlider').value*scale;
 addPoint("A",27.3 *scale,11.3 *scale)
 rightPoint("B","A",armholeLength/2.0);
 downPoint("C","A",armholeLength/12.0+elbowLength);
@@ -58,5 +57,5 @@ wireUpScale(document);
 wireUpControl(document,'armholeLength');
 wireUpControl(document,'elbowLength');
 wireUpControl(document,'forearmLength');
-wireUpControl(document,'sleeveLength');
+
 wireUpDistance(document);
