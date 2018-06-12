@@ -28,19 +28,15 @@ teeIntersectionPoint("U","H",-180.0,"A","G")
 teeIntersectionPoint("O","G",0.0,"H","D")
 extendPoint("P","F","E",6.0 *scale);
 circleCircleIntersectionPoint("Q","G",3.0 *scale,"P",distance("K","G"),true);
-circleCircleIntersectionPoint("R","H",4.0 *scale,"D",distance("D","R"),true);
+circleCircleIntersectionPoint("R","H",4.0 *scale,"D",distance("D","H"),true);
 printPoints();
-//shapes.ImageShapenot supported at this point
 line("A","L");
 line("B","M");
 line("L","M");
 line("A","B");
 line("C","D");
-line("E","F");
-displacedQuad("G","E",distance("G","E")/2.0,-(-1.5 *scale));
-displacedQuad("E","H",distance("E","H")/2.0,-(-1.0 *scale));
+line("P","F");
 displacedQuad("D","S",distance("D","S")/2.0,-(-1.0 *scale));
-displacedQuad("G","K",distance("G","K")/2.0,-(-1.0 *scale));
 displacedQuad("K","I",distance("K","I")/2.0,-(-1.0 *scale));
 line("I","S");
 displacedQuad("Q","P",distance("Q","P")/2.0,-(-3.0 *scale));
