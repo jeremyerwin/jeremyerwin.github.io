@@ -27,7 +27,7 @@ rightPoint("K","Cprime",armholeLength/12.0);
 teeIntersectionPoint("U","H",-180.0,"A","G")
 teeIntersectionPoint("O","G",0.0,"H","D")
 extendPoint("P","F","E",6.0 *scale);
-circleCircleIntersectionPoint("Q","G",3.0 *scale,"P",distance("K","G"),true);
+circleCircleIntersectionPoint("Q","G",3.0 *scale,"K",distance("K","G"),false);
 circleCircleIntersectionPoint("R","H",4.0 *scale,"D",distance("D","H"),true);
 printPoints();
 line("A","L");
