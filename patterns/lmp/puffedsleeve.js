@@ -8,7 +8,7 @@ var armholeLength=document.getElementById('armholeLengthSlider').value*scale;
 var elbowLength=document.getElementById('elbowLengthSlider').value*scale;
 var forearmLength=document.getElementById('forearmLengthSlider').value*scale;
 var sleeveLength=document.getElementById('sleeveLengthSlider').value*scale;
-addPoint("A",115.0 *scale,125.0 *scale)
+addPoint("A",10.0 *scale,10.0 *scale)
 rightPoint("B","A",armholeLength/2.0);
 downPoint("C","A",armholeLength/12.0+elbowLength);
 angleAngleIntersectionPoint("D","C",0.0,"B",-90.0)
