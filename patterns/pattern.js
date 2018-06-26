@@ -1,5 +1,5 @@
 /**
-* Pattern making tools, Copyright 2018 Jeremy Erwin
+*
 */
 
 
@@ -110,7 +110,7 @@ function alongPoint(name, aName, bName, distance)
     var documentScale=setDocumentScale();
 
 
-    points.set(name, {x:(a.x+Math.cos(theta)*distance), y:(a.y+Math.sin(theta)*distance), description:"Mark a point "  + name + " "+ distance/documentScale  + " along the line from "+ aName + " to " + bName });
+    points.set(name, {x:(a.x+Math.cos(theta)*distance), y:(a.y+Math.sin(theta)*distance), description:"Mark a point " + distance/documentScale  + " along the line from "+ aName + " to " + bName });
 }
 
 function displacementPoint(name, aName, xdistance, ydistance)
@@ -136,7 +136,7 @@ function displacementPoint(name, aName, xdistance, ydistance)
     }
 
 
-    points.set(name, {x:a.x +  xdistance,y:a.y+ydistance, description: "Mark a point " + name + " " + Math.abs(xdistance/documentScale) + xword + " and " + Math.abs(ydistance/documentScale) + yword + aName });
+    points.set(name, {x:a.x +  xdistance,y:a.y+ydistance, description: "Mark a point "  + Math.abs(xdistance/documentScale) + xword + " and " + Math.abs(ydistance/documentScale) + yword + aName });
 
 }
 
@@ -147,7 +147,7 @@ function extendPoint(name, aName, bName, distance)
     var b=getPoint(bName);
     var theta=angle(aName, bName);
 
-    points.set(name, {x:(b["x"]+Math.cos(theta)*distance), y:(b["y"]+Math.sin(theta)*distance), description:"Extend the line from "+ aName + " to " + bName + " by " + distance/documentScale + " and mark a point " + name});
+    points.set(name, {x:(b["x"]+Math.cos(theta)*distance), y:(b["y"]+Math.sin(theta)*distance), description:"Extend the line from "+ aName + " to " + bName + " by " + distance/documentScale + " and mark a point "});
 }
 
 function directionPoint(name, aName, degrees, distance)
@@ -155,7 +155,7 @@ function directionPoint(name, aName, degrees, distance)
     var documentScale=setDocumentScale();
     var a=getPoint(aName);
     var theta=radians(degrees);
-    points.set(name, {x:a.x+Math.cos(theta)*distance, y:a.y-Math.sin(theta)*distance, description: "Measure out " + distance/documentScale + " along a " + degrees + " angle and mark a point" + name });
+    points.set(name, {x:a.x+Math.cos(theta)*distance, y:a.y+Math.sin(theta)*distance, description: "Measure out " + distance/documentScale + " along a " + degrees + " angle and mark a point" });
 }
 
 function perpendicularPoint(name, aName,bName, distance)
@@ -164,7 +164,7 @@ function perpendicularPoint(name, aName,bName, distance)
     var b=getPoint(bName);
     theta=angle(aName, bName)+  Math.PI/2.0;
 
-    points.set(name, {x:(b.x+Math.cos(theta)*distance), y:(b.y+Math.sin(theta)*distance), description:" From point " + bName +" Measure out " + distance/documentScale + " along a  line perpendicular  to line " + aName + bName + " and mark a point " + name });
+    points.set(name, {x:(b.x+Math.cos(theta)*distance), y:(b.y+Math.sin(theta)*distance), description:" From point " + bName +" Measure out " + distance/documentScale + " along a  line perpendicular  to line " + aName + bName  });
 }
 
 function perpendicularBisectorPoint(name, aName,bName, distance)
@@ -175,7 +175,7 @@ function perpendicularBisectorPoint(name, aName,bName, distance)
     var theta=angle(aName, bName)+  Math.PI/2.0;
 
     var m={x:(a["x"]+b["x"])/2.0, y:(a["y"]+b["y"])/2.0};
-    points.set(name, {x:(m["x"]+Math.cos(theta)*distance), y:(m["y"]+Math.sin(theta)*distance), description:"From the midpoint of " + aName + " and " + bName +" Measure out " + distance/documentScale + " along a  line perpendicular  to line " + aName + bName + " and mark a point " + name});
+    points.set(name, {x:(m["x"]+Math.cos(theta)*distance), y:(m["y"]+Math.sin(theta)*distance), description:"From the midpoint of " + aName + " and " + bName +" Measure out " + distance/documentScale + " along a  line perpendicular  to line " + aName + bName});
 
 }
 function parallelPoint(name, aName,bName, cName, distance)
@@ -184,7 +184,7 @@ function parallelPoint(name, aName,bName, cName, distance)
     var c=getPoint(cName);
     theta=angle(aName, bName);
 
-    points.set(name, {x:(c.x+Math.cos(theta)*distance), y:(c.y+Math.sin(theta)*distance), description: "From point " + cName +" Measure out " + distance/documentScale + " along a  line perpendicular  to line " + aName + bName + " and mark a point " + name  });
+    points.set(name, {x:(c.x+Math.cos(theta)*distance), y:(c.y+Math.sin(theta)*distance), description: "From point " + cName +" Measure out " + distance/documentScale + " along a  line perpendicular  to line " + aName + bName  });
 }
 function arcCenterPoint(name, aName,bName, versine)
 {
@@ -213,7 +213,29 @@ function arcCenterPoint(name, aName,bName, versine)
 
 
 }
+function circleCircleIntersectionPoint(name, aName, radiusA, bName, radiusB, up)
+{
+    var documentScale=setDocumentScale();
+    var a=getPoint(aName);
+    var b=getPoint(bName);
 
+    var dist=distance(aName, bName);
+    var deltaX=a.x-b.x;
+    var deltaY=a.y-b.y;
+
+    var k = (dist*dist + radiusA*radiusA - radiusB*radiusB)/(2*dist);
+
+    if(up){
+        var newx = a.x - deltaX*k/dist - (deltaY/dist)*Math.sqrt(radiusA*radiusA - k*k);
+        var newy = a.y - deltaY*k/dist + (deltaX/dist)*Math.sqrt(radiusA*radiusA - k*k);
+    }
+    else{
+        var newx = a.x - deltaX*k/dist + (deltaY/dist)*Math.sqrt(radiusA*radiusA - k*k);
+        var newy = a.y - deltaY*k/dist - (deltaX/dist)*Math.sqrt(radiusA*radiusA - k*k);
+    }
+    points.set(name,{x:newx, y:newy, description: "Mark the point of intersection of a circle of " + radiusA + " centered at point " + aName + " with  a circle of radius " + radiusB/documentScale + " centered at point " + bName});
+
+}
 function circleLineIntersectionPoint(name, aName, bName, radiusA, degreesB )
 {
     var documentScale=setDocumentScale();
@@ -267,7 +289,7 @@ function circleLSIntersectionPoint(name, aName, bName, cName, radiusA )
         var dy= b.y-a.y;
         var dx=Math.sqrt(radiusA*radiusA -dy*dy);
 
-        if ((Math.abs(b.x -a.x - dx) < Math.abs(b.x -a.x - dx)))
+        if ((Math.abs(b.x -a.x + dx) < Math.abs(b.x -a.x - dx)))
         {
             var solution={x:a.x-dx,y:b.y};
 
@@ -286,14 +308,14 @@ function circleLSIntersectionPoint(name, aName, bName, cName, radiusA )
         var dx= b.x-a.x;
         var dy=Math.sqrt(radiusA*radiusA -dx*dx);
 
-        if ((Math.abs(b.y -a.y - dy) < Math.abs(b.y -a.y - dy)))
+        if ((Math.abs(b.y -a.y + dy) < Math.abs(b.y -a.y - dy)))
         {
-            var solution={x:b.y,y:a.y-dy};
+            var solution={x:b.x,y:a.y-dy};
 
         }
         else
         {
-            var solution={x:b.x,y:a.y+dx}
+            var solution={x:b.x,y:a.y+dy}
         }
     }
     else
@@ -303,7 +325,7 @@ function circleLSIntersectionPoint(name, aName, bName, cName, radiusA )
     }
 
 
-    points.set(name,{x:solution.x, y:solution.y, description: "Mark the point of intersection of a line extended from " + bName + "to " + cName + " with  a circle of radius " + radiusA/documentScale + " centered at point " + aName});
+    points.set(name,{x:solution.x, y:solution.y, description: "Mark the point of intersection of a line extended from " + bName + " to " + cName + " with  a circle of radius " + radiusA/documentScale + " centered at point " + aName});
 
 }
 
@@ -315,8 +337,8 @@ function circleLineIntersection( a, b, c, radiusA)
     var p2={x:a.x-c.x, y:a.y-c.y};
 
 
-    var dx=p2.x-p1.x;
-    var dy=p2.y-p1.y;
+    var dx= p2.x-p1.x;
+    var dy=p2.x-p1.y;
 
     var dr=Math.sqrt(dx*dx+dy*dy);
 
@@ -340,13 +362,13 @@ function circleLineIntersection( a, b, c, radiusA)
 
         if(pointDist(p2,sol1) < pointDist(p2,sol2) )
         {
-            var retval={x:a.x+sol2.x, y:a.y+sol2.y};
+            var retval={x:a.x+sol1.x, y:a.y+sol1.y};
             console.log("circle line intersection solution 1", retval);
             return retval;
         }
         else
         {
-            var retval={x:a.x+sol1.x, y:a.y+sol1.y};
+            var retval={x:a.x+sol2.x, y:a.y+sol2.y};
             console.log("circle line intersection solution 2", retval);
             return retval;
 
@@ -390,31 +412,6 @@ function printPoint(value, key, map)
 
 
 
-
-}
-
-function circleCircleIntersectionPoint(name,aName, radiusA, bName, radiusB, up) {
-
-    var documentScale=setDocumentScale();
-    var a=getPoint(aName);
-    var b=getPoint(bName);
-    var chordlength=distance(aName,bName);
-    var deltax=a.x-b.x;
-    var deltay=a.y-b.y;
-
-    var k= (chordlength*chordlength + radiusA*radiusA - radiusB*radiusB)/(2*chordlength);
-    console.log(k);
-
-        if(up){
-             newx = a.x - deltax*k/chordlength - (deltay/chordlength)*math.sqrt(radiusA*radiusA - k*k);
-             newy = a.y - deltay*k/chordlength + (deltax/chordlength)*math.sqrt(radiusA*radiusA - k*k);
-         }
-        else{
-             newx = a.x - deltax*k/chordlength + (deltay/chordlength)*math.sqrt(radiusA*radiusA - k*k);
-             newy = a.y - deltay*k/chordlength - (deltax/chordlength)*math.sqrt(radiusA*radiusA - k*k);
-         }
-         console.log(newx, newy);
-        points.set(name,{x:newx, y:newy, description: "Mark the point of intersection of a circle of radius " + radiusA/documentScale + " centered at point" + aName + " with  a circle of radius " + radiusB/documentScale + " centered at point " + bName});
 
 }
 
