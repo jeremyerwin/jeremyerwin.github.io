@@ -14,6 +14,6 @@ All those lessons from La Mode Pratique that I was missing are now present in th
 
 so-- time to read, translate, and program!
 
-In the meantime, here's the beginning of a basic [bodice pattern].(https://jeremyerwin.github.io/patterns/lmp/lmp_bodice.html)
+In the meantime, here's the beginning of a basic [bodice pattern](https://jeremyerwin.github.io/patterns/lmp/lmp_bodice.html)
 
 
