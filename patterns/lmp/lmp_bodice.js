@@ -14,7 +14,7 @@ var hipDepth=document.getElementById('hipDepthSlider').value*scale;
 var hips=document.getElementById('hipsSlider').value*scale;
 var shoulderLength=document.getElementById('shoulderLengthSlider').value*scale;
 var waist=document.getElementById('waistSlider').value*scale;
-var yoffset=document.getElementById('yoffsetSlider').value*scale;
+
 addPoint("A1",10*scale,14.5 *scale);
 rightPoint("B1","A1",backWidth+0.5 *scale);
 downPoint("C1","A1",backLength+1.0 *scale);
@@ -46,7 +46,7 @@ alongPoint("O2","B2","G2",bust/3.0);
 leftPoint("P2","O2",frontWidth);
 downPoint("Q2","A2",bust/2.0-2.5 *scale);
 teeIntersectionPoint("Q2a","Q2",0.0,"F2","G2")
-directionPoint("R2","Q2",-92.0,armholeHeight);
+downPoint("R2","Q2",armholeHeight);
 downPoint("S2","Q2",5.0 *scale);
 teeIntersectionPoint("T2","S2",0.0,"F2","D2")
 downPoint("V2","S2",0.5 *scale);
@@ -101,10 +101,7 @@ teeIntersectionPoint("K1c","K1b",-180.0,"E1","G1")
 arcCenterPoint("K1d","K1a","H1",-2.5 *scale);
 circleLineIntersectionPoint("K1e","K1d","K1c",distance("K1a","K1d"),0.0);
 printPoints();
-//shapes.ImageShapenot supported at this point
-//shapes.ImageShapenot supported at this point
-//shapes.ImageShapenot supported at this point
-//shapes.ImageShapenot supported at this point
+
 displacedQuad("E1","F1",distance("E1","F1")/2.0,-(0.2 *scale));
 line("E1","G1");
 line("F1","I1");
