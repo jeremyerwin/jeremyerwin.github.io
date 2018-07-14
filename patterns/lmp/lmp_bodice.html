@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><title>lmp_bodice</title>
+<link href="pattern.css" rel="stylesheet">
+</head>
+<body>
+<div class="sidebar">
+scale<input id="scaleSlider" type="range" min="1" max="100" value="15.0" step=".25"><input type="number" id="scaleText" min="1" max="100" value="15.0" step="0.25"><p>
+armholeHeight<input id="armholeHeightSlider" type="range" min="9" max="28" value="19.0" step=".25"><input type="number" id="armholeHeightText" min="9" max="28" value="19.0" step="0.25"><p>
+backLength<input id="backLengthSlider" type="range" min="20" max="60" value="40.0" step=".25"><input type="number" id="backLengthText" min="20" max="60" value="40.0" step="0.25"><p>
+backWidth<input id="backWidthSlider" type="range" min="8" max="26" value="17.5" step=".25"><input type="number" id="backWidthText" min="8" max="26" value="17.5" step="0.25"><p>
+bust<input id="bustSlider" type="range" min="24" max="72" value="48.0" step=".25"><input type="number" id="bustText" min="24" max="72" value="48.0" step="0.25"><p>
+frontLength<input id="frontLengthSlider" type="range" min="22" max="66" value="44.5" step=".25"><input type="number" id="frontLengthText" min="22" max="66" value="44.5" step="0.25"><p>
+frontWidth<input id="frontWidthSlider" type="range" min="9" max="27" value="18.6" step=".25"><input type="number" id="frontWidthText" min="9" max="27" value="18.6" step="0.25"><p>
+hipDepth<input id="hipDepthSlider" type="range" min="9" max="27" value="18.0" step=".25"><input type="number" id="hipDepthText" min="9" max="27" value="18.0" step="0.25"><p>
+hips<input id="hipsSlider" type="range" min="32" max="97" value="65.0" step=".25"><input type="number" id="hipsText" min="32" max="97" value="65.0" step="0.25"><p>
+shoulderLength<input id="shoulderLengthSlider" type="range" min="6" max="18" value="12.5" step=".25"><input type="number" id="shoulderLengthText" min="6" max="18" value="12.5" step="0.25"><p>
+waist<input id="waistSlider" type="range" min="16" max="49" value="33.0" step=".25"><input type="number" id="waistText" min="16" max="49" value="33.0" step="0.25"><p>
+yoffset<input id="yoffsetSlider" type="range" min="0" max="0" value="0.0" step=".25"><input type="number" id="yoffsetText" min="0" max="0" value="0.0" step="0.25"><p>
+<form>PointA<input id="pointA" type="text"><p> PointB<input id="pointB" type="text"><p> distance<input id="distanceField" type="number"> </form></div>
+<div class="maincontent" id="container"></div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>
+<script type="text/javascript" src="pattern.js"></script>
+<script type="text/javascript" src="lmp_bodice.js "></script>
+</body>
+</html>
