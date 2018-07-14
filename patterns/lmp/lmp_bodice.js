@@ -15,7 +15,7 @@ var hips=document.getElementById('hipsSlider').value*scale;
 var shoulderLength=document.getElementById('shoulderLengthSlider').value*scale;
 var waist=document.getElementById('waistSlider').value*scale;
 var yoffset=document.getElementById('yoffsetSlider').value*scale;
-addPoint("A1",7.9 *scale,14.5 *scale)
+addPoint("A1",10*scale,14.5 *scale);
 rightPoint("B1","A1",backWidth+0.5 *scale);
 downPoint("C1","A1",backLength+1.0 *scale);
 angleAngleIntersectionPoint("D1","C1",0.0,"B1",-90.0)
