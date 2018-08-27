@@ -5,7 +5,7 @@ comments: true
 ---
 
 I've been busy looking at an old issue of La Mode Illustree, breaking in a old graphics tablet, and writing up some translations.
-My latest toy is an GD series Wacom Intuos-- it's 12 inche by 12 inchs, which is just large enough to preserve the angular 
+My latest toy is an GD series Wacom Intuos-- it's 12 inches by 12 inches, which is just large enough to preserve the angular 
 relations found in a typical pattern-- too small, and it requires far too much "tiling". Too large, and it starts to get 
 horrifically expensive. Unfortutunately, both Pattern Master and Dratsight don't seem to be set up to input a "sketch." Technically, if 
 I rapidly tap the stylus against the tablet, I can get a series of dots-- or connected lines, but it's a long way from just
