@@ -13,7 +13,7 @@ or ЦОТШЛ for short. It seems realatiely straightforward.
 I figure it's worth my while to code up a few examples, and see if java script can handle the cyrillic. I've got a manual of soviet lingerie that needs encoding. In the meantime, here's a horribly basic dress pattern-- without even a bit of waist shaping,
 
 I'm still trying to figure out how to retranslate it into english-- it was easier to just encode the russian original, without translation. 
-[dynamic version of the pattern](/patterns/CESL/dress.html)
+[click here for a dynamic version of the pattern](/patterns/CESL/dress.html)
 
 
 
