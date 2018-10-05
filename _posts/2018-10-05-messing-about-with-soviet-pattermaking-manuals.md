@@ -10,12 +10,11 @@ english sequestered behind paywalls and hefy licensing fees.
 In the 1960s and 1970s, the standard drafting method was Центральной опытнотехнической швейной лабораторией, (Central Experimental Sewing Laboratory)
 or ЦОТШЛ for short. It seems realatiely straightforward.
 
-I figure it's worth my while to code up a few examples, and see if java script can handle the cyrillic. I've got a manual of soviet lingerie that needs encoding.
+I figure it's worth my while to code up a few examples, and see if java script can handle the cyrillic. I've got a manual of soviet lingerie that needs encoding. In the meantime, here's a horribly basic dress pattern-- without even a bit of waist shaping,
 
-
-here goes
-
+I'm still trying to figure out how to retranslate it into english-- it was easier to just encode the russian original, without translation. 
 [dynamic version of the pattern](/patterns/CESL/dress.html)
+
 
 
 
