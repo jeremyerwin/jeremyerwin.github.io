@@ -155,7 +155,7 @@ function directionPoint(name, aName, degrees, distance)
     var documentScale=setDocumentScale();
     var a=getPoint(aName);
     var theta=radians(degrees);
-    points.set(name, {x:a.x+Math.cos(theta)*distance, y:a.y+Math.sin(theta)*distance, description: "Measure out " + distance/documentScale + " along a " + degrees + " angle and mark a point" });
+    points.set(name, {x:a.x+Math.cos(theta)*distance, y:a.y+Math.sin(theta)*distance, description: "Measure out " + distance/documentScale + " along a " + degrees + " angle from point" + aName +  "and mark a point" });
 }
 
 function perpendicularPoint(name, aName,bName, distance)
