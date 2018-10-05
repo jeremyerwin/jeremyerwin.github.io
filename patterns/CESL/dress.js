@@ -42,7 +42,7 @@ downPoint("В1","В",8.0 *scale);
 circleCircleIntersectionPoint("В3","В1",distance("В","В1"),"В",2.0 *scale,false);
 teeIntersectionPoint("П1","а",-90.0,"П","В3")
 alongPoint("У","А0","Т",distance("А0","Т")*0.4);
-intersectionPoint("Г2","а","П2","Г","Г1")
+teeIntersectionPoint("Г2","а",90.0,"Г","Г1")
 teeIntersectionPoint("Г3","а2",-90.0,"Г","Г1")
 midPoint("Г4","Г2","Г3")
 alongPoint("П2","Г2","П1",distance("Г2","П1")/3.0+2.0 *scale);
@@ -108,4 +108,3 @@ wireUpControl(document,'Шг');
 wireUpControl(document,'Шп');
 wireUpControl(document,'Шс');
 wireUpDistance(document);
- 
