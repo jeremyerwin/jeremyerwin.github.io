@@ -49,7 +49,7 @@ alongPoint("П2","Г2","П1",distance("Г2","П1")/3.0+2.0 *scale);
 directionPoint("Г2а","Г2",45.0,distance("Г2","Г3")/5.0+0.5 *scale);
 directionPoint("Г3а","Г3",135.0,distance("Г2","Г3")/5.0+0.5 *scale);
 alongPoint("Г6","Г2","Г3",distance("Г3","Г2")/3.0);
-intersectionPoint("Б2","Г6","Т2","Б","Б1")
+teeIntersectionPoint("Б2","Г6",90.0,"Б","Б1")
 teeIntersectionPoint("Т2","Т",0.0,"Г6","Б2")
 intersectionPoint("Н2","Г6","Б2","Н","Н1")
 angleAngleIntersectionPoint("Т1","Т",0.0,"а1",-90.0)
@@ -108,4 +108,3 @@ wireUpControl(document,'Шг');
 wireUpControl(document,'Шп');
 wireUpControl(document,'Шс');
 wireUpDistance(document);
-
