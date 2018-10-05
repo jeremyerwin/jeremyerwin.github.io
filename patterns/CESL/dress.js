@@ -108,3 +108,4 @@ wireUpControl(document,'Шг');
 wireUpControl(document,'Шп');
 wireUpControl(document,'Шс');
 wireUpDistance(document);
+ 
