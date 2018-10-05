@@ -55,7 +55,7 @@ intersectionPoint("Н2","Г6","Б2","Н","Н1")
 angleAngleIntersectionPoint("Т1","Т",0.0,"а1",-90.0)
 alongPoint("А3","Т1","а1",Дтп+Пдтп);
 alongPoint("А5","А3","Т1",distance("А","А0")+1.0 *scale);
-leftPoint("А4", "А3",distance("А","А0");
+leftPoint("А4", "А3",distance("А","А0"));
 alongPoint("Г7","Г1","Г",Цг);
 alongPoint("Г8","А4","Г7",Вг);
 circleCircleIntersectionPoint("А6","Г8",distance("Г8","А4"),"А4",2.0*(CгII-Сг1)+2.0 *scale,true);
