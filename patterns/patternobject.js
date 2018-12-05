@@ -14,7 +14,7 @@ function Pattern() {
 
 Pattern.prototype.make_file=function()
 {
-
+	this.lasfile=new Las();
     this.lasfile.initHeader();
     this.lasfile.render=true;
     makePattern();
