@@ -543,12 +543,13 @@ Pattern.prototype.displacedArc=function(aName, bName, displacement) {
     if(this.lasfile.render)
         {
         //note that the target format flips its y coordinates
-        if(this.lasfile.metric){
+        if(this.metric){
             this.lasfile.addArc(a.x/(this.scale*2.54), -a.y/(this.scale*2.54),through.x/(this.scale*2.54),-through.y/(this.scale*2.54),b.x/(this.scale*2.54),-b.y/(this.scale*2.54));
-
+			
         }
         else {
-            this.lasfile.addArc(a.x/(this.scale), -a.y/(this.scale),through.x/(this.scale),-through.y/(this.scale),b.x/(this.scale),-b.y/(this.scale));
+			this.lasfile.addArc(a.x/(this.scale), -a.y/(this.scale),through.x/(this.scale),-through.y/(this.scale),b.x/(this.scale),-b.y/(this.scale));
+			
         }
     }
 }
@@ -594,11 +595,13 @@ Pattern.prototype.printPoint2 = function(key) {
     if(this.lasfile.render)
     {
         //note that the target format flips its y coordinates
-        if(this.lasfile.metric){
-            this.lasfile.addText(value.x/(this.scale*2.54) ,-value.y/(this.scale*2.54), key, "Times New Roman", 0.4)
+        if(this.metric){
+			this.lasfile.addText(value.x/(this.scale*2.54) ,-value.y/(this.scale*2.54), key, "Times New Roman", 0.4)
+			console.log("using metric coordinates");
         }
         else {
-            this.lasfile.addText(value.x/(this.scale) ,-value.y/(this.scale), key, "Times New Roman", 0.4)
+			this.lasfile.addText(value.x/(this.scale) ,-value.y/(this.scale), key, "Times New Roman", 0.4)
+			console.log("using sae coordinates");
         }
     }
 
@@ -742,7 +745,7 @@ Pattern.prototype.line = function(aName, bName) {
     if(this.lasfile.render)
     {
         //note that the target format flips its y coordinates
-        if(this.lasfile.metric){
+        if(this.metric){
             this.lasfile.addLine(a.x/(this.scale*2.54), -a.y/(this.scale*2.54),b.x/(this.scale*2.54),-b.y/(this.scale*2.54));
 
         }
@@ -777,7 +780,7 @@ Pattern.prototype.displacedQuad = function(aName, bName, along, out) {
     if(this.lasfile.render)
     {
         //note that the target format flips its y coordinates
-        if(this.lasfile.metric){
+        if(this.metric){
             this.lasfile.addArc(a.x/(this.scale*2.54), -a.y/(this.scale*2.54),pc.x/(this.scale*2.54),-pc.y/(this.scale*2.54),b.x/(this.scale*2.54),-b.y/(this.scale*2.54));
 
         }
@@ -805,7 +808,7 @@ Pattern.prototype.fittedQuad=function(aName, bName, cName) {
     if(this.lasfile.render)
     {
         //note that the target format flips its y coordinates
-        if(this.lasfile.metric){
+        if(this.metric){
             this.lasfile.addArc(a.x/(this.scale*2.54), -a.y/(this.scale*2.54),pc.x/(this.scale*2.54),-pc.y/(this.scale*2.54),b.x/(this.scale*2.54),-b.y/(this.scale*2.54));
 
         }
