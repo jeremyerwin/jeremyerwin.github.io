@@ -6,7 +6,7 @@ var makePattern = function() {
     pat.paper.clear();
     scale=pat.scale;
 
-	pat.addPoint("Союз", 16.2 * scale, 9.6 * scale)
+	pat.addPoint("Ю. Э. Ошин", 16.2 * scale, 9.6 * scale)
 	pat.printPoints();
 	displaydistance(document);
 }
