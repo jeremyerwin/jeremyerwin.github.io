@@ -6,24 +6,24 @@
 </head>
 <body>
 <div class="sidebar">
-scale<input id="scaleSlider" type="range" min="1" max="100" value="15.0" step=".25"><input type="number" id="scaleText" min="1" max="100" value="15.0" step="0.25"><p>
-backLength<input id="backLengthSlider" type="range" min="18" max="55" value="37.0" step=".25"><input type="number" id="backLengthText" min="18" max="55" value="37.0" step="0.25"><p>
-backWidth<input id="backWidthSlider" type="range" min="8" max="24" value="16.0" step=".25"><input type="number" id="backWidthText" min="8" max="24" value="16.0" step="0.25"><p>
-bust<input id="bustSlider" type="range" min="24" max="72" value="48.0" step=".25"><input type="number" id="bustText" min="24" max="72" value="48.0" step="0.25"><p>
-chestWidth<input id="chestWidthSlider" type="range" min="9" max="27" value="18.0" step=".25"><input type="number" id="chestWidthText" min="9" max="27" value="18.0" step="0.25"><p>
-frontLength<input id="frontLengthSlider" type="range" min="18" max="54" value="36.0" step=".25"><input type="number" id="frontLengthText" min="18" max="54" value="36.0" step="0.25"><p>
-hipDepth<input id="hipDepthSlider" type="range" min="7" max="22" value="15.0" step=".25"><input type="number" id="hipDepthText" min="7" max="22" value="15.0" step="0.25"><p>
-hips<input id="hipsSlider" type="range" min="27" max="81" value="54.0" step=".25"><input type="number" id="hipsText" min="27" max="81" value="54.0" step="0.25"><p>
-pantaloonLength<input id="pantaloonLengthSlider" type="range" min="30" max="90" value="60.0" step=".25"><input type="number" id="pantaloonLengthText" min="30" max="90" value="60.0" step="0.25"><p>
-sideHeight<input id="sideHeightSlider" type="range" min="10" max="41" value="21.0" step=".25"><input type="number" id="sideHeightText" min="10" max="41" value="21.0" step="0.25"><p>
+scale<p><input id="scaleSlider" type="range" min="1" max="100" value="15.0" step=".25"><input type="number" id="scaleText" min="1" max="100" value="15.0" step="0.25"><p>
+backLength (Длина спины)<p> <input id="backLengthSlider" type="range" min="18" max="55" value="37.0" step=".25"><input type="number" id="backLengthText" min="18" max="55" value="37.0" step="0.25"></p>
+backWidth (Ширина спины)<p> <input id="backWidthSlider" type="range" min="8" max="24" value="16.0" step=".25"><input type="number" id="backWidthText" min="8" max="24" value="16.0" step="0.25"></p>
+bust (Круговой объем)<p><input id="bustSlider" type="range" min="24" max="72" value="48.0" step=".25"><input type="number" id="bustText" min="24" max="72" value="48.0" step="0.25"></p> 
+chestWidth (Ширина груди)<p><input id="chestWidthSlider" type="range" min="9" max="27" value="18.0" step=".25"><input type="number" id="chestWidthText" min="9" max="27" value="18.0" step="0.25"></p>
+frontLength (Длина переда)<p> <input id="frontLengthSlider" type="range" min="18" max="54" value="36.0" step=".25"><input type="number" id="frontLengthText" min="18" max="54" value="36.0" step="0.25"></p>
+hipDepth<p><input id="hipDepthSlider" type="range" min="7" max="22" value="15.0" step=".25"><input type="number" id="hipDepthText" min="7" max="22" value="15.0" step="0.25"></p>
+hips (Объем бедер)<p> <input id="hipsSlider" type="range" min="27" max="81" value="54.0" step=".25"><input type="number" id="hipsText" min="27" max="81" value="54.0" step="0.25"></p>
+pantaloonLength<p><input id="pantaloonLengthSlider" type="range" min="30" max="90" value="60.0" step=".25"><input type="number" id="pantaloonLengthText" min="30" max="90" value="60.0" step="0.25"></p>
+sideHeight(Высота бочка)<p><input id="sideHeightSlider" type="range" min="10" max="41" value="21.0" step=".25"><input type="number" id="sideHeightText" min="10" max="41" value="21.0" step="0.25"></p>
 
-waist<input id="waistSlider" type="range" min="15" max="45" value="30.0" step=".25"><input type="number" id="waistText" min="15" max="45" value="30.0" step="0.25"><p>
-
+waist (Oбъем талии)<p><input id="waistSlider" type="range" min="15" max="45" value="30.0" step=".25"><input type="number" id="waistText" min="15" max="45" value="30.0" step="0.25"></p>
 
 measurements in centimetres
-<p>
-<form>PointA<input id="pointA" type="text"><p> PointB<input id="pointB" type="text"><p> distance<input id="distanceField" type="number">
-<input type='button' onclick='make_download("oshinblock.las")' value="Download" />
+<p><form>PointA<input id="pointA" type="text"></p>
+<p> PointB<input id="pointB" type="text"></p>
+<p> distance<input id="distanceField" type="number">
+<p><input type='button' onclick='make_download("oshinblock.las")' value="Download" /></p>
 </form></div>
 
 
