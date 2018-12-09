@@ -14,7 +14,6 @@ var makePattern = function() {
 	var frontLength = document.getElementById('frontLengthSlider').value * scale;
 	var hipDepth = document.getElementById('hipDepthSlider').value * scale;
 	var hips = document.getElementById('hipsSlider').value * scale;
-	var pantaloonLength = document.getElementById('pantaloonLengthSlider').value * scale;
 	var waist = document.getElementById('waistSlider').value * scale;
 	var sideHeight= document.getElementById('sideHeightSlider').value * scale;
 	pat.addPoint("А", 16.2 * scale, 9.6 * scale); //A
@@ -57,9 +56,8 @@ wireUpControl(document, 'chestWidth');
 wireUpControl(document, 'frontLength');
 wireUpControl(document, 'hipDepth');
 wireUpControl(document, 'hips');
-wireUpControl(document, 'pantaloonLength');
-wireUpControl(document, 'sleeveLength');
-wireUpControl(document, 'sleeveWidth');
+
 wireUpControl(document, 'sideHeight');
+
 wireUpControl(document, 'waist');
 wireUpDistance(document);
