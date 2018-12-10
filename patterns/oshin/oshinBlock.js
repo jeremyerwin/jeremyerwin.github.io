@@ -20,14 +20,11 @@ var makePattern = function() {
 	pat.rightPoint("Б", "А", bust); //B
 	pat.downPoint("И", "Б", backLength); //C
 	pat.angleAngleIntersectionPoint("З", "А", -90.0, "И", 0.0); //D
-	
 	pat.downPoint("Л", "И", hipDepth); //E
 	pat.angleAngleIntersectionPoint("Ю", "А", -90.0, "Л", 0.0); //F
 	pat.upPoint("Ж", "И", sideHeight) //G
 	pat.angleAngleIntersectionPoint("Д", "А", -90.0, "Ж", 0.0); //H
-
 	pat.alongPoint("Г", "Б", "Ж", pat.distance("Б", "Ж") / 3.0); //J
-	
 	pat.angleAngleIntersectionPoint("В", "А", -90.0, "Г", 0.0); //K
 	pat.leftPoint("н", "Ж", backWidth); //L
 	pat.angleAngleIntersectionPoint("о", "н", -90.0, "Б", -180.0); //M
