@@ -4,6 +4,7 @@ date: 2018-12-26
 ---
 
 _This is too large to fit on the scanner, so no smart looking page image is available right now. Instead, I've OCRed it in pieces._
+
 From the 22 August 1896 issue _La Mode Pratique_
 
 La Mode
