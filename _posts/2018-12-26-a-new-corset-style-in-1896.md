@@ -1,15 +1,16 @@
 ---
 layout: post
-date: 2019-12-26
+date: 2018-12-26
 ---
 
+_This is too large to fit on the scanner, so no smart looking page image is available right now. Instead, I've OCRed it in pieces._
 From the 22 August 1896 issue _La Mode Pratique_
 
 La Mode
 
 LES CORSETS
 
-Depuis longtemps déjà on accuse le corset de causer tous nos maux. Les quelques médecins qui ont entrepris de nous le faire abandonner prennent leur mission tout à fait au sérieux et ne se lassent point, malgré le peu de succès de leurs efforts, d’énumérer ses méfaits ; pour ne négliger aucun moyen de conviction, ils s’adressent même à notre coquetterie, vantent les proportions des statues antiques, parlent ave-c une mine dédaigneuse des déformations que nous avons infligées à ce type de la Beauté : tout cela nous laisse insensibles, notre amour-propre n’en est pas atteint, et nous n’envions nullement la beauté grecque quand nous avons ce que l’on appelle en cette fin de siècle une jolie taille.
+Depuis longtemps déjà on accuse le corset de causer tous nos maux. Les quelques médecins qui ont entrepris de nous le faire abandonner prennent leur mission tout à fait au sérieux et ne se lassent point, malgré le peu de succès de leurs efforts, d’énumérer ses méfaits ; pour ne négliger aucun moyen de conviction, ils s’adressent même à notre coquetterie, vantent les proportions des statues antiques, parlent avec une mine dédaigneuse des déformations que nous avons infligées à ce type de la Beauté : tout cela nous laisse insensibles, notre amour-propre n’en est pas atteint, et nous n’envions nullement la beauté grecque quand nous avons ce que l’on appelle en cette fin de siècle une jolie taille.
 
 Terme vague dont la signification change plusieurs fois en vingt ans. Avez-vous remarqué qu’il y a une mode pour la taille comme pour les robes ou les chapeaux?
 
