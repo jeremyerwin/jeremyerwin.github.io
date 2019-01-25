@@ -30,11 +30,11 @@ pat.perpendicularPoint("p18","p11","p16",-(-1.5 *scale));
 pat.angleAngleIntersectionPoint("p19","p4",0.0,"p5",-90.0)
 pat.angleAngleIntersectionPoint("p20","p1",0.0,"p5",-90.0)
 pat.teeIntersectionPoint("p21","p9",-90.0,"p19","p4")
-pat.intersectionPoint("p21","p9","p21","p1","p20")
+pat.intersectionPoint("p21a","p9","p21","p1","p20")
 pat.teeIntersectionPoint("p22","p10",-90.0,"p4","p19")
-pat.intersectionPoint("p23","p10","p22","p21","p20")
+pat.intersectionPoint("p23","p10","p22","p21a","p20")
 pat.alongPoint("p24","p21","p4",1.5 *scale);
-pat.alongPoint("p25","p21","p1",2.0 *scale);
+pat.alongPoint("p25","p21a","p1",2.0 *scale);
 pat.alongPoint("p26","p22","p19",1.5 *scale);
 pat.alongPoint("p27","p23","p20",2.0 *scale);
 pat.leftPoint("p29","p20",(pat.distance("p25","p27")-hemWidth)/2.0);
