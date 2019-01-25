@@ -34,7 +34,7 @@ pat.intersectionPoint("p21a","p9","p21","p1","p20")
 pat.teeIntersectionPoint("p22","p10",-90.0,"p4","p19")
 pat.intersectionPoint("p23","p10","p22","p21","p20")
 pat.alongPoint("p24","p21","p4",1.5 *scale);
-pat.alongPoint("p25","p21","p1",2.0 *scale);
+pat.alongPoint("p25","p21a","p1",2.0 *scale);
 pat.alongPoint("p26","p22","p19",1.5 *scale);
 pat.alongPoint("p27","p23","p20",2.0 *scale);
 pat.leftPoint("p28","p20",hemWidth-pat.distance("p28","p27"));
