@@ -39,7 +39,7 @@ pat.alongPoint("p27","p23","p19",1.5 *scale);
 pat.alongPoint("p28","p24","p20",2.0 *scale);
 pat.leftPoint("p28","p20",(pat.distance("p25","p27")-hemWidth)/2.0);
 pat.rightPoint("p30","p20",(pat.distance("p25","p27")-hemWidth)/2.0);
-pat.perpendicularPoint("p31","p28","p19",-(-pat.distance("p19","p26")));
+pat.perpendicularPoint("p31","p28","p19",-(-pat.distance("p19","p27")));
 pat.perpendicularPoint("p32","p19","p31",-(-pat.distance("p19","p29")));
 pat.printPoints();
 //shapes.ImageShapenot supported at this point
