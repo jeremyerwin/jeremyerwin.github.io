@@ -29,7 +29,7 @@ pat.perpendicularPoint("p17","p11","p15",-(-1.0 *scale));
 pat.perpendicularPoint("p18","p11","p16",-(-1.5 *scale));
 pat.angleAngleIntersectionPoint("p19","p4",0.0,"p5",-90.0)
 pat.angleAngleIntersectionPoint("p20","p1",0.0,"p5",-90.0)
-pat.teeIntersectionPoint("p21","p9",-90.0,"p19","p4")
+pat.teeIntersectionPoint("p21","p9",90.0,"p19","p4")
 pat.intersectionPoint("p21","p9","p21","p1","p20")
 pat.teeIntersectionPoint("p22","p10",90,"p4","p19")
 pat.intersectionPoint("p23","p10","p22","p21","p20")
