@@ -17,8 +17,8 @@ midPoint("E","A","B")
 midPoint("F","C","D")
 alongPoint("G","A","C",distance("A","E"));
 displacementPoint("H","B",1.0 *scale,armholeLength/12.0);
-circleLineIntersectionPoint("S","D","F",forearmLength,-90.0);
-perpendicularPoint("Sa","D","S",(-33.4 *scale));
+circleLineIntersectionPoint("S","D","F",forearmLength,90.0);
+perpendicularPoint("Sa","D","S",(33.4 *scale));
 intersectionPoint("Sb","C","L","S","Sa")
 extendPoint("I","S","Sb",1.0 *scale);
 alongPoint("Cprime","G","Sb",distance("I","G")/2.0);
