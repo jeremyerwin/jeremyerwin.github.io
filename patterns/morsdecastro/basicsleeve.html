@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><title>sleeve</title>
+<link href="/css/pattern.css" rel="stylesheet">
+</head>
+<body>
+<div class="sidebar">
+Scale<input id="scaleSlider" type="range" min="1" max="100" value="15.0" step=".25"><input type="number" id="scaleText" min="1" max="100" value="15.0" step="0.25"><p>
+Armhole Diameter<input id="armHoleDiamSlider" type="range" min="5" max="17" value="11.5" step=".25"><input type="number" id="armHoleDiamText" min="5" max="17" value="11.5" step="0.25"><p>
+width at wrist<input id="hemWidthSlider" type="range" min="11" max="34" value="23.0" step=".25"><input type="number" id="hemWidthText" min="11" max="34" value="23.0" step="0.25"><p>
+height of sleeve headh<input id="sleeveHeadLengthSlider" type="range" min="7" max="23" value="15.5" step=".25"><input type="number" id="sleeveHeadLengthText" min="7" max="23" value="15.5" step="0.25"><p>
+sleeve length<input id="sleeveLengthSlider" type="range" min="30" max="90" value="60.0" step=".25"><input type="number" id="sleeveLengthText" min="30" max="90" value="60.0" step="0.25"><p>
+width of sleeve<input id="sleeveWidthSlider" type="range" min="8" max="24" value="16.5" step=".25"><input type="number" id="sleeveWidthText" min="8" max="24" value="16.5" step="0.25"><p>
+<form>PointA<input id="pointA" type="text"><p> PointB<input id="pointB" type="text"><p> distance<input id="distanceField" type="number"> </form>
+<p><input type='button' onclick='make_download("sleeve.las")' value="Download" /></p></div>
+<div class="maincontent" id="container"></div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>
+<script type="text/javascript" src="/patterns/patternobject.js"></script>
+<script type="text/javascript" src="/patterns/las.js"></script>
+<script type="text/javascript" src="sleeve.js "></script>
+</body>
+</html>
