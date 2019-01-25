@@ -30,16 +30,16 @@ pat.perpendicularPoint("p18","p11","p16",-(-1.5 *scale));
 pat.angleAngleIntersectionPoint("p19","p4",0.0,"p5",-90.0)
 pat.angleAngleIntersectionPoint("p20","p1",0.0,"p5",-90.0)
 pat.teeIntersectionPoint("p21","p9",-90.0,"p19","p4")
-pat.intersectionPoint("p22","p9","p21","p1","p20")
-pat.teeIntersectionPoint("p23","p10",-90.0,"p4","p19")
-pat.intersectionPoint("p24","p10","p23","p22","p20")
-pat.alongPoint("p25","p21","p4",1.5 *scale);
-pat.alongPoint("p26","p22","p1",2.0 *scale);
-pat.alongPoint("p27","p23","p19",1.5 *scale);
-pat.alongPoint("p28","p24","p20",2.0 *scale);
-pat.leftPoint("p28","p20",(pat.distance("p25","p27")-hemWidth)/2.0);
+pat.intersectionPoint("p21","p9","p21","p1","p20")
+pat.teeIntersectionPoint("p22","p10",-90.0,"p4","p19")
+pat.intersectionPoint("p23","p10","p22","p21","p20")
+pat.alongPoint("p24","p21","p4",1.5 *scale);
+pat.alongPoint("p25","p21","p1",2.0 *scale);
+pat.alongPoint("p26","p22","p19",1.5 *scale);
+pat.alongPoint("p27","p23","p20",2.0 *scale);
+pat.leftPoint("p29","p20",(pat.distance("p25","p27")-hemWidth)/2.0);
 pat.rightPoint("p30","p20",(pat.distance("p25","p27")-hemWidth)/2.0);
-pat.perpendicularPoint("p31","p28","p19",-(-pat.distance("p19","p27")));
+pat.perpendicularPoint("p31","p29","p19",-(-pat.distance("p19","p26")));
 pat.perpendicularPoint("p32","p19","p31",-(-pat.distance("p19","p29")));
 pat.printPoints();
 //shapes.ImageShapenot supported at this point
@@ -47,15 +47,15 @@ pat.fittedQuad("p6","p14","p13");
 pat.displacedQuad("p7","p9",pat.distance("p7","p9")/2.0,-(-0.6 *scale));
 pat.displacedQuad("p13","p7",pat.distance("p13","p7")/2.0,-(-0.3 *scale));
 pat.fittedQuad("p6","p11","p8");
-pat.line("p9","p25");
-pat.line("p25","p26");
-pat.line("p27","p10");
+pat.line("p9","p24");
+pat.line("p24","p25");
+pat.line("p26","p10");
 pat.line("p31","p19");
-pat.line("p19","p27");
+pat.line("p19","p26");
 pat.line("p31","p31");
 pat.line("p31","p32");
-pat.line("p32","p28");
-pat.line("p28","p26");
+pat.line("p32","p29");
+pat.line("p29","p25");
 pat.displacedQuad("p8","p17",pat.distance("p8","p17")/2.0,-(-0.2 *scale));
 pat.fittedQuad("p17","p18","p10");
 displaydistance(document);
