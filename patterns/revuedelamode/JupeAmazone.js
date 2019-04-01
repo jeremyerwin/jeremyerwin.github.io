@@ -13,7 +13,7 @@ pat.downPoint("C","B",120.0 *scale);
 pat.alongPoint("D","B","C",waist/4.0);
 pat.leftPoint("O","D",pat.distance("B","D")/3.0);
 pat.leftPoint("E","B",waist/2.0-2.0 *scale);
-pat.circleLSIntersectionPoint("F","O","B","C",sideLength);
+pat.circleLSIntersectionPoint("F","O","C","B",sideLength);
 pat.downPoint("F2","D",waist/4.0);
 pat.displacementPoint("T","F",-125.0 *scale,12.0 *scale);
 pat.perpendicularBisectorPoint("S","O","E",-4.0 *scale);
