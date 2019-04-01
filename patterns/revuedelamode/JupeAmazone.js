@@ -15,7 +15,7 @@ pat.leftPoint("O","D",pat.distance("B","D")/3.0);
 pat.leftPoint("E","B",waist/2.0-2.0 *scale);
 pat.circleLSIntersectionPoint("F","O","B","C",sideLength);
 pat.downPoint("F2","D",waist/4.0);
-pat.displacementPoint("T","F",-125.0 *scale,-12.0 *scale);
+pat.displacementPoint("T","F",-125.0 *scale,12.0 *scale);
 pat.perpendicularBisectorPoint("S","O","E",-4.0 *scale);
 pat.alongPoint("V","E","T",waistToKnee);
 pat.perpendicularPoint("V2","T","V",-(22.0 *scale));
