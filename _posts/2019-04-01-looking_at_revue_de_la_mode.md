@@ -4,7 +4,7 @@ date: 2019-04-01
 ---
 
 One of the resources at the Library of Congresss in the French fashion journal _Revue de La Mode_, published in the 1880s and 1890s. I found a
-dressmaking column by the name of Etude de Coupe. Witten by A Guerre and A Domange, it is similar in content to La Mode Pratiques Coupe et 
+dressmaking column by the name of Etude de Coupe. Witten by A Guerre and A Domange, it is similar in content to _La Mode Pratique's_ Coupe et 
 Assemblage.
 
 A series of these columns in 1893 covered equestrienne fashion-- though whether it was parctical or faddish (LMP mentions Albert de Druex's novels), I 
