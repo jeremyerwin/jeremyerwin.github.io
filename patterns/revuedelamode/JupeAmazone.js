@@ -33,7 +33,7 @@ pat.leftPoint("fO2","f7",4.0 *scale);
 pat.circleLSIntersectionPoint("fF","fO2","fC","fB",sideLength);
 pat.alongPoint("fU","fB","fF",waist/2.0+12.0 *scale);
 pat.leftPoint("fU2","fU",37.0 *scale);
-pat.circleLSIntersectionPoint("fZ","fE","fA","fB",15.0 *scale);
+pat.circleLSIntersectionPoint("fZ","fE","fB","fA",15.0 *scale);
 pat.displacementPoint("fZ2","fZ",-9.0 *scale,0.5 *scale);
 pat.perpendicularBisectorPoint("fZ3","fZ","fZ2",-20.0 *scale);
 pat.circleLineIntersectionPoint("fY","fZ2","fA",7 *scale,0.0);
