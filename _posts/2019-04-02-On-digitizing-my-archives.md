@@ -7,7 +7,7 @@ I've decied to get serious about digitizing my store of magazines. That means, t
 pges, I must discover a way of eficiently OCRing the scaans. I've got a Scansnap SV600. I've got Finereader Pro (12, for the mac), why won't this go any faster?
 
 Perhaps it's because Finereader Pro is good at reading contemporary typefaces printed on clean, white paper, and not reading old-fashioned type on yellowing paper. 
-I do remember using something called [ScanTailor](https://scantailor.org) to preprocess my scans. Trouble, is, it's rather slow-- and single threaded. No, what I need is a fork of scantailor that actually uses more than one core. [ScanTailor advanced?](https://github.com/4lex4/scantailor-advanced/releases) perhaps?
+I do remember using something called [ScanTailor](https://scantailor.org) to preprocess my scans. Trouble, is, it's rather slow-- and single threaded. No, what I need is a fork of scantailor that actually uses more than one core. [ScanTailor advanced](https://github.com/4lex4/scantailor-advanced/releases) perhaps?
 
 Trouble is, scantailor advanced doesn't have a mac binary, and cmake doesn't have enough hints to generate the necessary makefiles.
 
@@ -26,7 +26,7 @@ export Qt5OpenGL_DIR=/sw/lib/qt5-mac/lib/cmake/Qt5OpenGL
 cmake -DCMAKE_CXX_FLAGS="-std=c++11 -stdlib=libc++"   -H. -Bbuild
 ```
 
-Works for me. Installs into /usr/local/bin, launches on the comamnd line. Not as nice as a full fledged mac app.
+Works for me. Links with the fink ports of qt5, Installs into /usr/local/bin, launches on the comamnd line. Not as nice as a full fledged mac app.
 
 So, scantailor very efficiently turns those color jpegs into straightened, moochrome tiffs. And Finereader seems to read those fairly quickly. And once I have
 ocred pdfs of my magazines, Devonthink Pro can construct a database around the actual contents of the magazines.
