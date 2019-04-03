@@ -4,10 +4,10 @@ date: 2019-04-02
 ---
 
 I've decied to get serious about digitizing my store of magazines. That means, that not only must I scan in a thousand pages of my collection of antiue books and
-pges, I must discover a way of eficiently OCRing the scaans. I've got a Scansnap SV600. I've got Finereader Pro (12, for the mac), whay won't this go any faster?
+pges, I must discover a way of eficiently OCRing the scaans. I've got a Scansnap SV600. I've got Finereader Pro (12, for the mac), why won't this go any faster?
 
 Perhaps it's because Finereader Pro is good at reading contemporary typefaces printed on clean, white paper, and not reading old-fashioned type on yellowing paper. 
-I do remember using something called [ScanTailor](https://scantailor.org) to preprocess my scans. Trouble, is, it's rather slow-- and single threaded. No, what I need is a fork of scantailor that actually uses more than one core. {ScanTailor advanced?](https://github.com/4lex4/scantailor-advanced/releases) perhaps?
+I do remember using something called [ScanTailor](https://scantailor.org) to preprocess my scans. Trouble, is, it's rather slow-- and single threaded. No, what I need is a fork of scantailor that actually uses more than one core. [ScanTailor advanced?](https://github.com/4lex4/scantailor-advanced/releases) perhaps?
 
 Trouble is, scantailor advanced doesn't have a mac binary, and cmake doesn't have enough hints to generate the necessary makefiles.
 
