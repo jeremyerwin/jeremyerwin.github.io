@@ -26,7 +26,7 @@ export Qt5OpenGL_DIR=/sw/lib/qt5-mac/lib/cmake/Qt5OpenGL
 cmake -DCMAKE_CXX_FLAGS="-std=c++11 -stdlib=libc++"   -H. -Bbuild
 ```
 
-Works for me. Links with the fink ports of qt5, Installs into /usr/local/bin, launches on the comamnd line. Not as nice as a full fledged mac app.
+Works for me. Links with the fink ports of qt5, Installs into /usr/local/bin, launches on the command line. Not as nice as a full fledged mac app.
 
 So, scantailor very efficiently turns those color jpegs into straightened, moochrome tiffs. And Finereader seems to read those fairly quickly. And once I have
 ocred pdfs of my magazines, Devonthink Pro can construct a database around the actual contents of the magazines.
