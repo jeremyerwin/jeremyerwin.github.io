@@ -414,7 +414,7 @@ Pattern.prototype.circleLSIntersectionPoint = function(name, aName, bName, cName
 			}
 		}
 	} else {
-		var solution = pat.circleLineIntersection(a, b, c, radiusA);
+		var solution = this.circleLineIntersection(a, b, c, radiusA);
 
 	}
 
