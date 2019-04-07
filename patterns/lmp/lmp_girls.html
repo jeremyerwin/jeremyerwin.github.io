@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><title>lmpgirls</title>
+<link href="/css/pattern.css" rel="stylesheet">
+</head>
+<body>
+<div class="sidebar">
+Scale<input id="scaleSlider" type="range" min="1" max="100" value="15.0" step=".25"><input type="number" id="scaleText" min="1" max="100" value="15.0" step="0.25"><p>
+Longueur du dos<input id="backLengthSlider" type="range" min="14" max="42" value="28.0" step=".25"><input type="number" id="backLengthText" min="14" max="42" value="28.0" step="0.25"><p>
+Longueur du devant<input id="frontLengthSlider" type="range" min="15" max="45" value="30.0" step=".25"><input type="number" id="frontLengthText" min="15" max="45" value="30.0" step="0.25"><p>
+Demi­carrure<input id="halfBackWidthSlider" type="range" min="5" max="16" value="11.0" step=".25"><input type="number" id="halfBackWidthText" min="5" max="16" value="11.0" step="0.25"><p>
+Demi­contour de poitrine<input id="halfBustSlider" type="range" min="16" max="48" value="32.5" step=".25"><input type="number" id="halfBustText" min="16" max="48" value="32.5" step="0.25"><p>
+Demi­largeur du devant<input id="halfFrontWidthSlider" type="range" min="5" max="15" value="10.5" step=".25"><input type="number" id="halfFrontWidthText" min="5" max="15" value="10.5" step="0.25"><p>
+Demi­tour de taille<input id="halfwaistSlider" type="range" min="14" max="44" value="29.5" step=".25"><input type="number" id="halfwaistText" min="14" max="44" value="29.5" step="0.25"><p>
+Longueur de l'épaule<input id="shoulderLengthSlider" type="range" min="3" max="10" value="6.75" step=".25"><input type="number" id="shoulderLengthText" min="3" max="10" value="6.75" step="0.25"><p>
+Hauteur du dessous de bras<input id="underarmLengthSlider" type="range" min="6" max="19" value="13.0" step=".25"><input type="number" id="underarmLengthText" min="6" max="19" value="13.0" step="0.25"><p>
+<form>PointA<input id="pointA" type="text"><p> PointB<input id="pointB" type="text"><p> distance<input id="distanceField" type="number"> </form>
+<p><input type='button' onclick='make_download("lmpgirls.las")' value="Download" /></p></div>
+<div class="maincontent" id="container"></div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>
+<script type="text/javascript" src="/patterns/patternobject.js"></script>
+<script type="text/javascript" src="/patterns/las.js"></script>
+<script type="text/javascript" src="lmpgirls.js "></script>
+</body>
+</html>
