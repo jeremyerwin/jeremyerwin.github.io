@@ -36,7 +36,11 @@ pat.downPoint("H2","G2",pat.distance("B1","G1")/2.0);
 pat.alongPoint("I2","B2","D2a",halfBackWidth/5.0*4.0);
 pat.teeIntersectionPoint("J2","I2",-180.0,"A2","C2")
 pat.leftPoint("K2","I2",halfFrontWidth);
-pat.alongPoint("N2","A2","J2",halfBust/2.0-2.0 *scale);
+if(halfBust>36){
+    pat.alongPoint("N2","A2","J2",halfBust/2.0-2.0 *scale);
+}else{
+    pat.alongPoint("N2","A2","J2",halfBust/2.0);
+}
 pat.alongPoint("O2","N2","C2",underarmLength);
 pat.extendPoint("P2","D2a","O2",1.0 *scale);
 pat.teeIntersectionPoint("X2","N2",0.0,"E2","D2a")
