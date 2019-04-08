@@ -42,7 +42,7 @@ pat.extendPoint("P2","D2a","O2",1.0 *scale);
 pat.teeIntersectionPoint("X2","N2",0.0,"E2","D2a")
 pat.alongPoint("Z2","X1","D1",pat.distance("A2","N2")-pat.distance("B1","X1"));
 pat.teeIntersectionPoint("V2","Z2",-180.0,"A1","I1")
-pat.rightPoint(A3,X1,3*scale)
+pat.rightPoint("A3","X1",3*scale)
 pat.rightPoint("B3","A3",halfBust-(pat.distance("N2","X2")+pat.distance("V2","Z2"))+(pat.distance("A1","B1")-pat.distance("I1","J1")));
 pat.downPoint("C3","A3",pat.distance("X1","D1"));
 pat.angleAngleIntersectionPoint("D3","B3",-90.0,"C3",0.0)
