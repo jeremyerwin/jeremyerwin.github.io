@@ -41,6 +41,7 @@ pat.alongPoint("O2","N2","C2",underarmLength);
 pat.extendPoint("P2","D2a","O2",1.0 *scale);
 pat.displacementPoint("A3","B2",8.5 *scale,9.8 *scale);
 pat.rightPoint("B3","A3",halfBust-(pat.distance("N2","X2")+pat.distance("V2","Z2"))+(pat.distance("A1","B1")-pat.distance("I1","J1")));
+alert(pat.points["B3"])
 pat.downPoint("C3","A3",pat.distance("X1","D1"));
 pat.angleAngleIntersectionPoint("D3","B3",-90.0,"C3",0.0)
 pat.teeIntersectionPoint("X2","N2",0.0,"E2","D2a")
