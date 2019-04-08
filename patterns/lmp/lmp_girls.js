@@ -74,6 +74,7 @@ pat.fittedQuad("E2","I2","D2a");
 pat.displacedQuad("E3","C3",pat.distance("E3","C3")/2.0,-(1.0 *scale));
 pat.displacedQuad("E3","J3",pat.distance("E3","J3")/2.0,-(0.5 *scale));
 pat.displacedQuad("J3","N3",6.8 *scale,-(0.5 *scale));
+pat.line("C3","N3");
 displaydistance(document);
 }
 makePattern(true);
