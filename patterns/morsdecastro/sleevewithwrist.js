@@ -50,7 +50,7 @@ pat.line("p9","p24");
 pat.line("p24","p25");
 pat.line("p26","p10");
 pat.line("p19","p26");
-pat.line("p31","p31");
+//pat.line("p31","p31");
 pat.line("p29","p25");
 pat.displacedQuad("p8","p17",pat.distance("p8","p17")/2.0,-(-0.2 *scale));
 pat.fittedQuad("p17","p18","p10");
