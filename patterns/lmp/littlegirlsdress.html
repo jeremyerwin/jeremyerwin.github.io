@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><title>littlegirlsdress</title>
+<link href="/css/pattern.css" rel="stylesheet">
+</head>
+<body>
+<div class="sidebar">
+Scale<input id="scaleSlider" type="range" min="1" max="100" value="15.0" step=".25"><input type="number" id="scaleText" min="1" max="100" value="15.0" step="0.25"><p>
+longueur de dos<input id="backLengthSlider" type="range" min="12" max="38" value="25.5" step=".25"><input type="number" id="backLengthText" min="12" max="38" value="25.5" step="0.25"><p>
+demi carrure<input id="backWidthSlider" type="range" min="5" max="16" value="11.0" step=".25"><input type="number" id="backWidthText" min="5" max="16" value="11.0" step="0.25"><p>
+contour de poitrine<input id="bustSlider" type="range" min="27" max="81" value="54.0" step=".25"><input type="number" id="bustText" min="27" max="81" value="54.0" step="0.25"><p>
+longueur du devant<input id="frontLengthSlider" type="range" min="13" max="39" value="26.5" step=".25"><input type="number" id="frontLengthText" min="13" max="39" value="26.5" step="0.25"><p>
+demi largeur du devant<input id="frontWidthSlider" type="range" min="5" max="15" value="10.2" step=".25"><input type="number" id="frontWidthText" min="5" max="15" value="10.2" step="0.25"><p>
+longueur d'épaule<input id="shoulderLengthSlider" type="range" min="3" max="11" value="7.5" step=".25"><input type="number" id="shoulderLengthText" min="3" max="11" value="7.5" step="0.25"><p>
+<form>PointA<input id="pointA" type="text"><p> PointB<input id="pointB" type="text"><p> distance<input id="distanceField" type="number"> </form>
+<p><input type='button' onclick='make_download("littlegirlsdress.las")' value="Download" /></p></div>
+<div class="maincontent" id="container"></div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>
+<script type="text/javascript" src="/patterns/patternobject.js"></script>
+<script type="text/javascript" src="/patterns/las.js"></script>
+<script type="text/javascript" src="littlegirlsdress.js "></script>
+</body>
+</html>
