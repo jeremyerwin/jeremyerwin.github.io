@@ -755,58 +755,7 @@ Pattern.prototype.line = function(aName, bName) {
     }
 }
 
-Pattern.prototype.circleLineIntersection=function( a, b, c, radiusA)
-{
-    var documentScale=setDocumentScale();
-    //transform coordinates:
-    var p1= {x:a.x-b.x,y:a.y-b.y};
-    var p2={x:a.x-c.x, y:a.y-c.y};
 
-
-    var dx= p2.x-p1.x;
-    var dy=p2.x-p1.y;
-
-    var dr=Math.sqrt(dx*dx+dy*dy);
-
-    var D= p1.x*p2.y -p2.x*p1.y;
-
-    var term2= (radiusA*radiusA*dr*dr -D*D);
-
-
-    if(term2>=0)
-    {
-        console.log(radiusA);
-
-
-
-        var sol1={x: (-D*dy + dx*Math.sqrt(term2))/ (dr*dr)};
-        var sol2={x: (-D*dy - dx*Math.sqrt(term2))/ (dr*dr)};
-
-        sol1.y=Math.sqrt(radiusA*radiusA- sol1.x*sol1.x);
-        sol2.y=Math.sqrt(radiusA*radiusA- sol2.x*sol2.x);
-        console.log(sol1,sol2)
-
-        if(pointDist(p2,sol1) < pointDist(p2,sol2) )
-        {
-            var retval={x:a.x+sol1.x, y:a.y+sol1.y};
-            console.log("circle line intersection solution 1", retval);
-            return retval;
-        }
-        else
-        {
-            var retval={x:a.x+sol2.x, y:a.y+sol2.y};
-            console.log("circle line intersection solution 2", retval);
-            return retval;
-
-        }
-    }
-    else
-    {
-        var retval={x:-90, y:-90}
-        console.log("circle line intersection no solution", retval);
-        return retval;
-    }
-}
 Pattern.prototype.displacedQuad = function(aName, bName, along, out) {
 
 	var a = this.getPoint(aName);
