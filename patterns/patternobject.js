@@ -306,7 +306,7 @@ Pattern.prototype.circleCircleIntersectionPoint = function(name, aName, radiusA,
 	var a = this.getPoint(aName);
 	var b = this.getPoint(bName);
 
-	var dist = distance(aName, bName);
+	var dist = this.distance(aName, bName);
 	var deltaX = a.x - b.x;
 	var deltaY = a.y - b.y;
 
