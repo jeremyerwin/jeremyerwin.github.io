@@ -49,6 +49,7 @@ pat.displacedQuad("K","N",pat.distance("K","N")/2.0,-(-1.7 *scale));
 pat.line("La","N");
 pat.line("La","M");
 pat.line("E","M");
+pat.line("F","H");
 pat.line("rF","rG");
 pat.displacedQuad("rF","rE",pat.distance("rF","rE")/2.0,-(-0.3 *scale));
 pat.displacedQuad("rG","rK",pat.distance("rG","rK")/2.0,-(0.2 *scale));
@@ -56,6 +57,7 @@ pat.displacedQuad("rK","rN",pat.distance("rK","rN")/2.0,-(1.2 *scale));
 pat.line("rE","rL");
 pat.line("rL","rMa");
 pat.line("rN","rMa");
+
 displaydistance(document);
 }
 makePattern(true);
