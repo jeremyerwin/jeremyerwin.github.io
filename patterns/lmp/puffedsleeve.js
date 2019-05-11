@@ -15,9 +15,10 @@ pat.extendPoint("L","A","C",forearmLength);
 pat.angleAngleIntersectionPoint("M","L",0.0,"B",-90.0)
 pat.midPoint("E","A","B")
 pat.midPoint("F","C","D")
+pat.midPoint("F2","L","M")
 pat.alongPoint("G","A","C",pat.distance("A","E"));
 pat.displacementPoint("H","B",1.0 *scale,armholeLength/12.0);
-pat.circleLineIntersectionPoint("S","D","F",forearmLength,-90.0);
+pat.circleLSIntersectionPoint("S","D","F","F2", forearmLength);
 pat.perpendicularPoint("Sa","D","S",-(-33.4 *scale));
 pat.intersectionPoint("Sb","C","L","S","Sa")
 pat.extendPoint("I","S","Sb",1.0 *scale);
