@@ -357,7 +357,7 @@ Pattern.prototype.circleLineIntersectionPoint = function(name, aName, bName, rad
 			console.log("solution two");
 		}
 	} else {
-		solution = circleLineIntersection(a, b, c, radiusA);
+		solution = this.circleLineIntersection(a, b, c, radiusA);
 	}
 	this.points.set(name, {
 		x: solution.x,
