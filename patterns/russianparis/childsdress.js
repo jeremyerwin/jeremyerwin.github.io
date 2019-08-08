@@ -12,7 +12,7 @@ var frontLength=document.getElementById('frontLengthSlider').value*scale;
 var mainMeasure=document.getElementById('mainMeasureSlider').value*scale;
 var sideHeight=document.getElementById('sideHeightSlider').value*scale;
 var waist=document.getElementById('waistSlider').value*scale;
-pat.addPoint("А",46.1 *scale,11.7 *scale)
+pat.addPoint("А",10 *scale,10 *scale)
 pat.displacementPoint("К","А",1.0 *scale,backLength);
 pat.downPoint("Б","А",backLength+10.0 *scale);
 pat.displacementPoint("Д","К",-1.0 *scale,-sideHeight-mainMeasure/8.0);
@@ -51,7 +51,7 @@ pat.rightPoint("Ш2","Т2",mainMeasure/16.0);
 pat.downPoint("У2","Л2",mainMeasure/16.0);
 pat.alongPoint("М2","У2","Ч2",pat.distance("М","И"));
 pat.displacementPoint("Э2","М2",-3.0 *scale,10.0 *scale);
-pat.circleLineIntersectionPoint("p40a","М2","Э2",pat.distance("И","p12"),-90.0);
+pat.circleLineIntersectionPoint("p40a","М2","Э2",pat.distance("И","p12"),270);
 pat.alongPoint("p39","Н2","Х2",dressLength);
 pat.midPoint("е2","а2","б2")
 pat.extendPoint("p41","Ш2","е2",pat.distance("И","p12"));
