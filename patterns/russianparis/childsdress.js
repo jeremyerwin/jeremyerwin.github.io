@@ -51,10 +51,10 @@ pat.rightPoint("Ш2","Т2",mainMeasure/16.0);
 pat.downPoint("У2","Л2",mainMeasure/16.0);
 pat.alongPoint("М2","У2","Ч2",pat.distance("М","И"));
 pat.displacementPoint("Э2","М2",-3.0 *scale,10.0 *scale);
-pat.circleLineIntersectionPoint("p40a","Р2","Э2",dressLength,-90.0);
+pat.circleLineIntersectionPoint("p40a","М2","Э2",pat.distance("И","p12"),-90.0);
 pat.alongPoint("p39","Н2","Х2",dressLength);
 pat.midPoint("е2","а2","б2")
-pat.circleLSIntersectionPoint("p41","Н2","Ш2","е2",dressLength);
+pat.extendPoint("p41","Ш2","е2",pat.distance("И","p12"));
 pat.printPoints();
 //shapes.ImageShapenot supported at this point
 //shapes.ImageShapenot supported at this point
@@ -81,6 +81,8 @@ pat.fittedQuad("М2","Э2","p40a");
 pat.line("Б","p11");
 pat.line("Л","p12");
 pat.displacedQuad("Р2","С2",pat.distance("Р2","С2")/2.0,-(2.0 *scale));
+pat.line("а2","p41");
+pat.line("p41","б2");
 displaydistance(document);
 }
 makePattern(true);
