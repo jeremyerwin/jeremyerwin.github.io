@@ -12,6 +12,7 @@ pat.rightPoint("B","A",armholeLength/2.0);
 pat.downPoint("C","A",armholeLength/12.0+elbowLength);
 pat.angleAngleIntersectionPoint("D","C",0.0,"B",-90.0)
 pat.extendPoint("L","A","C",forearmLength);
+pat.angleAngleIntersectionPoint("M","L",0.0,"B",-90.0)
 pat.midPoint("E","A","B")
 pat.midPoint("F","C","D")
 pat.midPoint("F2","L","M")
