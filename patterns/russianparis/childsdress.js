@@ -51,7 +51,7 @@ pat.rightPoint("Ш2","Т2",mainMeasure/16.0);
 pat.downPoint("У2","Л2",mainMeasure/16.0);
 pat.alongPoint("М2","У2","Ч2",pat.distance("М","И"));
 pat.displacementPoint("Э2","М2",-3.0 *scale,10.0 *scale);
-pat.circleLineIntersectionPoint("p40a","М2","Э2",pat.distance("И","p12"),45);
+pat.circleLineIntersectionPoint("p40a","М2","Э2",pat.distance("И","p12"),90);
 //pat.circleLineIntersectionPoint("p40a","Н2","Э2",dressLength,90); //fix me
 pat.alongPoint("p39","Н2","Х2",dressLength);
 pat.midPoint("е2","а2","б2")
