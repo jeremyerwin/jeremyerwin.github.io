@@ -68,7 +68,7 @@ pat.line("К","Б");
 pat.line("И","Л");
 pat.displacedQuad("С2","Р2",pat.distance("С2","Р")/2.0,-(-1. *scale));
 pat.line("Р2","П2");
-pat.displacedQuad("П2","И2",pat.distance("Н2","И2")/2.0,-(-0.3 *scale));
+pat.displacedQuad("П2","И2",pat.distance("П2","И2")/2.0,-(-0.3 *scale));
 pat.displacedQuad("И2","Т2",pat.distance("И2","Т2")/2.0,-(-1.0 *scale));
 pat.displacedQuad("Т2","У2",pat.distance("Т2","У2")/2.0,-(-0.5 *scale));
 pat.line("У2","М2");
@@ -80,6 +80,7 @@ pat.line("p39","С2");
 pat.fittedQuad("М2","Э2","p40a");
 pat.line("Б","p11");
 pat.line("Л","p12");
+pat.displacedQuad("Р2","С2",pat.distance("Р2","С2")/2.0,-(2.0 *scale));
 displaydistance(document);
 }
 makePattern(true);
