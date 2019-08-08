@@ -78,6 +78,8 @@ pat.line("Ш2","б2");
 pat.fittedQuad("p40a","p41","p39");
 pat.line("p39","С2");
 pat.fittedQuad("М2","Э2","p40a");
+pat.line("К","p11");
+pat.line("И","p12");
 displaydistance(document);
 }
 makePattern(true);
