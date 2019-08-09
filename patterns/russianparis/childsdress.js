@@ -58,7 +58,7 @@ var makePattern = function () {
     pat.circleLSIntersectionPoint("p40a", "М2", "Э2", "Э2a", pat.distance("И", "p12"));
 
 
-    pat.circleLineIntersectionPoint("ptest2","М2","Э2",pat.distance("И", "p12"),90); //fix me
+    //pat.circleLineIntersectionPoint("ptest2","М2","Э2",pat.distance("И", "p12"),90); //fix me
     pat.alongPoint("p39", "Н2", "Х2", dressLength);
     pat.midPoint("е2", "а2", "б2")
     pat.extendPoint("p41", "Ш2", "е2", pat.distance("И", "p12"));
