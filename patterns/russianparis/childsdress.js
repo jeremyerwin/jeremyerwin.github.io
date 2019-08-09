@@ -12,7 +12,7 @@ var makePattern = function () {
     var mainMeasure = document.getElementById('mainMeasureSlider').value * scale;
     var sideHeight = document.getElementById('sideHeightSlider').value * scale;
     var waist = document.getElementById('waistSlider').value * scale;
-    pat.addPoint("А", 1 * scale, 1 * scale)
+    pat.addPoint("А", 3 * scale, 1 * scale)
     pat.displacementPoint("К", "А", 1.0 * scale, backLength);
     pat.downPoint("Б", "А", backLength + 10.0 * scale);
     pat.displacementPoint("Д", "К", -1.0 * scale, -sideHeight - mainMeasure / 8.0);
@@ -25,7 +25,7 @@ var makePattern = function () {
     pat.displacementPoint("Л", "И", 2.0 * scale, 10.0 * scale);
     pat.alongPoint("p11", "К", "Б", dressLength - backLength);
     pat.alongPoint("p12", "И", "Л", dressLength - backLength);
-    pat.addPoint("А2", 45 * scale, 16.5 * scale)
+    pat.addPoint("А2", 45 * scale, 1 * scale)
     pat.downPoint("Б2", "А2", frontLength);
     pat.downPoint("В2", "А2", mainMeasure / 8.0);
     pat.downPoint("Г2", "В2", mainMeasure / 8.0);
