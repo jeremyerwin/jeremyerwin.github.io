@@ -60,7 +60,7 @@ pat.alongPoint("д3","у3","И2",1.0 *scale);
 pat.leftPoint("f4","д3",4.0 *scale);
 pat.leftPoint("е3","f4",5.0 *scale);
 pat.midPoint("щ3","е3","f4")
-pat.alongPoint("f16","ш3","В2",16.0 *scale);
+pat.alongPoint("f16","щ3","В2",16.0 *scale);
 pat.leftPoint("f2","е3",2.0 *scale);
 pat.leftPoint("х3","f2",pat.distance("е3","f4")*1.5);
 pat.midPoint("ш3","х3","f2")
