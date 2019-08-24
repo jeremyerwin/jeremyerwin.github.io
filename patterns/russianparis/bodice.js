@@ -8,7 +8,7 @@ var backLength=document.getElementById('backLengthSlider').value*scale;
 var mainMeasure=document.getElementById('mainMeasureSlider').value*scale;
 var sideHeight=document.getElementById('sideHeightSlider').value*scale;
 var waist=document.getElementById('waistSlider').value*scale;
-pat.addPoint("А",33.8 *scale,20.0 *scale)
+pat.addPoint("А",10 *scale,10.0 *scale)
 pat.downPoint("p41","А",41.0 *scale);
 pat.upPoint("p23","p41",23.0 *scale);
 pat.upPoint("Б","p23",mainMeasure/8.0);
