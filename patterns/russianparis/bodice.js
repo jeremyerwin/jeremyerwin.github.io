@@ -59,7 +59,7 @@ pat.intersectionPoint("у3","М2","f43","И2","f32")
 pat.alongPoint("д3","у3","И2",1.0 *scale);
 pat.leftPoint("f4","д3",4.0 *scale);
 pat.leftPoint("е3","f4",5.0 *scale);
-pat.midPoint("ш3","е3","f4")
+pat.midPoint("щ3","е3","f4")
 pat.alongPoint("f16","ш3","В2",16.0 *scale);
 pat.leftPoint("f2","е3",2.0 *scale);
 pat.leftPoint("х3","f2",pat.distance("е3","f4")*1.5);
@@ -70,7 +70,7 @@ pat.downPoint("ц3","к3",2.0 *scale);
 pat.upPoint("Ч3","М2",mainMeasure/16.0);
 pat.alongPoint("f9","ц3","Ч3",9.0 *scale);
 pat.angleAngleIntersectionPoint("н2","Р2",0.0,"М2",90.0)
-pat.extendPoint("Ѳ3","f16","ш3",10.0 *scale);
+pat.extendPoint("Ѳ3","f16","щ3",10.0 *scale);
 pat.rightPoint("к3","Ѳ3",2.5 *scale);
 pat.leftPoint("л3","Ѳ3",2.5 *scale);
 pat.leftPoint("м3","л3",2.0 *scale);
