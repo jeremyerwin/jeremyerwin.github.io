@@ -135,6 +135,7 @@ pat.displacedQuad("f16","f79",pat.distance("f16","f79")/2.0,-(-0.4 *scale));
 pat.displacedQuad("f16","p80",pat.distance("f16","p80")/2.0,-(0.5 *scale));
 pat.displacedQuad("p80","f4",pat.distance("p80","f4")/2.0,-(-0.5 *scale));
 pat.fittedQuad("p16","О","М");
+pat.displacedQuad("pЫ2","f9",pat.distance("Ы2","f9")/2.0,-(-1.0 *scale));
 displaydistance(document);
 }
 makePattern(true);
