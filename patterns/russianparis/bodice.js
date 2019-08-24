@@ -8,7 +8,7 @@ var backLength=document.getElementById('backLengthSlider').value*scale;
 var mainMeasure=document.getElementById('mainMeasureSlider').value*scale;
 var sideHeight=document.getElementById('sideHeightSlider').value*scale;
 var waist=document.getElementById('waistSlider').value*scale;
-pat.addPoint("А",10 *scale,10.0 *scale)
+pat.addPoint("А",13.8 *scale,20.0 *scale)
 pat.downPoint("p41","А",41.0 *scale);
 pat.upPoint("p23","p41",23.0 *scale);
 pat.upPoint("Б","p23",mainMeasure/8.0);
@@ -53,24 +53,24 @@ pat.downPoint("Ы2","К2",mainMeasure/16.0);
 pat.leftPoint("Л2","К2",mainMeasure/8.0);
 pat.angleAngleIntersectionPoint("М2","f43",-180.0,"К2",-90.0)
 pat.leftPoint("П2","М2",7.0 *scale);
-pat.rightPoint("p32"," f23",(mainMeasure-10.0 *scale)/3.0);
-pat.leftPoint("Р2","p32",mainMeasure/3.0*2.0+0.5 *scale);
-pat.intersectionPoint("у3","М2","f43","И2","p32")
+pat.rightPoint("f32"," f23",(mainMeasure-10.0 *scale)/3.0);
+pat.leftPoint("Р2","f32",mainMeasure/3.0*2.0+0.5 *scale);
+pat.intersectionPoint("у3","М2","f43","И2","f32")
 pat.alongPoint("д3","у3","И2",1.0 *scale);
-pat.leftPoint("p4","д3",4.0 *scale);
-pat.leftPoint("е3","p4",5.0 *scale);
-pat.midPoint("ш3","е3","p4")
-pat.alongPoint("p16","ш3","В2",16.0 *scale);
-pat.leftPoint("p2","е3",2.0 *scale);
-pat.leftPoint("х3","p2",pat.distance("е3","p4")*1.5);
-pat.midPoint("ш3","х3","p2")
-pat.circleCircleIntersectionPoint("ф3","p16",6.5 *scale,"ш3",16.0 *scale,false);
+pat.leftPoint("f4","д3",4.0 *scale);
+pat.leftPoint("е3","f4",5.0 *scale);
+pat.midPoint("ш3","е3","f4")
+pat.alongPoint("f16","ш3","В2",16.0 *scale);
+pat.leftPoint("f2","е3",2.0 *scale);
+pat.leftPoint("х3","f2",pat.distance("е3","f4")*1.5);
+pat.midPoint("ш3","х3","f2")
+pat.circleCircleIntersectionPoint("ф3","f16",6.5 *scale,"ш3",16.0 *scale,false);
 pat.downPoint("к3","х3",1.5 *scale);
 pat.downPoint("ц3","к3",2.0 *scale);
 pat.upPoint("Ч3","М2",mainMeasure/16.0);
-pat.alongPoint("p9","ц3","Ч3",9.0 *scale);
+pat.alongPoint("f9","ц3","Ч3",9.0 *scale);
 pat.angleAngleIntersectionPoint("н2","Р2",0.0,"М2",90.0)
-pat.extendPoint("Ѳ3","p16","ш3",10.0 *scale);
+pat.extendPoint("Ѳ3","f16","ш3",10.0 *scale);
 pat.rightPoint("к3","Ѳ3",2.5 *scale);
 pat.leftPoint("л3","Ѳ3",2.5 *scale);
 pat.leftPoint("м3","л3",2.0 *scale);
@@ -78,18 +78,17 @@ pat.leftPoint("н3","м3",7.5 *scale);
 pat.alongPoint("С2","Л2","н2",2.5 *scale);
 pat.alongPoint("т3","Р2","С2",1.5 *scale);
 pat.displacementPoint("о3","П2",-3.0 *scale,10.0 *scale);
-pat.displacementPoint("р3","p9",-3.0 *scale,10.0 *scale);
-pat.extendPoint("p72","p32","у3",11.0 *scale);
-pat.alongPoint("p73","П2","о3",4.1 *scale);
-
+pat.displacementPoint("р3","f9",-3.0 *scale,10.0 *scale);
+pat.extendPoint("f72","f32","у3",11.0 *scale);
+pat.alongPoint("f73","П2","о3",4.1 *scale);
+pat.alongPoint("f75","f9","р3",3.5 *scale);
 pat.leftPoint("О2","М2",1.0 *scale);
 pat.displacementPoint("м3","О2",3.0 *scale,10.0 *scale);
-pat.alongPoint("p75","p9","р3",3.5 *scale);
-pat.alongPoint("p76a","О2","м3",3.0 *scale);
-pat.midPoint("p77","ф3","х3")
-pat.midPoint("p78","ф3","p2")
-pat.midPoint("p79","p16","е3")
-pat.midPoint("p80","p16","p4")
+pat.alongPoint("f76","О2","м3",3.0 *scale);
+pat.midPoint("f77","ф3","х3")
+pat.midPoint("f78","ф3","f2")
+pat.midPoint("f79","f16","е3")
+pat.midPoint("p80","f16","f4")
 pat.printPoints();
 //shapes.ImageShapenot supported at this point
 //shapes.ImageShapenot supported at this point
@@ -105,35 +104,35 @@ pat.line("И","p23a");
 pat.displacedQuad("p27","p23a",pat.distance("p27","p23a")/2.0,-(-0.3 *scale));
 pat.line("p27","Г");
 pat.line("И2","у3");
-pat.displacedQuad("Ы2","p9",pat.distance("Ы2","p9")/2.0,-(-0.9 *scale));
+pat.displacedQuad("Ы2","f9",pat.distance("Ы2","p9")/2.0,-(-0.9 *scale));
 pat.displacedQuad("Ж2","в2",pat.distance("Ж2","в2")/2.0,-(-1.0 *scale));
 pat.displacedQuad("в2","Ы2",pat.distance("в2","Ы2")/2.0,-(-2.0 *scale));
 pat.line("Е2","Ж2");
 pat.displacedQuad("Е2","И2",pat.distance("Е2","И2")/2.0,-(1.1 *scale));
-pat.line("p4","к3");
+pat.line("f4","к3");
 pat.line("л3","е3");
-pat.line("м3","p2");
+pat.line("м3","f2");
 pat.line("ц3","н3");
 pat.line("х3","ц3");
-pat.line("p72","у3");
-pat.line("p72","к3");
-pat.line("p75","н3");
-pat.line("p9","p75");
-pat.displacedQuad("p73","p76a",pat.distance("p73","p76a")/2.0,-(-0.1 *scale));
-pat.line("p73","П2");
+pat.line("f72","у3");
+pat.line("f72","к3");
+pat.line("f75","н3");
+pat.line("f9","f75");
+pat.displacedQuad("f73","f76",pat.distance("f73","f76")/2.0,-(-0.1 *scale));
+pat.line("f73","П2");
 pat.displacedQuad("т3","П2",12.4 *scale,-(1.0 *scale));
 pat.displacedQuad("н2","О2",pat.distance("н2","О2")/2.0,-(0.9 *scale));
 pat.displacedQuad("т3","н2",pat.distance("т3","н2")/2.0,-(0.4 *scale));
 pat.displacedQuad("p16","Р",3.4 *scale,-(0.6 *scale));
 pat.displacedQuad("Р","Л",pat.distance("Р","Л")/2.0,-(0.8 *scale));
-pat.displacedQuad("ф3","p77",pat.distance("ф3","p77")/2.0,-(-0.4 *scale));
-pat.displacedQuad("p77","х3",pat.distance("p77","х3")/2.0,-(0.4 *scale));
-pat.displacedQuad("ф3","p78",pat.distance("ф3","p78")/2.0,-(0.5 *scale));
-pat.displacedQuad("p78","p2",pat.distance("p78","p2")/2.0,-(-0.4 *scale));
-pat.displacedQuad("p79","е3",pat.distance("p79","е3")/2.0,-(0.5 *scale));
-pat.displacedQuad("p16","p79",pat.distance("p16","p79")/2.0,-(-0.4 *scale));
-pat.displacedQuad("p16","p80",pat.distance("p16","p80")/2.0,-(0.5 *scale));
-pat.displacedQuad("p80","p4",pat.distance("p80","p4")/2.0,-(-0.5 *scale));
+pat.displacedQuad("ф3","f77",pat.distance("ф3","f77")/2.0,-(-0.4 *scale));
+pat.displacedQuad("f77","х3",pat.distance("f77","х3")/2.0,-(0.2 *scale));
+pat.displacedQuad("ф3","f78",pat.distance("ф3","f78")/2.0,-(0.5 *scale));
+pat.displacedQuad("f78","f2",pat.distance("f78","f2")/2.0,-(-0.4 *scale));
+pat.displacedQuad("f79","е3",pat.distance("f79","е3")/2.0,-(0.5 *scale));
+pat.displacedQuad("f16","f79",pat.distance("f16","f79")/2.0,-(-0.4 *scale));
+pat.displacedQuad("f16","p80",pat.distance("f16","p80")/2.0,-(0.5 *scale));
+pat.displacedQuad("p80","f4",pat.distance("p80","f4")/2.0,-(-0.5 *scale));
 pat.fittedQuad("p16","О","М");
 displaydistance(document);
 }
