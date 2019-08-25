@@ -46,7 +46,7 @@ else if (waist>41*scale)
     backWaist=5*scale;
 }
 
-var panelWidth= ((waist)- 2*backWidth - 6*scale)/3;
+var panelWidth= ((waist)- 2*backWaist - 6*scale)/3;
 pat.addPoint("А",13.8 *scale,20.0 *scale)
 pat.downPoint("p41","А",backLength);
 pat.upPoint("p23","p41",sideHeight);
