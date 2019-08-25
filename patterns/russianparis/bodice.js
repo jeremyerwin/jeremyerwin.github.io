@@ -8,7 +8,7 @@ var backLength=document.getElementById('backLengthSlider').value*scale;
 var mainMeasure=document.getElementById('mainMeasureSlider').value*scale;
 var sideHeight=document.getElementById('sideHeightSlider').value*scale;
 var waist=document.getElementById('waistSlider').value*scale;
-var dartHeight=16;
+var dartHeight=(sideHeight-7*scale);
 var dartWidth=0;
 var backWaist=0;
 
@@ -33,15 +33,15 @@ else if (mainMeasure<60*scale)
     dartWidth=8*scale;
 }
 
-if(waist<30*scale)
+if(waist<31*scale)
 {
     backWaist=3*scale;
 }
-else if (waist<=40*scale)
+else if (waist<=41*scale)
 {
     backWaist=4*scale;
 }
-else if (waist>40*scale)
+else if (waist>41*scale)
 {
     backWaist=5*scale;
 }
