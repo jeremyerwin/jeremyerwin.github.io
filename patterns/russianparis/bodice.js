@@ -84,8 +84,8 @@ pat.extendPoint("f72","f32","у3",11.0 *scale);
 pat.alongPoint("f73","П2","о3",4.1 *scale);
 pat.alongPoint("f75","f9","р3",3.5 *scale);
 pat.leftPoint("О2","М2",1.0 *scale);
-pat.displacementPoint("м3","О2",3.0 *scale,10.0 *scale);
-pat.alongPoint("f76","О2","м3",3.0 *scale);
+pat.displacementPoint("п3","О2",3.0 *scale,10.0 *scale);
+pat.alongPoint("f76","О2","п3",3.0 *scale);
 pat.midPoint("f77","ф3","х3")
 pat.midPoint("f78","ф3","f2")
 pat.midPoint("f79","f16","е3")
