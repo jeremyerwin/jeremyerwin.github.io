@@ -52,7 +52,7 @@ pat.downPoint("p41","А",backLength);
 pat.upPoint("p23","p41",sideHeight);
 pat.upPoint("Б","p23",mainMeasure/8.0);
 pat.rightPoint("В","А",mainMeasure/16.0);
-pat.rightPoint("p16","Б",mainMeasure/3.0);
+pat.rightPoint("p16","Б",mainMeasure/3.0); 
 pat.leftPoint("Д","p16",mainMeasure/32.0);
 pat.upPoint("Ж","Д",mainMeasure/8.0);
 pat.rightPoint("Г","p41",2.0 *scale);
@@ -70,20 +70,20 @@ pat.downPoint("Х","М",10.0 *scale);
 pat.downPoint("Ч","Л",10.0 *scale);
 pat.rightPoint("p21","Ф",2.0 *scale);
 pat.leftPoint("p22","Х",2.0 *scale);
-pat.alongPoint("p23a","И","p21",5.3 *scale);
-pat.alongPoint("p24","М","p22",5.1 *scale);
+pat.alongPoint("p23a","И","p21",5.0 *scale);
+pat.alongPoint("p24","М","p22",5.0 *scale);
 pat.rightPoint("p25","Ч",2.0 *scale);
-pat.alongPoint("p26","Л","p25",4.4 *scale);
-pat.alongPoint("p27","Г","p10",7.8 *scale);
-pat.rightPoint("f43","Л",49.9 *scale);
-pat.upPoint("В2","f43",43.0 *scale);
+pat.alongPoint("p26","Л","p25",5.0 *scale);
+pat.alongPoint("p27","Г","p10",8.0 *scale);
+pat.rightPoint("f43","Л",50 *scale); //give room for drawing the front panel 
+pat.upPoint("В2","f43",48.0 *scale- mainMeasure/8.0); //front height? might be 48 c.
 pat.downPoint("Г2","В2",mainMeasure/8.0);
 pat.upPoint(" f23","f43",sideHeight);
 pat.upPoint("Б2"," f23",mainMeasure/8.0);
 pat.leftPoint("Д2","Г2",mainMeasure/4.0);
 pat.extendPoint("Е2","Д2","В2",mainMeasure/32.0);
 pat.alongPoint("Ж2","Е2","Д2",pat.distance("В","Ж"));
-pat.rightPoint("И2","Г2",1.5*mainMeasure/8.0+1.0 *scale);
+pat.rightPoint("И2","Г2",1.5*mainMeasure/8.0+1.0 *scale); //neck measurement-- the extra 1.0 aligns the pattern with the illustration, but probably misunderstood the source
 pat.leftPoint("б2","Б2",mainMeasure/8.0);
 pat.leftPoint("а2","б2",mainMeasure/16.0);
 pat.midPoint("в2","б2","а2")
@@ -130,10 +130,8 @@ pat.midPoint("f78","ф3","f2")
 pat.midPoint("f79","f16","е3")
 pat.midPoint("p80","f16","f4")
 pat.printPoints();
-//shapes.ImageShapenot supported at this point
-//shapes.ImageShapenot supported at this point
 pat.fittedQuad("Д","p2","И");
-pat.displacedQuad("Ж","Д",pat.distance("Ж","Д")/2.0,-(0.4 *scale));
+pat.displacedQuad("Ж","Д",pat.distance("Ж","Д")/2.0,-(0.5 *scale));
 pat.line("В","Ж");
 pat.displacedQuad("В","К",pat.distance("В","К")/2.0,-(-0.5 *scale));
 pat.line("К","Г");
@@ -144,11 +142,11 @@ pat.line("И","p23a");
 pat.displacedQuad("p27","p23a",pat.distance("p27","p23a")/2.0,-(-0.3 *scale));
 pat.line("p27","Г");
 pat.line("И2","у3");
-pat.displacedQuad("Ы2","f9",pat.distance("Ы2","p9")/2.0,-(-0.9 *scale));
+pat.displacedQuad("Ы2","f9",pat.distance("Ы2","p9")/2.0,-(-1.0 *scale));
 pat.displacedQuad("Ж2","в2",pat.distance("Ж2","в2")/2.0,-(-1.0 *scale));
 pat.displacedQuad("в2","Ы2",pat.distance("в2","Ы2")/2.0,-(-2.0 *scale));
 pat.line("Е2","Ж2");
-pat.displacedQuad("Е2","И2",pat.distance("Е2","И2")/2.0,-(1.1 *scale));
+pat.displacedQuad("Е2","И2",pat.distance("Е2","И2")/2.0,-(1.0 *scale));
 pat.line("f4","к3");
 pat.line("л3","е3");
 pat.line("м3","f2");
@@ -160,17 +158,17 @@ pat.line("f75","н3");
 pat.line("f9","f75");
 pat.displacedQuad("f73","f76",pat.distance("f73","f76")/2.0,-(-0.1 *scale));
 pat.line("f73","П2");
-pat.displacedQuad("т3","П2",12.4 *scale,-(1.0 *scale));
-pat.displacedQuad("н2","О2",pat.distance("н2","О2")/2.0,-(0.9 *scale));
-pat.displacedQuad("т3","н2",pat.distance("т3","н2")/2.0,-(0.4 *scale));
-pat.displacedQuad("p16","Р",3.4 *scale,-(0.6 *scale));
+pat.displacedQuad("т3","П2",pat.distance("т3","П2")/2.0 *scale,-(1.0 *scale));
+pat.displacedQuad("н2","О2",pat.distance("н2","О2")/2.0,-(1.0 *scale));
+pat.displacedQuad("т3","н2",pat.distance("т3","н2")/2.0,-(0.5 *scale));
+pat.displacedQuad("p16","Р",3.4 *scale,-(0.5 *scale));
 pat.displacedQuad("Р","Л",pat.distance("Р","Л")/2.0,-(0.8 *scale));
-pat.displacedQuad("ф3","f77",pat.distance("ф3","f77")/2.0,-(-0.4 *scale));
+pat.displacedQuad("ф3","f77",pat.distance("ф3","f77")/2.0,-(-0.5 *scale));
 pat.displacedQuad("f77","х3",pat.distance("f77","х3")/2.0,-(0.2 *scale));
 pat.displacedQuad("ф3","f78",pat.distance("ф3","f78")/2.0,-(0.5 *scale));
-pat.displacedQuad("f78","f2",pat.distance("f78","f2")/2.0,-(-0.4 *scale));
+pat.displacedQuad("f78","f2",pat.distance("f78","f2")/2.0,-(-0.5 *scale));
 pat.displacedQuad("f79","е3",pat.distance("f79","е3")/2.0,-(0.5 *scale));
-pat.displacedQuad("f16","f79",pat.distance("f16","f79")/2.0,-(-0.4 *scale));
+pat.displacedQuad("f16","f79",pat.distance("f16","f79")/2.0,-(-0.5 *scale));
 pat.displacedQuad("f16","p80",pat.distance("f16","p80")/2.0,-(0.5 *scale));
 pat.displacedQuad("p80","f4",pat.distance("p80","f4")/2.0,-(-0.5 *scale));
 pat.fittedQuad("p16","О","М");
