@@ -8,6 +8,30 @@ var backLength=document.getElementById('backLengthSlider').value*scale;
 var mainMeasure=document.getElementById('mainMeasureSlider').value*scale;
 var sideHeight=document.getElementById('sideHeightSlider').value*scale;
 var waist=document.getElementById('waistSlider').value*scale;
+var dartHeight=16;
+var dartWidth=0;
+
+if(mainMeasure<44*scale)
+{
+    dartWidth=4*scale;
+}
+else if (mainMeasure<48*scale)
+{
+    dartWidth=5*scale;
+}
+else if (mainMeasure<52*scale)
+{
+    dartWidth=6*scale;
+}
+else if (mainMeasure<56*scale)
+{
+    dartWidth=7*scale;
+}
+else if (mainMeasure<60*scale)
+{
+    dartwidth=8*scale;
+}
+
 pat.addPoint("А",13.8 *scale,20.0 *scale)
 pat.downPoint("p41","А",41.0 *scale);
 pat.upPoint("p23","p41",23.0 *scale);
@@ -58,12 +82,12 @@ pat.leftPoint("Р2","f32",mainMeasure/3.0*2.0+0.5 *scale);
 pat.intersectionPoint("у3","М2","f43","И2","f32")
 pat.alongPoint("д3","у3","И2",1.0 *scale);
 pat.leftPoint("f4","д3",4.0 *scale);
-pat.leftPoint("е3","f4",5.0 *scale);
+pat.leftPoint("е3","f4",dartwidth);
 pat.midPoint("щ3","е3","f4")
 
 pat.alongPoint("f16","щ3","В2",16.0 *scale);
 pat.leftPoint("f2","е3",2.0 *scale);
-pat.leftPoint("х3","f2",pat.distance("е3","f4")*1.5);
+pat.leftPoint("х3","f2",dartwidth*1.5);
 pat.midPoint("ш3","х3","f2")
 pat.circleCircleIntersectionPoint("ф3","f16",6.5 *scale,"ш3",16.0 *scale,false);
 pat.downPoint("к3","х3",1.5 *scale);
@@ -136,7 +160,7 @@ pat.displacedQuad("f16","p80",pat.distance("f16","p80")/2.0,-(0.5 *scale));
 pat.displacedQuad("p80","f4",pat.distance("p80","f4")/2.0,-(-0.5 *scale));
 pat.fittedQuad("p16","О","М");
 pat.displacedQuad("Ы2","f9",pat.distance("Ы2","f9")/2.0,-(-1.0 *scale));
-pat.line("O2",f76);
+pat.line("O2","f76");
 displaydistance(document);
 }
 makePattern(true);
