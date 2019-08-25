@@ -29,7 +29,7 @@ else if (mainMeasure<56*scale)
 }
 else if (mainMeasure<60*scale)
 {
-    dartwidth=8*scale;
+    dartWidth=8*scale;
 }
 
 pat.addPoint("А",13.8 *scale,20.0 *scale)
@@ -82,12 +82,12 @@ pat.leftPoint("Р2","f32",mainMeasure/3.0*2.0+0.5 *scale);
 pat.intersectionPoint("у3","М2","f43","И2","f32")
 pat.alongPoint("д3","у3","И2",1.0 *scale);
 pat.leftPoint("f4","д3",4.0 *scale);
-pat.leftPoint("е3","f4",dartwidth);
+pat.leftPoint("е3","f4",dartWidth);
 pat.midPoint("щ3","е3","f4")
 
 pat.alongPoint("f16","щ3","В2",16.0 *scale);
 pat.leftPoint("f2","е3",2.0 *scale);
-pat.leftPoint("х3","f2",dartwidth*1.5);
+pat.leftPoint("х3","f2",dartWidth*1.5);
 pat.midPoint("ш3","х3","f2")
 pat.circleCircleIntersectionPoint("ф3","f16",6.5 *scale,"ш3",16.0 *scale,false);
 pat.downPoint("к3","х3",1.5 *scale);
