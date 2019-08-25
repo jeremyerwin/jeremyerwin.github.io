@@ -46,7 +46,7 @@ else if (waist>41*scale)
     backWaist=5*scale;
 }
 
-
+var panelWidth= ((waist)- 2*backWidth - 6*scale)/3;
 pat.addPoint("А",13.8 *scale,20.0 *scale)
 pat.downPoint("p41","А",backLength);
 pat.upPoint("p23","p41",sideHeight);
@@ -61,7 +61,7 @@ pat.midPoint("О","Д","И")
 pat.perpendicularBisectorPoint("p2","Д","И",2.0 *scale);
 pat.displacementPoint("К","А",-1.0 *scale,1.0 *scale);
 pat.rightPoint("М","И",mainMeasure/16.0);
-pat.rightPoint("Л","М",mainMeasure/8.0);
+pat.rightPoint("Л","М",panelWidth);
 pat.downPoint("З","Д",mainMeasure/8.0);
 pat.rightPoint("Р","З",mainMeasure/16.0);
 pat.downPoint("p10","p41",10.0 *scale);
@@ -91,12 +91,12 @@ pat.leftPoint("К2","а2",mainMeasure/8.0);
 pat.downPoint("Ы2","К2",mainMeasure/16.0);
 pat.leftPoint("Л2","К2",mainMeasure/8.0);
 pat.angleAngleIntersectionPoint("М2","f43",-180.0,"К2",-90.0)
-pat.leftPoint("П2","М2",7.0 *scale);
+pat.leftPoint("П2","М2",panelWidth-1.0 *scale);
 pat.rightPoint("f32"," f23",(mainMeasure-10.0 *scale)/3.0);
 pat.leftPoint("Р2","f32",mainMeasure/3.0*2.0+0.5 *scale);
 pat.intersectionPoint("у3","М2","f43","И2","f32")
 pat.alongPoint("д3","у3","И2",1.0 *scale);
-pat.leftPoint("f4","д3",4.0 *scale);
+pat.leftPoint("f4","д3",backWaist+1.0 *scale);
 pat.leftPoint("е3","f4",dartWidth);
 pat.midPoint("щ3","е3","f4")
 
@@ -104,11 +104,11 @@ pat.alongPoint("f16","щ3","В2",16.0 *scale);
 pat.leftPoint("f2","е3",2.0 *scale);
 pat.leftPoint("х3","f2",dartWidth*1.5);
 pat.midPoint("ш3","х3","f2")
-pat.circleCircleIntersectionPoint("ф3","f16",6.5 *scale,"ш3",16.0 *scale,false);
+pat.circleCircleIntersectionPoint("ф3","f16",dartWidth+1.5 *scale,"ш3",dartHeight,false);
 pat.downPoint("к3","х3",1.5 *scale);
 pat.downPoint("ц3","к3",2.0 *scale);
 pat.upPoint("Ч3","М2",mainMeasure/16.0);
-pat.alongPoint("f9","ц3","Ч3",9.0 *scale);
+pat.alongPoint("f9","ц3","Ч3",3.0 *scale+panelWidth);
 pat.angleAngleIntersectionPoint("н2","Р2",0.0,"М2",90.0)
 pat.extendPoint("Ѳ3","f16","щ3",10.0 *scale);
 pat.rightPoint("к3","Ѳ3",2.5 *scale);
@@ -120,7 +120,7 @@ pat.alongPoint("т3","Р2","С2",1.5 *scale);
 pat.displacementPoint("о3","П2",-3.0 *scale,10.0 *scale);
 pat.displacementPoint("р3","f9",-3.0 *scale,10.0 *scale);
 pat.extendPoint("f72","f32","у3",11.0 *scale);
-pat.alongPoint("f73","П2","о3",4.1 *scale);
+pat.alongPoint("f73","П2","о3",4.0 *scale);
 pat.alongPoint("f75","f9","р3",3.5 *scale);
 pat.leftPoint("О2","М2",1.0 *scale);
 pat.displacementPoint("п3","О2",3.0 *scale,10.0 *scale);
