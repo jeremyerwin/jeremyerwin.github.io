@@ -10,6 +10,7 @@ var sideHeight=document.getElementById('sideHeightSlider').value*scale;
 var waist=document.getElementById('waistSlider').value*scale;
 var dartHeight=16;
 var dartWidth=0;
+var backWaist=0;
 
 if(mainMeasure<44*scale)
 {
@@ -32,16 +33,30 @@ else if (mainMeasure<60*scale)
     dartWidth=8*scale;
 }
 
+if(waist<30*scale)
+{
+    backWaist=3*scale;
+}
+else if (waist<=40*scale)
+{
+    backWaist=4*scale;
+}
+else if (waist>40*scale)
+{
+    backWaist=5*scale;
+}
+
+
 pat.addPoint("А",13.8 *scale,20.0 *scale)
-pat.downPoint("p41","А",41.0 *scale);
-pat.upPoint("p23","p41",23.0 *scale);
+pat.downPoint("p41","А",backLength);
+pat.upPoint("p23","p41",sideHeight);
 pat.upPoint("Б","p23",mainMeasure/8.0);
 pat.rightPoint("В","А",mainMeasure/16.0);
 pat.rightPoint("p16","Б",mainMeasure/3.0);
 pat.leftPoint("Д","p16",mainMeasure/32.0);
 pat.upPoint("Ж","Д",mainMeasure/8.0);
 pat.rightPoint("Г","p41",2.0 *scale);
-pat.rightPoint("И","Г",3.0 *scale);
+pat.rightPoint("И","Г",backWaist);
 pat.midPoint("О","Д","И")
 pat.perpendicularBisectorPoint("p2","Д","И",2.0 *scale);
 pat.displacementPoint("К","А",-1.0 *scale,1.0 *scale);
