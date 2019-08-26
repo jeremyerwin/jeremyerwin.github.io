@@ -158,7 +158,7 @@ pat.line("f75","н3");
 pat.line("f9","f75");
 pat.displacedQuad("f73","f76",pat.distance("f73","f76")/2.0,-(-0.1 *scale));
 pat.line("f73","П2");
-//pat.displacedQuad("т3","П2",pat.distance("т3","П2")/2.0 *scale,-(1.0 *scale));
+pat.displacedQuad("т3","П2",pat.distance("т3","П2")/2.0,-(1.0 *scale));
 pat.displacedQuad("н2","О2",pat.distance("н2","О2")/2.0,-(1.0 *scale));
 pat.displacedQuad("т3","н2",pat.distance("т3","н2")/2.0,-(0.5 *scale));
 pat.displacedQuad("p16","Р",3.4 *scale,-(0.5 *scale));
