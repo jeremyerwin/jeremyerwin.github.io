@@ -62,7 +62,7 @@ pat.perpendicularBisectorPoint("p2","Д","И",2.0 *scale);
 pat.displacementPoint("К","А",-1.0 *scale,1.0 *scale);
 pat.rightPoint("М","И",mainMeasure/16.0);
 pat.rightPoint("Л","М",panelWidth);
-pat.downPoint("З","Д",mainMeasure/8.0);
+pat.downPoint("З","Д",mainMeasure/16.0)*1.5;
 pat.rightPoint("Р","З",mainMeasure/16.0);
 pat.downPoint("p10","p41",10.0 *scale);
 pat.downPoint("Ф","И",10.0 *scale);
