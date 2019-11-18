@@ -94,7 +94,7 @@ La Mode Poétique (gekürzte Form von Les Muses de la Mode, ohne
 
 Gravuren, nur 1 Nr. erschienen) (BN) — 1851
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32817520x)
-https://gallica.bnf.fr/ark:/12148/cb32817520x/date
+[Gallica](https://gallica.bnf.fr/ark:/12148/cb32817520x/date)
 
 L'Indicateur de la Mode, modes, littérature, arts, théâtres . . . (gekürzte Form von Les Muses de la Mode) (BN) — 1851
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32790406w)
@@ -127,8 +127,6 @@ L'Écho du Petit Courrier des Dames, littérature, beaux-arts, théâtre
 
 La Lingère Parisienne (Ha.) - 1852
 
-# 1853
-
 La Revue des Dames et des Demoiselles, journal du monde élégant (BN) -1855
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32858348t)
 
@@ -156,7 +154,7 @@ Le Messager des Dames et des Demoiselles (BN) — 1856
 
 La France Élégante, journal des dames et des salons (Co., Lipp. und BN) -1890 
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32777626b)
-https://gallica.bnf.fr/ark:/12148/cb32777626b/date
+[Gallica](https://gallica.bnf.fr/ark:/12148/cb32777626b/date)
 
 L'Ami des Jeunes Personnes, journal des modes (BN) — 1855
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32691403x)
@@ -396,7 +394,7 @@ La Glaneuse Parisienne, journal de la vie de famille, littérature, beaux- arts,
 
 L'Express des Modes, journal illustré des dames et des demoiselles (Ha. und BN) - 1867
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb327723567)
-https://gallica.bnf.fr/ark:/12148/cb327723567/date
+[Gallica](https://gallica.bnf.fr/ark:/12148/cb327723567/date)
 
 La Petite Feuille des Dames, journal de littérature et de travaux d'aiguille (BN) - 1867 
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32837809n)
@@ -488,7 +486,7 @@ La Mode Actuelle, journal professionnel des couturières et modistes (BN) - 1888
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb34443824c)
 
 La Parisienne, mœurs élégantes, fantaisies, théâtres, modes, voyages, sports (ohne Gravuren) (BN) - 1870 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32833181g
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32833181g)
 
 Paris-Mode (BN) - 1873
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32832684n)
@@ -621,7 +619,7 @@ Album des Ouvrages de Dames (Suppl. von Le Conseiller de Famille) (BN) -1885
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32685109x)
 [Gallica](https://gallica.bnf.fr/ark:/12148/cb32685109x/date)
 
-#1876
+# 1876
 
 La Modiste Universelle (Co., Lipp. und BN) - 1897
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb328176775)
@@ -682,7 +680,7 @@ La Toilette Moderne, recueil de modes nouvelles (BN) - 1 888
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32877929c)
 
 La Femme du Foyer, revue de la mode illustrée (BN) - 1882
-[BNF]https://catalogue.bnf.fr/ark:/12148/cb327740248)
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb327740248)
 
 La Famille, voyages, romans, modes (BN) - 1921
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb34443921m)
