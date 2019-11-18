@@ -763,127 +763,127 @@ L'Art de la Femme (BN) - 1883
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32702470m)
 
 La Dernière Mode, journal-album (BN) - 1884 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb307473525
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb307473525)
 
 Le Colibri, journal illustré édité par les grands magasins de nouveautés (BN) - 1886 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb327439586
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb327439586)
 
 Mode-Caprice, revue mensuelle de la mode (BN) - 1886
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb328174481
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb328174481)
 
 La Mode, journal des élégances parisiennes (BN) - 1883
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32817432n
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32817432n)
 
 Le Chic, gazette mensuelle de la mode à Paris (BN) - 1884 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb327410258
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb327410258)
 
 # 1884
 
 Les Toilettes Modèles (BN) - 1905
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32877936n
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32877936n)
 
 Le Conseiller de la Mode, moniteur des familles (BN) - 1885
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32747242v
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32747242v)
 
 # 1885
 
 La Couturière, organe professionnel des couturières et confectionneuses pour dames et enfants (BN) - 1914
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb327518935
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb327518935)
 
 L ' Art dans le Costume (Kr. und BN) - 1907
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32702458r
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32702458r)
 
 Le Luxe, toilettes artistiques (BN) - 1904
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32809897m
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32809897m)
 
 La Mode Nationale, messager des modes nouvelles (Co., Lipp. und BN) -1930
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32817510m
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32817510m)
 
 La Grande Couture, édition modèles figurines (BN) - 1889
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb327836404
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb327836404)
 
 La Modiste Française, organe professionnel des modistes (BN) - 1914 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb328176744
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb328176744)
  
 
 Le Conseiller de la Mode (BN) - 1885 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32747242v
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32747242v)
 
 # 1886
 Le Lutin, journal mensuel de modes pour enfants (BN) - 1896
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32809781z
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb30231796c
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32809781z)
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb30231796c)
 
 Le Goût Parisien, journal de mode de la maison Louvel (BN - Versailles) - 1887 -
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb327831622
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb327831622)
  
 Vogue (BN) - 1900 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb344302850
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb344302850)
 [Gallica](https://gallica.bnf.fr/ark:/12148/cb344302850/date)
 
 # 1887
 
 La Nouveauté, journal de mode pour couturières (BN) — 1906
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb34444045c
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb34444045c)
 
 Le Guide de la Mode, journal illustré en couleur (BN) — 1890 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb327848042
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb327848042)
 
 Manuel Complet de la Fabrication de la Chaussure (Lipp.) —
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb33469538z
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb33469538z)
 
 La Mode, gazette régionale de la famille (BN) — 1893 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb34443882j
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb34443882j)
 
 La Parisienne (BN) - 1906
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb328331804
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb328331804)
 
 # 1888
 Le Goût Parisien, album de modes illustré (BN) - 1902 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb327831595
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb327831595)
 
 France-Mode, journal de mode, le plus pratique, le plus complet (Lipp. und BN) - 1906
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32777987c
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32777987c)
 
 La Mode Populaire, journal de la famille (BN) - 1890
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb328175218
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb328175218)
 
 Journal des Ouvrages de Dames et des Arts Féminins (Kr. und BN) - 1933 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb328001787
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb328001787)
 
 La Modiste Parisienne (BN) - 1913 und 1924 - 1934
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb34444054b
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb34444054b)
 
 Le Frou-Frou, grand journal parisien des modes et des arts (BN) — 1923 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32779028v
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32779028v)
 
 # 1889
 
 La Coiffure Artistique, Ancienne et Moderne, Rouen (BN)  — 1890 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb327439106
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb327439106)
 
 La Coiffure Française Illustrée, journal professionnel (Lipp. und BN) -1922
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb344435356
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb344435356)
 
 L ' Élégance, robes et confections (BN) — 1909
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32766018m
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32766018m)
 
 La Femme du Monde, journal de la mode de Paris (BN) — 1894 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32774025m
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32774025m)
 
 # 1890
 
 Revue de la Chapellerie, organe des fabricants . . . (BN) — 1939
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32857519j
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32857519j)
 
 La Mode de Paris (BN) - 1898
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32817460w
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32817460w)
 
 Le Guide des Couturières, édition professionnelle spéciale pour la couture, la confection et le costume d'enfant (BN) — 1904
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb344456307
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb344456307)
 
 Mode, Charme, publication mensuelle pour la grande nouveauté, dessins, aquarelles, croquis (BN) — 1892
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32817449c
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32817449c)
 [Gallica](https://gallica.bnf.fr/ark:/12148/cb32817449c/date)
 
 Le Messager des Modes (BN) — 1913
@@ -1006,7 +1006,7 @@ Le Chic, revue bi-mensuelle (BN) - 1895
 
 La Coupe, recueil mensuel d'art et d'éthique (BN) - 1898
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb34423673m)
-https://gallica.bnf.fr/ark:/12148/cb34423673m/date)
+[Gallica](https://gallica.bnf.fr/ark:/12148/cb34423673m/date)
 
 La Couturière Moderne (BN) - 1900
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb31184812h)
@@ -1134,7 +1134,7 @@ La Mode et le Bijou, revue élégante et pratique (BN) — 1900
 [Gallica](https://gallica.bnf.fr/ark:/12148/cb328174915/date)
 
 Revue de la Bijouterie, Joaillerie, Orfèvrerie (BN) — 1904
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb328574883
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb328574883)
 [Gallica](https://gallica.bnf.fr/ark:/12148/cb328574883/date)
 
 Grandes Modes Parisiennes, dernières créations parisiennes (BN) - 1938
@@ -1154,8 +1154,8 @@ Toilettes Parisiennes, publication mensuelle (BN) — 1927
 [Gallica](https://gallica.bnf.fr/ark:/12148/cb328779370/date)
 
 Beauté-Corset (BN) - 1902
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb31369340h
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb32710608g
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb31369340h)
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32710608g)
 [Gallica](https://gallica.bnf.fr/ark:/12148/cb32710608g/date)
 
 Grande Mode Parisienne, dernières créations parisiennes .(BN — Versailles) - 1938 
