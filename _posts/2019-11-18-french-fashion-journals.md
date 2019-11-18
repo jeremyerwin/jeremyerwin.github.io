@@ -6,10 +6,16 @@ comments: true
 
 ## French Fashion Journals (1848-1900)
 
-This is taken from Annemarie Kleinert's [*Die frühen Modejournale in Frankreich*.](https://a.klnrt.de/#books) I may expand the list to include English and German periodicals at a later point. The gallica links are
+This is taken from Annemarie Kleinert's [*Die frühen Modejournale in Frankreich*.](https://a.klnrt.de/#books). I'm currently expanding the list to include other periodicals of note. The gallica links are
 to online copies. I plan to link to other archives, such as Europeana at some point. 
 
-The BNF links are to the catalog; the gallica links are to fulltext archives.
+The BNF links are to the catalog; the gallica links are to fulltext archives. The Uni-Duesseldorf links are to the catalog, click on "Contents of this periodical" for fulltext archives,
+
+
+
+# 1843
+Le Moniteur de la mode : journal du grand monde ; modes, illustrations, patrons, littératures, beaux-arts, théatres -1905
+[Uni Duesseldorf](http://digital.ub.uni-duesseldorf.de/ihd/periodical/titleinfo/2089865)
 
 # 1848
 Le Tailleur, journal des quatre saisons (BN) - 1884 
@@ -40,6 +46,10 @@ Le Souvenir, revue des modes et des salons (Ha. und BN: 4° Lc14 98)  -1855
 Le Magasin des Familles (BN) - 1878 
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32810590d)
 [Gallica](https://gallica.bnf.fr/ark:/12148/cb32810590d/date)
+
+Pariser Damenkleider-Magazin (german) -1865
+[Uni Duesseldorf](http://digital.ub.uni-duesseldorf.de/ihd/periodical/titleinfo/2008122)
+
 # 1850
 Modes Vraies — Travail en Famille (Ergänzung der Familienzeitschrift Musée des Familles - seit 1833) (BN) - 1884 
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb328176713)
@@ -102,6 +112,8 @@ L'Indicateur de la Mode, modes, littérature, arts, théâtres . . . (gekürzte 
 Lettres sur la Mode (ohne Gravuren) (BN) — 1851
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32806254z)
 
+Victoria (german) -1879
+[Uni-Duesseldorf](http://digital.ub.uni-duesseldorf.de/ihd/periodical/titleinfo/2181751)
 
 # 1852
 Le Passe-Temps des Dames et des Demoiselles (BN: 4° Lc14 111) 
@@ -162,7 +174,7 @@ L'Ami des Jeunes Personnes, journal des modes (BN) — 1855
 La Revue du Monde Élégant (zeitweiliger Name der Zeitschrift La Mode, die ab Januar 1855 wieder ihren alten Namen annimmt) (BN: 4° Lc14 106) — (Oktober bis November) 1854 
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32859212s)
 
-Le Moniteur des Dames et des Demoiselles, guide complet de tous les travaux de dames (Fortsetzung von Le Moniteur des Demoiselles) (Co. und BN) — 1902
+Le Moniteur des Dames et des Demoiselles, guide complet de tous les travaux de dames (continuation from Le Moniteur des Demoiselles) (Co. und BN) — 1902
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb344445792)
 
 Journal des Dames et des Demoiselles, guide complet de tous les tra- vaux de dames (zum Teil als Le Moniteur des Dames et des Demoiselles erschienen) (BN) -1902 
@@ -180,12 +192,14 @@ Pénélope, journal spécial de broderie, de littérature et d'éducation
 Arachné, journal artistique et industriel, revue des modes, de l'élé- gance et du confortable (BN) — 1857
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb327005754)
 
-Musée et Revue des Dames et des Demoiselles, journal du monde élégant (Fortsetzung von La Revue des Dames et des Demoiselles) (BN) -1856
+Musée et Revue des Dames et des Demoiselles, journal du monde élégant (continuation from La Revue des Dames et des Demoiselles) (BN) -1856
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32820971f)
 
 La Mode, chronique parisienne (Modeteil von La Mode Nouvelle) (BN)-1862
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32817430z)
 
+Der Bazar (german) -1937
+[Uni Duesseldorf](http://digital.ub.uni-duesseldorf.de/ihd/periodical/titleinfo/2083461)
 # 1856
 Les Toilettes Parisiennes, journal des modes (Co. und BN: 4° Le14 109) -1858
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb363339832)
@@ -202,6 +216,7 @@ Le Conseiller des Familles, littérature, travaux à l'aiguille, modes; journal 
 
 La Gazette Rosé, revue mondaine des salons et de la mode (Ha. und BN) - 1884
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb344445719)
+[Uni-Duesseldorf](http://digital.ub.uni-duesseldorf.de/ihd/periodical/titleinfo/1953637)
 
 Le Courrier de la Mode, journal des dames et des demoiselles, modes, littérature, chronique de Paris (Ha. und BN) — 1905
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb344436820)
@@ -250,7 +265,7 @@ La Toilette de Paris (Ha., Lipp. und BN) - 1874
 Echo des Modes de Lille (BN: 4° Lc14127) - 1858 
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb327616705)
 
-Echo de la Littérature et des Modes (Fortsetzung von Echo des Modes de Lille) (BN) - 1858 
+Echo de la Littérature et des Modes (continuation from Echo des Modes de Lille) (BN) - 1858 
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb327616705)
 
 Le Moniteur de la Toilette (BN) - 1860
@@ -270,7 +285,7 @@ Moniteur de la Coiffure, journal mensuel de l'art du coiffeur (Ha. und BN) - 189
 [Gallica](https://gallica.bnf.fr/ark:/12148/cb34443630r/date)
 
 # 1859
-Le Moniteur des Modes des Dames et de l'Enfance (Fortsetzung von Le Moniteur des Modes de l'Enfance) (BN) - 1868 
+Le Moniteur des Modes des Dames et de l'Enfance (continuation from Le Moniteur des Modes de l'Enfance) (BN) - 1868 
 
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb344449613)
 
@@ -540,11 +555,13 @@ Le Tailleur Moderne, journal des modes (BN) - 1919
 
 Revue de la Mode, gazette de la famille (Co., Lipp. und BN) - 1913 -
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb344447292)
+[Europeana](https://www.europeana.eu/portal/en/collections/fashion?view=grid&q=%22revue+de+la+mode%22&f%5BDATA_PROVIDER%5D%5B%5D=ModeMuseum+Provincie+Antwerpen&per_page=96)
+[Uni Duesseldorf](http://digital.ub.uni-duesseldorf.de/ihd/periodical/titleinfo/1998320)
 
 Le Diable Rose et le Génie de la Mode Réunis (BN) - 1873
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32757082r)
 
-La Mode Nouvelle et le Miroir Parisien Réunis (Fortsetzung von La Mode Nouvelle) (BN) - 1885
+La Mode Nouvelle et le Miroir Parisien Réunis (continuation of La Mode Nouvelle) (BN) - 1885
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb42213113n)
 
 Frou-Frou, journal du high life; chronique de la vie élégante (BN) - 1872 
@@ -612,6 +629,9 @@ Le Bijou, revue artistique et industrielle de la bijouterie (BN) - 1914
 La Mode Française, gazette parisienne illustrée de la famille (Co., 
 Lipp. und BN) - 1898 und 1915 
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32817498k)
+
+Illustrierte Frauenzeitung : Ausgabe der Modenwelt mit Unterhaltungsblatt (german) -1911
+[Uni-Duesseldorf](http://digital.ub.uni-duesseldorf.de/ihd/periodical/titleinfo/3087849)
 
 # 1875
 
@@ -854,6 +874,9 @@ La Modiste Parisienne (BN) - 1913 und 1924 - 1934
 Le Frou-Frou, grand journal parisien des modes et des arts (BN) — 1923 
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32779028v)
 
+Weiner Mode (german) -1945
+[Uni Duesseldorf](http://digital.ub.uni-duesseldorf.de/ihd/periodical/titleinfo/2193061)
+
 # 1889
 
 La Coiffure Artistique, Ancienne et Moderne, Rouen (BN)  — 1890 
@@ -1092,7 +1115,7 @@ Le Petit Moniteur de la Couture, organe spécial des couturières (BN) - 1898
 La Broderie Illustrée, journal artistique de travaux de dames (BN) - 1919
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32716280j)
 
-Les Modes du Grand Monde (Suppl. von Les Modes et Toilettes de l' Illustré ,Soleil du Dimanche') (BN) - 1898 
+Les Modes du Grand Monde (Suppl. from Les Modes et Toilettes de l'Illustré ,Soleil du Dimanche') (BN) - 1898 
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb34445067x)
 
 La Vraie Mode (BN - Versailles) - 1913 
@@ -1100,7 +1123,7 @@ La Vraie Mode (BN - Versailles) - 1913
 
 # 1899
 
-Le Conseiller de la Mode et le Petit Moniteur de la Couture Réunis (fortgesetzt durch Le Conseiller de la Mode et la Couturière Réunis: 1905-1914) (BN)-1905
+Le Conseiller de la Mode et le Petit Moniteur de la Couture Réunis (continues through Le Conseiller de la Mode et la Couturière Réunis: 1905-1914) (BN)-1905
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb327472436)
 
 Le Chic Parisien, journal spécial pour modèles de Paris et Vienne (Lipp. und BN) - 1939 
