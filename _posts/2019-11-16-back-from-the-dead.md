@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2019-11-19
+comments: true
 ---
 
 Back from the dead? I must confess that I haven't updated this blog on a frequency for my liking. I've been spending a lot of time editing various things behind the scenes, but never actually writing the articles that would

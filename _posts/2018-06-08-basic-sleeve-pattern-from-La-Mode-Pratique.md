@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2018-06-08
+comments: true
 ---
 
 Here's a basic sleeve pattern, taken from _La Mode Pratique_ 6:168 (14) 3 Avril 1897

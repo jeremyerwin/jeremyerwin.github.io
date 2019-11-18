@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2018-06-04
+comments: true
 ---
 
 I've decided to look at the tissue patterns included in my 1892 volume of La Robe Pratique. As I was glancing through

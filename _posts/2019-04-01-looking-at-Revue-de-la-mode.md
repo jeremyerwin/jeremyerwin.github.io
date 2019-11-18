@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2019-04-01
+comments: true
 ---
 
 One of the resources at the Library of Congresss in the French fashion journal _Revue de La Mode_, published in the 1880s and 1890s. I found a

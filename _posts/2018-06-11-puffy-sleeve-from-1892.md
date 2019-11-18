@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2018-06-11
+comments: true
 ---
 
 In the mid 1890s, the fashionable sleeve was a puffy sleeve, peaking in volume around 1895 or 1896.

@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2019-04-02
+comments: true
 ---
 
 I've decied to get serious about digitizing my store of magazines. That means, that not only must I scan in a thousand pages of my collection of antiue books and
