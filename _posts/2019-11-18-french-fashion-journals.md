@@ -104,12 +104,12 @@ https://catalogue.bnf.fr/ark:/12148/cb456270903
 
 L'Album des Dames, organe de la littérature, des modes et du théâtre 
 (BN: Z 4538) -1853
-
 https://catalogue.bnf.fr/ark:/12148/cb32685096d
+
 La Bonne Compagnie, sporting et fashionable review (BN und Lipp.) 
 
-# 1855
 https://catalogue.bnf.fr/ark:/12148/cb32714816m
+
 Le Musée des Dames et des Demoiselles, journal encyclopédique de tous les travaux de dames (BN) — 1855
 https://catalogue.bnf.fr/ark:/12148/cb32820942v
 
@@ -398,7 +398,8 @@ https://catalogue.bnf.fr/ark:/12148/cb327438985
 # 1866
 Gazette Mondaine, journal de la mode et de l'art industriel (BN: 
 https://catalogue.bnf.fr/ark:/12148/cb32781381d
-- La Boîte à Ouvrage, journal spécial de travaux d'aiguille (gekürzte Ausgabe von L'Illustrateur des Dames et des Demoiselles) (BN) - 1877 
+
+La Boîte à Ouvrage, journal spécial de travaux d'aiguille (gekürzte Ausgabe von L'Illustrateur des Dames et des Demoiselles) (BN) - 1877 
 https://catalogue.bnf.fr/ark:/12148/cb34444568d
 https://gallica.bnf.fr/ark:/12148/cb34444568d/date
 
