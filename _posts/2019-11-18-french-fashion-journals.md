@@ -6,6 +6,11 @@ comments: true
 
 ## French Fashion Journals (1848-1900)
 
+This is taken from Annemarie Kleinert's [*Die frühen Modejournale in Frankreich*.](https://a.klnrt.de/#books) I may expand the list to include English and German periodicals at a later point. The gallica links are
+to online copies. I plan to link to other archives, such as Europeana at some point. 
+
+The BNF links are to the catalog; the gallica links are to fulltext archives.
+
 # 1848
 Le Tailleur, journal des quatre saisons (BN) - 1884 
 https://catalogue.bnf.fr/ark:/12148/cb32875676k
@@ -14,14 +19,15 @@ L'Observateur des Modes et le Narcisse réunis (BN) — 1890
 https://catalogue.bnf.fr/ark:/12148/cb32827796x
 
 Journal des Couturières et Modistes (BN) — 1850 
-		https://catalogue.bnf.fr/ark:/12148/cb32799486j
-		https://gallica.bnf.fr/ark:/12148/cb32799486j/date
+https://catalogue.bnf.fr/ark:/12148/cb32799486j
+https://gallica.bnf.fr/ark:/12148/cb32799486j/date
 
 L'Ami des Jeunes Filles, journal des loisirs utiles (BN) — 1855 
-		https://catalogue.bnf.fr/ark:/12148/cb32691400w
+https://catalogue.bnf.fr/ark:/12148/cb32691400w
 
 La Toilette, journal des modes (BN und Co.) - 1850 
-        https://catalogue.bnf.fr/ark:/12148/cb32877915p
+https://catalogue.bnf.fr/ark:/12148/cb32877915p
+
 Magasin des Demoiselles (bereits 1844 gegründet, aber erst später regelmäßig Modegravuren) (Lipp. und BN) — 1896 
 https://catalogue.bnf.fr/ark:/12148/cb34530873t
 # 1849
