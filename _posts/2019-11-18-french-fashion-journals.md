@@ -647,8 +647,7 @@ Fashion-Mode, journal de Mmes les couturières, modistes, lingères (BN) - 1878
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32773278h)
 
 L'Avenir de la Mode, journal spécial des marchandes de mode . . . (BN) - 1922 
-[BNF](https://catalogue.bnf.fr/ark:/12148/cb34444052n))))))))))))))))))))))))))))))))))))))))))))))))))
-
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb34444052n)
 # 1878
 La Mode, revue littéraire, artistique et mondaine (BN) - 1878
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb328174361)
