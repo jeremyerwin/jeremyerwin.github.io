@@ -9,20 +9,25 @@ comments: true
 #1848
 Le Tailleur, journal des quatre saisons (BN) - 1884 
 https://catalogue.bnf.fr/ark:/12148/cb32875676k
-		-  L'Observateur des Modes et le Narcisse réunis (BN) — 1890 
+
+L'Observateur des Modes et le Narcisse réunis (BN) — 1890 
 https://catalogue.bnf.fr/ark:/12148/cb32827796x
-		-  Journal des Couturières et Modistes (BN) — 1850 
+
+Journal des Couturières et Modistes (BN) — 1850 
 		https://catalogue.bnf.fr/ark:/12148/cb32799486j
 		https://gallica.bnf.fr/ark:/12148/cb32799486j/date
-		-  L'Ami des Jeunes Filles, journal des loisirs utiles (BN) — 1855 
+
+L'Ami des Jeunes Filles, journal des loisirs utiles (BN) — 1855 
 		https://catalogue.bnf.fr/ark:/12148/cb32691400w
-		-  La Toilette, journal des modes (BN und Co.) - 1850 
+
+La Toilette, journal des modes (BN und Co.) - 1850 
         https://catalogue.bnf.fr/ark:/12148/cb32877915p
-		-  Magasin des Demoiselles (bereits 1844 gegründet, aber erst später regelmäßig Modegravuren) (Lipp. und BN) — 1896 
+Magasin des Demoiselles (bereits 1844 gegründet, aber erst später regelmäßig Modegravuren) (Lipp. und BN) — 1896 
 https://catalogue.bnf.fr/ark:/12148/cb34530873t
 #1849
 Le Dandy, gazette des modes (BN: 4° Lc14 97) - 1849 
 https://catalogue.bnf.fr/ark:/12148/cb32754005k
+
 Le Souvenir, revue des modes et des salons (Ha. und BN: 4° Lc14 98)  -1855
 https://catalogue.bnf.fr/ark:/12148/cb32871334v
 
@@ -32,12 +37,14 @@ https://gallica.bnf.fr/ark:/12148/cb32810590d/date
 #1850
 Modes Vraies — Travail en Famille (Ergänzung der Familienzeitschrift Musée des Familles - seit 1833) (BN) - 1884 
 https://catalogue.bnf.fr/ark:/12148/cb328176713
-		Le Cendrillon, revue encyclopédique de tous les travaux de dames (Co. und BN) - 1872 
+		
+Le Cendrillon, revue encyclopédique de tous les travaux de dames (Co. und BN) - 1872 
         https://catalogue.bnf.fr/ark:/12148/cb32738461q
 		https://gallica.bnf.fr/ark:/12148/cb32738461q/date
-		-  Le Luxe, journal des modes (BN) — 1850 
+Le Luxe, journal des modes (BN) — 1850 
         https://catalogue.bnf.fr/ark:/12148/cb36333975f
-		-  Le Caméléon, revue des modes (BN) — 1850 
+
+Le Caméléon, revue des modes (BN) — 1850 
         https://catalogue.bnf.fr/ark:/12148/cb36333973r
 		https://catalogue.bnf.fr/ark:/12148/cb32736703w
 		-  Le Chapelier Parisien, journal spécial de la chapellerie parisienne (BN) - 1854 
