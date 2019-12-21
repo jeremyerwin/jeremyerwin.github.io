@@ -4,7 +4,10 @@ date: 2019-12-20
 ---
 
 Thhe pattern design columns found in La Mode Pratique were anthologized into the four part book Cours de Coupe de La Mode Pratique. I recently acquired the
-second volume-- *Comment Habiller Nos Petites Filles et Nos Petits Garçons*. -- childrens wear. There are two further volumes *Comment Habiller nos Bébés*, and *Pour faire Soi-Même les trousseaux d'Hommes*.
+second volume-- *Comment Habiller Nos Petites Filles et Nos Petits Garçons*. -- childrens wear. There are two further volumes *Comment Habiller nos Bébés*, and *Pour faire Soi-Même les trousseaux d'Hommes*. The third voume
+shows up frequently on the used book market, but infantware has never particlarly interests me. The only reason I bought the childrenswear book is that some interesting articles on othher things refer to the material in thhis book.
+
+And judging from what I've read of the menswear column in LP, it's mostly shirts. Not terribly interesting.
 
 These books are primarily useful for gathering the columns all in one place. The first book had a comprehensive size table, which was useful for debugging my digital patterns.
 I was hoping for a similar aid for children's sizes, but no such luck. 
