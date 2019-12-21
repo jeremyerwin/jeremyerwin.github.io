@@ -11,7 +11,12 @@ to online copies. I plan to link to other archives, such as Europeana at some po
 
 The BNF links are to the catalog; the gallica links are to fulltext archives. The Uni-Duesseldorf links are to the catalog, click on "Contents of this periodical" for fulltext archives,
 
+# 1829
+La Mode: revue des modes, galerie de moeurs, album des salons -1854
 
+[BNF](https://catalogue.bnf.fr/ark:/12148/cb32817434b)
+[Gallica](https://gallica.bnf.fr/ark:/12148/cb32817434b/date)
+[Europeana](https://www.europeana.eu/portal/en/search?view=grid&q=%22revue+du+monde+elegant%22&per_page=96)
 
 # 1843
 Le Moniteur de la mode : journal du grand monde ; modes, illustrations, patrons, littératures, beaux-arts, théatres -1905
@@ -459,7 +464,7 @@ Les Petites Affiches de la Mode, revue des magasins (BN) - 1869
 
 La Saison, journal illustré des dames (Co., Lipp. und BN) - 1897 
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb328643242)
-
+[Europeana](https://www.europeana.eu/portal/en/collections/fashion?per_page=96&q=la+saison&view=grid)
 La Petite Mode (BN: 4° Le14 164) - 1867 
 [BNF](https://catalogue.bnf.fr/ark:/12148/cb32837936t)
 
