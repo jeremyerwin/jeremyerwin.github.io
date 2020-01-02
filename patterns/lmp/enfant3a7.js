@@ -12,7 +12,7 @@ var shoulderLength=document.getElementById('shoulderLengthSlider').value*scale;
 var toElbow=document.getElementById('toElbowSlider').value*scale;
 var toWrist=document.getElementById('toWristSlider').value*scale;
 var underarmHeight=document.getElementById('underarmHeightSlider').value*scale;
-pat.addPoint("A",75 *scale,75 *scale)
+pat.addPoint("A",5 *scale,5 *scale)
 pat.rightPoint("B","A",bust/4.0+2.0 *scale);
 pat.downPoint("C","A",backLengh+0.5 *scale);
 pat.angleAngleIntersectionPoint("D","B",-90.0,"C",0.0)
