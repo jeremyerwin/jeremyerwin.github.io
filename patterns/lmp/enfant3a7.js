@@ -40,7 +40,7 @@ pat.teeIntersectionPoint("fJ","fI",-180.0,"fA","fC")
 pat.leftPoint("fK","fI",frontWidth);
 pat.downPoint("fN","fA",bust/4.0);
 pat.downPoint("fO","fN",pat.distance("N","O"));
-pat.addPoint("mA",87.0 *scale,200 *scale)
+pat.addPoint("mA",87.0 *scale,15 *scale)
 pat.rightPoint("mB","mA",(pat.curvedist("G2","K",0.3 *scale)+pat.curvedist("K","N",1.25 *scale)+pat.curvedist("fN","fK",1.75)+pat.curvedist("fH","fK",0.4 *scale))/2.0);
 pat.downPoint("mC","mA",toElbow+pat.distance("mA","mB")/6.0);
 pat.angleAngleIntersectionPoint("mD","mB",-90.0,"mC",0.0)
@@ -48,7 +48,7 @@ pat.midPoint("mE","mA","mB")
 pat.midPoint("mF","mC","mD")
 pat.downPoint("mG","mA",pat.distance("mA","mE"));
 pat.displacementPoint("mH","mB",1.0 *scale,pat.distance("mA","mB")/6.0);
-pat.circleLineIntersectionPoint("mS","mD","mF",toWrist-toElbow+1.0 *scale,270.0);
+pat.circleLineIntersectionPoint("mS","mD","mF",toWrist-toElbow+1.0 *scale,-270.0);
 pat.perpendicularPoint("mSa","mD","mS",-(-25.3 *scale));
 pat.intersectionPoint("mi","mA","mC","mS","mSa")
 pat.extendPoint("mI","mS","mi",1.0 *scale);
