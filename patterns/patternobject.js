@@ -301,6 +301,19 @@ Pattern.prototype.arcCenterPoint = function(name, aName, bName, versine) {
 
 
 }
+
+
+Pattern.prototype.curvedist=function(aname,bname, versine){
+	var absversine= Math.abs(versine);
+	var chordlength=distance(aName,bName);
+
+	var radius=(((chordlength*chordlength)/(8.0*absversine))+absversine/2.0);
+
+	var theta= (2*Math.asin(chordLength/(2*radius)));
+	var arclength=radius* theta;
+	//System.err.println("R: " +radius + " theta: " + Math.toDegrees(theta) + " arc length: " + arclength);
+	return arclength;
+}
 Pattern.prototype.circleCircleIntersectionPoint = function(name, aName, radiusA, bName, radiusB, up) {
 
 	var a = this.getPoint(aName);
