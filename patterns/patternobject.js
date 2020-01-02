@@ -303,7 +303,7 @@ Pattern.prototype.arcCenterPoint = function(name, aName, bName, versine) {
 }
 
 
-Pattern.prototype.curvedist=function(aname,bname, versine){
+Pattern.prototype.curvedist=function(aName,bName, versine){
 	var absversine= Math.abs(versine);
 	var chordlength=pat.distance(aName,bName);
 
