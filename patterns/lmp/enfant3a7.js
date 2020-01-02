@@ -47,7 +47,7 @@ pat.angleAngleIntersectionPoint("mD","mB",-90.0,"mC",0.0)
 pat.midPoint("mE","mA","mB")
 pat.midPoint("mF","mC","mD")
 pat.downPoint("mG","mA",pat.distance("mA","mE"));
-pat.displacementPoint("mH","mB",1.0 *scale,armhole/12.0);
+pat.displacementPoint("mH","mB",1.0 *scale,pat.distance("mA","mH")/6.0);
 pat.circleLineIntersectionPoint("mS","mD","mF",toWrist-toElbow+1.0 *scale,-90.0);
 pat.perpendicularPoint("mSa","mD","mS",-(-25.3 *scale));
 pat.intersectionPoint("mi","mA","mC","mS","mSa")
