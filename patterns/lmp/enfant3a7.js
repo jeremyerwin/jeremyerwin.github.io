@@ -85,7 +85,7 @@ displaydistance(document);
 makePattern(true);
 wireUpScale(document);
 //wireUpControl(document,'age');
-wireUpControl(document,'armhole');
+//wireUpControl(document,'armhole');
 wireUpControl(document,'backLengh');
 wireUpControl(document,'bust');
 wireUpControl(document,'frontLength');
