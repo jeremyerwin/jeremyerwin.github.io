@@ -80,6 +80,7 @@ pat.line("mH","mD");
 pat.displacedQuad("mS","mD",pat.distance("mS","mD")/2.0,-(0.9 *scale));
 pat.displacedQuad("mG","mKa",pat.distance("mG","mKa")/2.0,-(-0.5 *scale));
 pat.displacedQuad("mKa","mI",pat.distance("mKa","mI")/2.0,-(-0.5 *scale));
+pat.line("mI", "mS");
 displaydistance(document);
 }
 makePattern(true);
