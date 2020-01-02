@@ -305,7 +305,7 @@ Pattern.prototype.arcCenterPoint = function(name, aName, bName, versine) {
 
 Pattern.prototype.curvedist=function(aname,bname, versine){
 	var absversine= Math.abs(versine);
-	var chordlength=distance(aName,bName);
+	var chordlength=pat.distance(aName,bName);
 
 	var radius=(((chordlength*chordlength)/(8.0*absversine))+absversine/2.0);
 
