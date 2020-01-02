@@ -51,7 +51,7 @@ pat.displacementPoint("mH","mB",1.0 *scale,pat.distance("mA","mB")/6.0);
 pat.downPoint("mF2","mF",30*scale);
 //pat.circleLineIntersectionPoint("mS","mD","mF",(toWrist-toElbow+1.0 *scale),90.0);
 
-pat.circleLSIntersectionPoint("mS","mD","mF","mF2",14*scale);
+pat.circleLSIntersectionPoint("mS","mD","mF","mF2",(toWrist-toElbow+1.0 *scale));
 
 console.log(pat.points["mS"]);
 pat.perpendicularPoint("mSa","mD","mS",-(-25.3 *scale));
