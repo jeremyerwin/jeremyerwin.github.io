@@ -479,6 +479,13 @@ Pattern.prototype.circleLineIntersection = function(a, b, c, radiusA) {
 		sol2.y = Math.sqrt(radiusA * radiusA - sol2.x * sol2.x);
 		console.log(sol1, sol2)
 
+		var target_angle=Math.atan2(c.x-b.x,c.y-b.y);
+
+		var sol1_angle=Math.atan2(sol1.x-b.x,sol,y.y-b.y);
+		var sol2_angle=Math.atan2(sol2.x-b.x,so2,y.y-b.y);
+
+		console.log("circle_line", target_angle, sol1_angle, sol2_angle);
+
 		if (pointDist(p2, sol1) < pointDist(p2, sol2)) {
 			var retval = {
 				x: a.x + sol1.x,
