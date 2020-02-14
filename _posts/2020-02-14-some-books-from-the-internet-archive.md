@@ -271,7 +271,7 @@ Text-book on domestic art, with illustrations and drafts by C. Ingalls (1911)
 
 [The cutters' practical guide to the cutting of ladies' garments by W. Vincent (1890)](https://archive.org/details/cutterspractical00vinc/page/n4/mode/2up)
 
-Many more issues of thhe Delineator can be found on the archive, and at Cornell, but for, now, just these three urls will have to do
+Many more issues of thhe Delineator can be found on the intenet archive, and at other [archives](https://onlinebooks.library.upenn.edu/webbin/serial?id=delineator), but for, now, just these three urls will have to do
 
 [The delineator, vol. 24](https://archive.org/details/delineatorvol2424unse/mode/2up)
 
