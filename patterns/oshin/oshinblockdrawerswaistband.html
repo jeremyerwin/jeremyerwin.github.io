@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Oshin Drawers Waistband</title>
+<link href="/css/pattern.css" rel="stylesheet">
+</head>
+<body>
+    <div class="sidebar">
+    scale<input id="scaleSlider" type="range" min="1" max="100" value="15.0" step=".25"><input type="number" id="scaleText" min="1" max="100" value="15.0" step="0.25"><p>
+        waist<input id="waistSlider" type="range" min="15" max="45" value="30.0" step=".25"><input type="number" id="waistText" min="15" max="45" value="30.0" step="0.25"><p>
+
+
+        measurements in centimetres
+        <p>
+        <form>PointA<input id="pointA" type="text"><p> PointB<input id="pointB" type="text"><p> distance<input id="distanceField" type="number">
+        <input type='button' onclick='make_download("combinations.las")' value="Download" />
+        </form></div>
+
+
+        <div class="maincontent" id="container"></div>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>
+        <script type="text/javascript" src="/patterns/patternobject.js" charset="utf-8"></script>
+        <script type="text/javascript" src="/patterns/las.js" charset="utf-8"></script>
+        <script type="text/javascript" src="oshinBlockDrawersWaistband.js" charset="utf-8"></script>
+
+        </body>
+        </html>
