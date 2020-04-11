@@ -1,9 +1,9 @@
 /**
  *
  */
-
- pat.document=document;
- var makePattern = function() {
+pat=new Pattern();
+pat.document=document;
+var makePattern = function() {
 
      pat.paper.clear();
      scale=pat.scale;
