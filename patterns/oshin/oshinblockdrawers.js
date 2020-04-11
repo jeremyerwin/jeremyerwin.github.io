@@ -24,7 +24,7 @@ var makePattern = function() {
 	pat.extendPoint("p6","p5","D",hips/8.0*1.5);
 	pat.alongPoint("p7","p2","S",hips/8.0*3.0);
 	pat.alongPoint("p8","D","p5",hips/8.0*1.5);
-        printPoints();
+    pat.printPoints();
 	pat.line("p4","R");
 	pat.line("R","p3");
 	pat.displacedQuad("p1","p3",distance("p1","p3")/2.0,-3.5 *scale);
