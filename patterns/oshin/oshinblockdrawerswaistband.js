@@ -20,7 +20,7 @@ var makePattern = function() {
     pat.extendPoint("p5","p3","p1",waist/2.0);
     pat.perpendicularPoint("p6","p1","p5",4.0 *scale);
 
-        printPoints();
+    pat.printPoints();
 
 
     pat.displacedQuad("p2","B",pat.distance("p2","B")/2.0,2.0 *scale);
