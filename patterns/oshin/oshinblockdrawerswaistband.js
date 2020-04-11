@@ -23,11 +23,11 @@ var makePattern = function() {
         printPoints();
 
 
-    pat.displacedQuad("p2","B",distance("p2","B")/2.0,2.0 *scale);
+    pat.displacedQuad("p2","B",pat.distance("p2","B")/2.0,2.0 *scale);
     pat.line("p5","p6");
     pat.line("p5","p1");
     pat.line("p2","p6");
-    pat.displacedQuad("p1","E",distance("p1","E")/2.0,2.0 *scale);
+    pat.displacedQuad("p1","E",pat.distance("p1","E")/2.0,2.0 *scale);
     displaydistance(document);
 }
 makePattern(true);
