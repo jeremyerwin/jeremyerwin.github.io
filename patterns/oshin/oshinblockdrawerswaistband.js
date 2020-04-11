@@ -16,7 +16,7 @@ var makePattern = function() {
     pat.midPoint("F","C","D")
     pat.leftPoint("p1","C",3.0 *scale);
     pat.circleLSIntersectionPoint("p2","p1","C","D",4.0 *scale);
-    pat.downPoint("p3","B",distance("p1","C"));
+    pat.downPoint("p3","B",pat.distance("p1","C"));
     pat.extendPoint("p5","p3","p1",waist/2.0);
     pat.perpendicularPoint("p6","p1","p5",4.0 *scale);
 
