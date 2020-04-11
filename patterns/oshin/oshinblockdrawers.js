@@ -27,12 +27,12 @@ var makePattern = function() {
     pat.printPoints();
 	pat.line("p4","R");
 	pat.line("R","p3");
-	pat.displacedQuad("p1","p3",distance("p1","p3")/2.0,-3.5 *scale);
+	pat.displacedQuad("p1","p3",pat.distance("p1","p3")/2.0,-3.5 *scale);
 	pat.line("C","p2");
 	pat.line("p4","p6");
-	pat.displacedQuad("p7","p1",distance("p7","p1")/2.0,-2.5 *scale);
+	pat.displacedQuad("p7","p1",pat.distance("p7","p1")/2.0,-2.5 *scale);
 	pat.line("p6","p8");
-	pat.displacedQuad("p8","p1",distance("p8","p1")/2.0,2.0 *scale);
+	pat.displacedQuad("p8","p1",pat.distance("p8","p1")/2.0,2.0 *scale);
 	pat.line("p2","p7");
     displaydistance(document);
 }
