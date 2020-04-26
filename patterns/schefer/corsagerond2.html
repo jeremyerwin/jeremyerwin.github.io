@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Corsage Rond</title>
+	<link href="/css/pattern.css" rel="stylesheet">
+</head>
+<body>
+<div class="sidebar">
+scale<input id="scaleSlider" type="range" min="1" max="100" value="15.0" step=".25"><input type="number" id="scaleText" min="1" max="100" value="15.0" step="0.25"><p>
+backLength<input id="backLengthSlider" type="range" min="19" max="57" value="38.0" step=".25"><input type="number" id="backLengthText" min="19" max="57" value="38.0" step="0.25"><p>
+backWidth<input id="backWidthSlider" type="range" min="16" max="49" value="33.0" step=".25"><input type="number" id="backWidthText" min="16" max="49" value="33.0" step="0.25"><p>
+bust<input id="bustSlider" type="range" min="46" max="138" value="92.0" step=".25"><input type="number" id="bustText" min="46" max="138" value="92.0" step="0.25"><p>
+frontLength<input id="frontLengthSlider" type="range" min="21" max="63" value="42.0" step=".25"><input type="number" id="frontLengthText" min="21" max="63" value="42.0" step="0.25"><p>
+waist<input id="waistSlider" type="range" min="30" max="90" value="60.0" step=".25"><input type="number" id="waistText" min="30" max="90" value="60.0" step="0.25"><p>
+<form>PointA<input id="pointA" type="text"><p> PointB<input id="pointB" type="text"><p> distance<input id="distanceField" type="number"> </form></div>
+    <p><input type='button' onclick='make_download("corsagerond.las")' value="Download" /></p></div>
+<div class="maincontent" id="container"></div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>
+<script type="text/javascript" src="/patterns/patternobject.js"></script>
+<script type="text/javascript" src="/patterns/las.js"></script>
+<script type="text/javascript" src="corsagerond2.js "></script>
+</body>
+</html>
