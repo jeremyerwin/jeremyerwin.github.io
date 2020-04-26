@@ -92,5 +92,5 @@ wireUpControl(document,'backWidth');
 wireUpControl(document,'bust');
 wireUpControl(document,'frontLength');
 wireUpControl(document,'waist');
-wireUppat.distance(document);
+wireUpDistance(document);
  
