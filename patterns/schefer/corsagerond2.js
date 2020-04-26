@@ -83,7 +83,7 @@ pat.line("d7","d6");
 pat.line("d6","d1");
 pat.line("d5","d1");
 pat.line("d5","fC");
-displaypat.distance(document);
+displaydistance(document);
 }
 makePattern(true);
 wireUpScale(document);
