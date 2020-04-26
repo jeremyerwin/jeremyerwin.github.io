@@ -1,8 +1,7 @@
 pat=new Pattern();
 pat.document=document;
 var makePattern = function() {
-pat
-paper.clear()
+
     myMeasurements={}
     pat.paper.clear();
 scale=pat.scale;
