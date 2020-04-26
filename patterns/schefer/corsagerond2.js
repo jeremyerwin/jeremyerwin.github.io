@@ -69,7 +69,7 @@ pat.displacedQuad("N","Oa",pat.distance("N","Oa")/2.0,-(2.0 *scale));
 pat.line("S","O");
 pat.line("Oa","H");
 pat.displacedQuad("U","N",pat.distance("U","N")/2.0,-(0.5 *scale));
-line("P","U");
+pat.line("P","U");
 pat.displacedQuad("fP","fZ",pat.distance("fP","fZ")/2.0,-(2.0 *scale));
 pat.line("fP","fU");
 pat.displacedQuad("fU","fYa",pat.distance("fU","fYa")/2.0,-(-0.7 *scale));
