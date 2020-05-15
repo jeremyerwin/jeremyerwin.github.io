@@ -144,7 +144,7 @@ pat.line("H4a","C4");
 pat.line("Q4","C4");
 pat.line("Q4","X4");
 pat.line("O4","X4");
-displaypat.distance(document);
+displaydistance(document);
 }
 makePattern(true);
 wireUpScale(document);
@@ -158,4 +158,4 @@ wireUpControl(document,'hipDepth');
 wireUpControl(document,'shoulderLength');
 wireUpControl(document,'sideLength');
 wireUpControl(document,'waist');
-wireUppat.distance(document);
+wireUpDistance(document);
