@@ -113,6 +113,8 @@ wireUpScale(document);
 wireUpControl(document,'blade');
 wireUpControl(document,'breast');
 wireUpControl(document,'frontLength');
+wireUpControl(document,'backLength');
 wireUpControl(document,'underarmHeight');
 wireUpControl(document,'waist');
+
 wireUpDistance(document);
