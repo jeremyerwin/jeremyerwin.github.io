@@ -9,9 +9,10 @@ var breast=document.getElementById('breastSlider').value*scale;
 var frontLength=document.getElementById('frontLengthSlider').value*scale;
 var underarmHeight=document.getElementById('underarmHeightSlider').value*scale;
 var waist=document.getElementById('waistSlider').value*scale;
+var backlength=document.getElementById('backLength').value*scale;
 pat.addPoint("O",33.41 *scale,9.0 *scale)
 pat.downPoint("p1","O",0.75 *scale);
-pat.downPoint("B","p1",15.0 *scale);
+pat.downPoint("B","p1",backlength);
 pat.alongPoint("A","B","p1",underarmHeight);
 pat.leftPoint("C","B",breast/24.0);
 pat.teeIntersectionPoint("A1","A",-180.0,"p1","C")
