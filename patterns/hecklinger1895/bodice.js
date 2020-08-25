@@ -32,7 +32,8 @@ pat.intersectionPoint("p11","X","C","A","G")
 pat.leftPoint("D","C",1.5 *scale);
 pat.midPoint("P","G","K")
 pat.leftPoint("J1","J",1.0 *scale);
-pat.circleLineIntersectionPoint("E","J1","P",frontLength-pat.distance("p2","p1"),-90.0);
+pat.upPoint("P2", "P", 1.0*scale)
+pat.circleLSIntersectionPoint("E","J1","P","P2",frontLength-pat.distance("p2","p1"));
 pat.leftPoint("F","E",breast/12.0);
 pat.alongPoint("N","F","G",breast/12.0);
 pat.intersectionPoint("H","B","J","F","G")
