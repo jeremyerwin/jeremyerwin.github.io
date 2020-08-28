@@ -46,7 +46,7 @@ alongPoint("O2","B2","G2",bust/3.0);
 leftPoint("P2","O2",frontWidth);
 downPoint("Q2","A2",bust/2.0-2.5 *scale);
 teeIntersectionPoint("Q2a","Q2",0.0,"F2","G2")
-directionPoint("R2","Q2",-92.0,armholeHeight);
+downPoint("R2","Q2",armholeHeight);
 downPoint("S2","Q2",5.0 *scale);
 teeIntersectionPoint("T2","S2",0.0,"F2","D2")
 downPoint("V2","S2",0.5 *scale);

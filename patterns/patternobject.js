@@ -220,7 +220,7 @@ Pattern.prototype.directionPoint = function(name, aName, degrees, distance) {
 	var theta = radians(degrees);
 	this.points.set(name, {
 		x: a.x + Math.cos(theta) * distance,
-		y: a.y + Math.sin(theta) * distance,
+		y: a.y - Math.sin(theta) * distance,
 		description: "Measure out " + distance / this.scale + " along a " + degrees + " angle from point" + aName + "and mark a point"
 	});
 }

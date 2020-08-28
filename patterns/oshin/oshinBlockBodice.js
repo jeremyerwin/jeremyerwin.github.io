@@ -90,7 +90,7 @@ var makePattern = function() {
 	pat.intersectionPoint("p54","p44","p49","E","F")
 	pat.intersectionPoint("p55","p51","p50","E","F")
 	pat.leftPoint("p56","p54",(pat.distance("p41","p33")+pat.distance("p32","p39")+pat.distance("p38","p13")+pat.distance("p12","p14")-hips)/4.0);
-	pat.directionPoint("p57","p54",-1.0,(pat.distance("p41","p33")+pat.distance("p32","p39")+pat.distance("p38","p13")+pat.distance("p12","p14")-hips)/4.0);
+	pat.rightPoint("p57","p54",(pat.distance("p41","p33")+pat.distance("p32","p39")+pat.distance("p38","p13")+pat.distance("p12","p14")-hips)/4.0);
 	pat.leftPoint("p58","p55",(pat.distance("p41","p33")+pat.distance("p32","p39")+pat.distance("p38","p13")+pat.distance("p12","p14")-hips)/4.0);
 	pat.rightPoint("p59","p55",(pat.distance("p41","p33")+pat.distance("p32","p39")+pat.distance("p38","p13")+pat.distance("p12","p14")-hips)/4.0);
 

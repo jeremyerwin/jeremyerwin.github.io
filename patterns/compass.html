@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8"><title>compass</title>
+<meta charset="UTF-8"><title>compassrose</title>
 <link href="/css/pattern.css" rel="stylesheet">
 </head>
 <body>
 <div class="sidebar">
 Scale<input id="scaleSlider" type="range" min="1" max="100" value="15.0" step=".25"><input type="number" id="scaleText" min="1" max="100" value="15.0" step="0.25"><p>
+unit<input id="unitSlider" type="range" min="4" max="13" value="9.06" step=".25"><input type="number" id="unitText" min="4" max="13" value="9.06" step="0.25"><p>
 <form>PointA<input id="pointA" type="text"><p> PointB<input id="pointB" type="text"><p> distance<input id="distanceField" type="number"> </form>
-<p><input type='button' onclick='make_download("compass.las")' value="Download" /></p></div>
+<p><input type='button' onclick='make_download("compassrose.las")' value="Download" /></p></div>
 <div class="maincontent" id="container"></div>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>

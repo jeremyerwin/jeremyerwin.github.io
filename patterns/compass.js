@@ -4,26 +4,41 @@ var makePattern = function() {
 pat.paper.clear();
 scale=pat.scale;
     myMeasurements={}
-pat.addPoint("origin",53.3 *scale,20.4 *scale)
-pat.downPoint("south","origin",20.0 *scale);
-pat.upPoint("north","origin",20.0 *scale);
-pat.leftPoint("west","origin",20.0 *scale);
-pat.rightPoint("east","origin",20.0 *scale);
-pat.directionPoint("northwest","origin",135.0,20.0 *scale);
-pat.directionPoint("northeast","origin",45.0,20.0 *scale);
-pat.directionPoint("southeast","origin",-45.0,20.0 *scale);
-pat.directionPoint("southwest","origin",-135.0,20.0 *scale);
+var unit=document.getElementById('unitSlider').value*scale;
+pat.addPoint("A",14.02 *scale,10.47 *scale);
+
+
+// pat.directionPoint("NORTH","A",90.0,unit);
+// pat.directionPoint("EAST","A",0.0,unit);
+// pat.directionPoint("SOUTH","A",-90.0,unit);
+// pat.directionPoint("WEST","A",-180.0,unit);
+// pat.directionPoint("SE","A",-45.0,unit);
+// pat.directionPoint("SW","A",-135.0,unit);
+// pat.directionPoint("NW","A",135.0,unit);
+// pat.directionPoint("NE","A",45.0,unit);
+// 
+
+pat.directionPoint("NORTH","A",90.0,unit);
+pat.directionPoint("EAST","A",0.0,unit);
+pat.directionPoint("SOUTH","A",-90.0,unit);
+pat.directionPoint("WEST","A",-180.0,unit);
+pat.directionPoint("SE","A",-45.0,unit);
+pat.directionPoint("SW","A",-135.0,unit);
+pat.directionPoint("NW","A",135.0,unit);
+pat.directionPoint("NE","A",45.0,unit);
+
 pat.printPoints();
-pat.line("origin","east");
-pat.line("origin","southeast");
-pat.line("origin","south");
-pat.line("origin","northeast");
-pat.line("origin","north");
-pat.line("origin","northwest");
-pat.line("origin","west");
-pat.line("origin","southwest");
+pat.line("A","NORTH");
+pat.line("A","NE");
+pat.line("A","EAST");
+pat.line("A","SE");
+pat.line("A","SOUTH");
+pat.line("A","SW");
+pat.line("A","WEST");
+pat.line("A","NW");
 displaydistance(document);
 }
 makePattern(true);
 wireUpScale(document);
+wireUpControl(document,'unit');
 wireUpDistance(document);
