@@ -346,7 +346,7 @@ Pattern.prototype.circleLineIntersectionPoint = function(name, aName, bName, rad
 	var theta = radians(degreesB);
 	var c = {
 		x: (b.x + Math.cos(theta) * 1000),
-		y: (b.y - Math.sin(theta) * 1000)
+		y: (b.y + Math.sin(theta) * 1000)
 	};
 	console.log(degreesB, b.y, c.y);
 
