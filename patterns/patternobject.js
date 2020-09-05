@@ -463,6 +463,7 @@ Pattern.prototype.circleLineIntersection = function(a, b, c, radiusA) {
 	var term2 = (radiusA * radiusA * dr * dr - D * D);
 
 
+
 	if (term2 >= 0) {
 		console.log(radiusA);
 
