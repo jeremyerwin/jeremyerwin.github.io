@@ -4,13 +4,17 @@ var makePattern = function() {
 pat.paper.clear();
 scale=pat.scale;
     myMeasurements={}
+
+    var panX=document.getElementById('panXSlider').value*scale;
+    var panY=document.getElementById('panYSlider').value*scale;
 var blade=document.getElementById('bladeSlider').value*scale;
 var breast=document.getElementById('breastSlider').value*scale;
 var frontLength=document.getElementById('frontLengthSlider').value*scale;
 var underarmHeight=document.getElementById('underarmHeightSlider').value*scale;
 var waist=document.getElementById('waistSlider').value*scale;
 var backlength=document.getElementById('backLengthSlider').value*scale;
-pat.addPoint("O",45 *scale,12 *scale)
+pat.addPoint("O",panX,panY);
+
 pat.downPoint("p1","O",0.75 *scale);
 pat.downPoint("B","p1",backlength);
 pat.alongPoint("A","B","p1",underarmHeight);
@@ -110,6 +114,8 @@ displaydistance(document);
 }
 makePattern(true);
 wireUpScale(document);
+wireUpControl(document,'panX');
+wireUpControl(document,'panY');
 wireUpControl(document,'blade');
 wireUpControl(document,'breast');
 wireUpControl(document,'frontLength');
