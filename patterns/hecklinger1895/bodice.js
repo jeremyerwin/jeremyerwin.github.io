@@ -10,7 +10,7 @@ var frontLength=document.getElementById('frontLengthSlider').value*scale;
 var underarmHeight=document.getElementById('underarmHeightSlider').value*scale;
 var waist=document.getElementById('waistSlider').value*scale;
 var backlength=document.getElementById('backLengthSlider').value*scale;
-pat.addPoint("O",33.41 *scale,9.0 *scale)
+pat.addPoint("O",45 *scale,12 *scale)
 pat.downPoint("p1","O",0.75 *scale);
 pat.downPoint("B","p1",backlength);
 pat.alongPoint("A","B","p1",underarmHeight);
