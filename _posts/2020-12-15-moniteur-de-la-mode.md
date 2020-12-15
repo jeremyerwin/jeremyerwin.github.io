@@ -34,9 +34,9 @@ I was rereading Patterns of Fashion 2 thhe other day, and discovered a reference
 	
 	So, I resolved to search out these patterns-- a difficult task, as ebay venders do not always print the cover pages legibly. I'm led to believe that the patternmaking colums of interest are called  "Cours de Coupe"  (circa 1891) amd "Ètudes de Coupe" (circa 1894). I have obtained the number 52 from 1894, and lucky for me, it contains an index. 
 	
-	Pattern drafting instructions published in 1894 include Jupe éventail, Nouveaux collets, Collet tailleur, and Veste d'amazone. Now, all I need do translate the page numbers into issue numbers,m and buy those seven issues I also learned that the Deluxe Edition of this magazine was published under the name *Revue de la Mode*-- somewhat bizarre as thhe pre 1890 issues of that title available through Europeana do not stike me as particularly deluxe.
+	Pattern drafting instructions published in 1894 include Jupe éventail, Nouveaux collets, Collet tailleur, and Veste d'amazone. Now, all I need do is translate the page numbers into issue numbers, and buy those seven issues. I also learned that the Deluxe Edition of this magazine was published under the name *Revue de la Mode*-- somewhat bizarre as the pre 1890 issues of that title available through Europeana do not strike me as particularly deluxe.
 	
 	[Le Moniteur de la Mode 52:(52) 617-628](https://archive.org/details/moniteur52-1894_202012)
 	
-	I aslo have the first issue of 1895, but I haven't scanned this in yet.
+	I also have the first issue of 1895, but I haven't scanned this in yet.
 	
