@@ -3,7 +3,7 @@ layout: post
 date: 2021-04-01
 ---
 
-This is a consolidated listing of "corset" references as found in the indices of *La Mode Illustree* from 1869--1899. A few "corsets" defy modern expectaions, being loosely knit children's garments. 
+This is a consolidated listing of "corset" references as found in the indices of *La Mode Illustree* from 1862--1899. A few "corsets" defy modern expectations, being loosely knit children's garments. 
 
 Each reference is in the format \[issue number\]:[page number]. *La Mode Illustree* was the french edition of *Der Bazar* a global fashion magazine. If material, such as a pattern sheet is missing, it may be preserved in other archives collecting issues of *Bazar*, *Harper's Bazar* *La Moda Elegante* etc., 
 
@@ -269,7 +269,7 @@ Europeana has a few issues, as well as Pattern (Patroon) sheets
 
 ## 1891
 
-Europeana has a few issues, as well as Pattern (Patrron) sheets
+Europeana has a few issues, as well as Pattern (Patroon) sheets
 
 - Corset pour fillette de 14 à 16 ans, 29:228.
 - Corset pour taille épaisse, 31:243.
@@ -324,7 +324,7 @@ Europeana has only one issue
 
 [31 4-août-1895](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_36_18950804localID_europeana_fashion_LMI_jaargang_36_18950804)
 
- under Crochet
+- under Crochet
 	- Corset fait au crochet pour petite fille de 6 à 7 ans, 30:234.  
  
 - under Lingerie
