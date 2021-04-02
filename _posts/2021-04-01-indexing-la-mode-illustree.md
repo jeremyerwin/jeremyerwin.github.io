@@ -5,7 +5,7 @@ date: 2021-04-01
 
 This is a consolidated listing of "corset" references as found in the indices of *La Mode Illustree* from 1869--1899. A few "corsets" defy modern expectaions, being loosely knit children's garments. 
 
-Each reference is in the format \[issue number\]:[page number]. *La Mode Illustree* was the french edition of *Der Bazar* a global fashion magazine. If material, such as a pattern sheet is missing, it may be preserved in other archives-- *Bazar*, *Harper's Bazar* *La Moda Elegante* etc., 
+Each reference is in the format \[issue number\]:[page number]. *La Mode Illustree* was the french edition of *Der Bazar* a global fashion magazine. If material, such as a pattern sheet is missing, it may be preserved in other archives collecting issues of *Bazar*, *Harper's Bazar* *La Moda Elegante* etc., 
 
 The endpoints are arbitary, *LMI* was published from 1860--1937, and Europeana (drawing on the archives of  ModeMuseum Provincie Antwerpen)  has material from 1862-1910. More may be added as time permits.
 
@@ -82,7 +82,9 @@ The endpoints are arbitary, *LMI* was published from 1860--1937, and Europeana (
 - Corsets, 2:16. 
 - Corsets extérieurs, 29:225.  
 
-## 1873 (none)
+## 1873 
+
+(none)
 
 ## 1874
 
@@ -91,9 +93,7 @@ The endpoints are arbitary, *LMI* was published from 1860--1937, and Europeana (
 [46 15-novembre-1874](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_15_18741115localID_europeana_fashion_LMI_jaargang_15_18741115)
 
 - Corset brodé, 38:300
-
 - Corset en crin tissé, 38:301.
-
 - Corset pour petite fille de 4 à 6 ans, 46:362
 
 
@@ -109,7 +109,7 @@ The endpoints are arbitary, *LMI* was published from 1860--1937, and Europeana (
 
 [45 7-novembre-1875](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_16_18751107localID_europeana_fashion_LMI_jaargang_16_18751107)
 
-Europeana has several Patroon references
+Europeana has several Patroon (pattern sheets)
 
 - Corset au crochet pour enfant de 1 à 3 ans, 32:249. 
 - Corset-brassière de chez M“o Goutte, 8:61.
@@ -122,9 +122,9 @@ Europeana has several Patroon references
 
 [47 19-novembre-1876](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_17_18761119localID_europeana_fashion_LMI_jaargang_17_18761119)
 
-Corset à élastiques, 47:371.
-Corset-cuirasse, 47:371.
-Corset pour fillette de 11 à 13 ans, 47:371.
+- Corset à élastiques, 47:371.
+- Corset-cuirasse, 47:371.
+- Corset pour fillette de 11 à 13 ans, 47:371.
 
 ## 1877
 
@@ -133,7 +133,6 @@ Corset pour fillette de 11 à 13 ans, 47:371.
 [35 2-septembre-1877](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_18_18770902localID_europeana_fashion_LMI_jaargang_18_18770902)
 
 [40 7-octobre-1877](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_18_18771007localID_europeana_fashion_LMI_jaargang_18_18771007)
-
 
 - Corset pour fillette de 11 à 13 ans, 40:315.
 - Corsets pour fillettes, 5:35.
@@ -171,12 +170,11 @@ none
 Europeana is missing issues.
 
 3 15-janvier-1882
+
 38 17-sep-1882 
 
 - Corset en cachemire, 3:21.
-
 - Corset pour taille épaisse, 38:299.
-
 - Corsets en satin. 3:20. 38:299.
 
 ## 1883
@@ -185,7 +183,7 @@ none
 
 ## 1885
 
-- [16 19-avril-1885](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_26_18850419localID_europeana_fashion_LMI_jaargang_26_18850419)
+[16 19-avril-1885](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_26_18850419localID_europeana_fashion_LMI_jaargang_26_18850419)
 
 - Corset pour dame épaisse, 16:123.
 
@@ -217,8 +215,8 @@ europeana has patterns
 
 [21 20-mai-1888](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_29_18880520localID_europeana_fashion_LMI_jaargang_29_18880520)
 
-Corset d'amazone, 11:82.
-Corset-maintien, 21:163.
+- Corset d'amazone, 11:82.
+- Corset-maintien, 21:163.
 
 ## 1889
 
@@ -256,8 +254,8 @@ Europeana has a few issues, as well as Pattern (Patrron) sheets
 
 ## 1893
 
-Europeana has one issue
-Corsets, 27:212.
+Europeana has only one issue
+- Corsets, 27:212.
 
 ## 1894
 
@@ -269,7 +267,7 @@ Corsets, 27:212.
 
 [30 29-juillet-1894](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_35_18940729localID_europeana_fashion_LMI_jaargang_35_18940729)
 
-[37 16-septembre-1894] (missing-- ripped pages)
+37 16-septembre-1894 (missing-- ripped pages)
 
 [38 23-septembre-1894](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_35_18940923localID_europeana_fashion_LMI_jaargang_35_18940923)
 
@@ -394,6 +392,6 @@ europeana has patterns
 	- Corset de maison, 27:325; 
 	- Corset de sport, 7:76
 
-- Under COSTUMES ET ROBES D’ENFANTS (Petites Filles)
+- Under Costumes and Robes d'Enfants (Petites Filles)
 
 	- Corset, jupon et corsage de dessous pour petite fille de 3 à 4 aus, 23:271
