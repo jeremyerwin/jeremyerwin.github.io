@@ -9,6 +9,38 @@ Each reference is in the format \[issue number\]:[page number]. *La Mode Illustr
 
 The endpoints are arbitary, *LMI* was published from 1860--1937, and Europeana (drawing on the archives of  ModeMuseum Provincie Antwerpen)  has material from 1862-1910. More may be added as time permits.
 
+## 1862
+
+[5 20-janvier-1862](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_03_18620120localID_europeana_fashion_LMI_jaargang_03_18620120)
+
+[14 7-avril-1862](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_03_18620407localID_europeana_fashion_LMI_jaargang_03_18620407)
+
+
+- Corset pour petite fille de deux à six ans,
+14:118.
+- Corset Victoria, 5:27.
+
+## 1863
+
+[11 16-mars-1863](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_04_18630316localID_europeana_fashion_LMI_jaargang_04_18630316)
+
+- Corset pour enfant nouveau-né, 11:82.
+
+## 1866
+
+[6 4-fevrier-1866](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_07_18660204localID_europeana_fashion_LMI_jaargang_07_18660204)
+
+[40 1-octobre-1866](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_07_18661001localID_europeana_fashion_LMI_jaargang_07_18661001)
+
+[44 28-octobre-1866](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_07_18661028localID_europeana_fashion_LMI_jaargang_07_18661028)
+
+[47 18-novembre-1866](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_07_18661118localID_europeana_fashion_LMI_jaargang_07_18661118)
+
+- Corset extérieur pour enfant, 44:362.
+- Corset fait au crochet, 47:385.
+- Corset pour petite fllle de 10 à 12 ans, 6:43. 
+- Corset tricot (petit), pour enfant d'un an, 40:313.
+
 
 ## 1869
 
