@@ -16,8 +16,7 @@ The endpoints are arbitary, *LMI* was published from 1860--1937, and Europeana (
 [14 7-avril-1862](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_03_18620407localID_europeana_fashion_LMI_jaargang_03_18620407)
 
 
-- Corset pour petite fille de deux à six ans,
-14:118.
+- Corset pour petite fille de deux à six ans, 14:118.
 - Corset Victoria, 5:27.
 
 ## 1863
@@ -120,7 +119,7 @@ The endpoints are arbitary, *LMI* was published from 1860--1937, and Europeana (
 
 ## 1874
 
-[38 20-semptembre-1874](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_15_18740920localID_europeana_fashion_LMI_jaargang_15_18740920)
+[38 20-septembre-1874](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_15_18740920localID_europeana_fashion_LMI_jaargang_15_18740920)
 
 [46 15-novembre-1874](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_15_18741115localID_europeana_fashion_LMI_jaargang_15_18741115)
 
@@ -144,7 +143,7 @@ The endpoints are arbitary, *LMI* was published from 1860--1937, and Europeana (
 Europeana has several Patroon (pattern sheets)
 
 - Corset au crochet pour enfant de 1 à 3 ans, 32:249. 
-- Corset-brassière de chez M“o Goutte, 8:61.
+- Corset-brassière de chez Mme Goutte, 8:61.
 - Corset-cuirasse (modèle de chez Goutte), 45:354.
 - Corset extérieur pour fillette, 12:90.
 - Corset, modèle de chez Mme Léoty, 8:61.
@@ -175,11 +174,8 @@ Europeana has several Patroon (pattern sheets)
 [38 22-septembre-1878](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_19_18780922localID_europeana_fashion_LMI_jaargang_19_18780922)
 
 - Corset en toile anglaise, 38:298.
-
 - Corset redressant la taille pour jeunes filles, 38:299.
-
 - Corsets en coutil, 38:298.
-
 - Corsets pour fillettes, 38:298.
 
 
@@ -309,7 +305,7 @@ Europeana has only one issue
 	- Corset d'été en batiste, 26:203.  
 - under Objets Divers
 	- Corset de maison pour dame, 38:299. 
-	- Corset de voyage \(brassière), 24:187. 
+	- Corset de voyage \(brassière\), 24:187. 
 	- Corset pour petite fille de 4 â 6 ans, 30:234..
 	- Corset pour petite fille de 8 à 10 ans, 37:293.  
 
@@ -328,8 +324,7 @@ Europeana has only one issue
 	- Corset fait au crochet pour petite fille de 6 à 7 ans, 30:234.  
  
 - under Lingerie
-	- Corset pour fillette de 10 à 11 ans,  
-16:123; 
+	- Corset pour fillette de 10 à 11 ans,  16:123; 
 	- de 11 à 12 ans, 29:227. 
 	- Corset du matin ou de voyage, 31:242.  
   
@@ -379,13 +374,10 @@ europeana has patterns
 
 - under COSTUMES ET ROBES D’ENFANTS/fillettes
 	- Corset-maintein pour fillette de 12 à 13 ans, 27:317
-
 - under Layette
-
 	- corset (.petit) et pantalon pour enfant d’un an, 18:207.
 
 - under Lingerie
-
 	- Corset moderne, 25:291 ; 
 	- orné d'entre-deux, 29:339 ; 
 	- pouvant s'élargir pour dame souffrante. 3:28 ; 
@@ -412,18 +404,13 @@ europeana has patterns
 
 
 - Under Layette
-
 	- Corset et jupon, 18:208
-
 - Under Lingerie
-
 	- Corset-ceinture pour jeune fille, 5:52
 	- Corset extensible pour jeune dame souffrante, 3:29
 	- Corset hygiénique, 1:5 ; 
 	- Corset hygiénique pour sport, 16:184; 
 	- Corset de maison, 27:325; 
 	- Corset de sport, 7:76
-
 - Under Costumes and Robes d'Enfants (Petites Filles)
-
 	- Corset, jupon et corsage de dessous pour petite fille de 3 à 4 aus, 23:271
