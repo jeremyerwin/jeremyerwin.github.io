@@ -3,7 +3,7 @@ layout: post
 date: 2021-04-01
 ---
 
-This is a consolidated listing of "corset" references as found in the indices of *La Mode Illustree* from 1862--1899. A few "corsets" defy modern expectations, being loosely knit children's garments. 
+This is a consolidated listing of "corset" references as found in the indices of *La Mode Illustree* from 1860--1899. A few "corsets" defy modern expectations, being loosely knit children's garments. 
 
 Each reference is in the format \[issue number\]:[page number]. *La Mode Illustree* was the french edition of *Der Bazar* a global fashion magazine. If material, such as a pattern sheet is missing, it may be preserved in other archives collecting issues of *Bazar*, *Harper's Bazar* *La Moda Elegante* etc., 
 
@@ -12,6 +12,13 @@ The endpoints are arbitary, *LMI* was published from 1860--1937, and Europeana (
 Another archive of La Mode Illustrée can be found at
 [Bibliothèque Historique de la Ville de Paris](https://bibliotheques-specialisees.paris.fr)
 
+## 1860
+
+
+
+## 1861
+
+- Corsets 145
 
 ## 1862
 
@@ -29,6 +36,16 @@ Another archive of La Mode Illustrée can be found at
 
 - Corset pour enfant nouveau-né, 11:82.
 
+## 1864
+
+(none)
+
+## 1865
+
+[10 5-mars-1865](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1865/n10)
+
+- Corset-ceinture 10:74
+- Corset (grand) 10:74
 ## 1866
 
 [6 4-fevrier-1866](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_07_18660204localID_europeana_fashion_LMI_jaargang_07_18660204)
@@ -270,6 +287,8 @@ europeana has patterns
 
 Europeana has a few issues, as well as Pattern (Patroon) sheets
 
+[40 5-octobre-1890](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1890/n40)
+
 - Corset-maintien pour fillette de 13 à 15 ans, 40:314.
 - Corset pour taille épaisse, 40:314.
 - Corsets pour fillettes de 12 à 14 ans, 3, 40:314.
@@ -278,6 +297,10 @@ Europeana has a few issues, as well as Pattern (Patroon) sheets
 ## 1891
 
 Europeana has a few issues, as well as Pattern (Patroon) sheets
+
+[29 19-juillet-1891](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1891/n29)
+
+[31 2-août-1891](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1891/n31)
 
 - Corset pour fillette de 14 à 16 ans, 29:228.
 - Corset pour taille épaisse, 31:243.
