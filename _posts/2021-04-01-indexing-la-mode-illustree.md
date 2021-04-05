@@ -7,7 +7,11 @@ This is a consolidated listing of "corset" references as found in the indices of
 
 Each reference is in the format \[issue number\]:[page number]. *La Mode Illustree* was the french edition of *Der Bazar* a global fashion magazine. If material, such as a pattern sheet is missing, it may be preserved in other archives collecting issues of *Bazar*, *Harper's Bazar* *La Moda Elegante* etc., 
 
-The endpoints are arbitary, *LMI* was published from 1860--1937, and Europeana (drawing on the archives of  ModeMuseum Provincie Antwerpen)  has material from 1862-1910. More may be added as time permits.
+The endpoints are arbitary, *LMI* was published from 1860--1937, and Europeana (drawing on the archives of  ModeMuseum Provincie Antwerpen)  has material from 1862-1910. More may be added as time permits. 
+
+Another archive of La Mode Illustrée can be found at
+[Bibliothèque Historique de la Ville de Paris](https://bibliotheques-specialisees.paris.fr)
+
 
 ## 1862
 
@@ -197,9 +201,10 @@ none
 
 Europeana is missing issues.
 
-3 15-janvier-1882
+[3 15-janvier-1882](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1882/n3)
 
-38 17-sep-1882 
+
+[38 17-sep-1882](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1882/n38)
 
 - Corset en cachemire, 3:21.
 - Corset pour taille épaisse, 38:299.
@@ -248,7 +253,14 @@ europeana has patterns
 
 ## 1889
 
-Eurpoeana has one issue
+[7 17-février-1889](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1889/n7?posInSet=1&queryId=9cf98fb8-ff16-429f-8f17-2a79419f26f6)
+
+[31 4-août-1889](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1889/n31?posInSet=1&queryId=8a9b0b41-7f73-41bf-8a3d-ea443095ed88)
+
+[38 22-septembre-1889](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1889/n38?posInSet=1&queryId=44596f8f-b132-4e3c-965d-7275e009a89b)
+
+
+
 
 - Corset grec (à mettre sous la robe de chambre), 38:299
 - Corset pour fillette de 12 à 14 ans, 31:243.
@@ -295,7 +307,7 @@ Europeana has only one issue
 
 [30 29-juillet-1894](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_35_18940729localID_europeana_fashion_LMI_jaargang_35_18940729)
 
-37 16-septembre-1894 (missing-- ripped pages)
+[37 16-septembre-1894](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1894/n37?posInSet=1&queryId=d071ce30-f361-4aec-97f9-f65e8e2c43d8)
 
 [38 23-septembre-1894](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_35_18940923localID_europeana_fashion_LMI_jaargang_35_18940923)
 
@@ -328,7 +340,20 @@ Europeana has only one issue
 	- de 11 à 12 ans, 29:227. 
 	- Corset du matin ou de voyage, 31:242.  
   
-## 1896 (index missing)
+## 1896 
+- under Layette
+	- Corset 138
+- under Lingerie
+	- Corset avec Jupon 210
+	- Corsets pour dame bicycliste et sport, pour costume d'amazone et voyage 18
+	- Corset-maintain pour filettes de 13 à 14 ans 36
+	- Corset pur petite fille de 7 à 8 ans, pouvant être mis des deux côtes 35
+	- Courset du matin 227
+	- Corset élastique pour jeune femme, 34
+
+
+
+
 
 ## 1897 
 
