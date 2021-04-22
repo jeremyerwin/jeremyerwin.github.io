@@ -46,6 +46,7 @@ Another archive of La Mode Illustrée can be found at
 
 - Corset-ceinture 10:74
 - Corset (grand) 10:74
+
 ## 1866
 
 [6 4-fevrier-1866](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_07_18660204localID_europeana_fashion_LMI_jaargang_07_18660204)
@@ -60,6 +61,28 @@ Another archive of La Mode Illustrée can be found at
 - Corset fait au crochet, 47:385.
 - Corset pour petite fllle de 10 à 12 ans, 6:43. 
 - Corset tricot (petit), pour enfant d'un an, 40:313.
+
+## 1867
+
+[26 30-juin-1867](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1867/n26)
+
+[22-décembre-1867](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1867/n51)
+
+- Demi-corset de chez Mme Fladry, 26:203.
+- Corset au crochet pour dame 51:401
+
+
+## 1868
+
+[1 3-janvier-1868](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1868/n1)
+
+[36 6-septembre-1868](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1868/n36)
+
+
+- Corset en flanelle rouge pour petite fille
+de 10 à 12 ans, 1:2.
+- Corsets (instructions pour couper, prépa¬
+rer et coudre les). 36:281.
 
 
 ## 1869
@@ -161,7 +184,7 @@ Another archive of La Mode Illustrée can be found at
 
 [45 7-novembre-1875](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_16_18751107localID_europeana_fashion_LMI_jaargang_16_18751107)
 
-Europeana has several Patroon (pattern sheets)
+Europeana has a few Pattern  sheets (MoMu Antwerp calls them Patroon)
 
 - Corset au crochet pour enfant de 1 à 3 ans, 32:249. 
 - Corset-brassière de chez Mme Goutte, 8:61.
@@ -285,7 +308,7 @@ europeana has patterns
 
 ## 1890
 
-Europeana has a few issues, as well as Pattern (Patroon) sheets
+Europeana has a few issues, as well as Pattern  sheets (MoMu Antwerp calls them Patroon)
 
 [40 5-octobre-1890](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1890/n40)
 
@@ -296,7 +319,7 @@ Europeana has a few issues, as well as Pattern (Patroon) sheets
 
 ## 1891
 
-Europeana has a few issues, as well as Pattern (Patroon) sheets
+Europeana has a few issues, as well as Pattern  sheets (MoMu Antwerp calls them Patroon)
 
 [29 19-juillet-1891](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000553549/1891/n29)
 
@@ -404,8 +427,7 @@ Europeana has only one issue
 
 
 ## 1898
-
-europeana has patterns
+Europeana has a few  Pattern  sheets (MoMu Antwerp calls them Patroon)
 [3 16-janvier-1898](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_39_18980116localID_europeana_fashion_LMI_jaargang_39_18980116)
 
 [7 13-février-1898](https://www.europeana.eu/en/item/2048208/localID_europeana_fashion_LMI_jaargang_39_18980213localID_europeana_fashion_LMI_jaargang_39_18980213)
