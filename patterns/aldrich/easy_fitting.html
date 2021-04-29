@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><title>Easy fitting Bodice from Winifred Aldrich</title>
+<link href="/css/pattern.css" rel="stylesheet">
+</head>
+<body>
+<div class="sidebar">
+scale<input id="scaleSlider" type="range" min="1" max="100" value="10.0" step=".25"><input type="number" id="scaleText" min="1" max="100" value="10.0" step="0.25"><p>
+armscyeDepth<input id="armscyeDepthSlider" type="range" min="12" max="36" value="24.4" step=".25"><input type="number" id="armscyeDepthText" min="12" max="36" value="24.4" step="0.25"><p>
+back<input id="backSlider" type="range" min="21" max="63" value="42.6" step=".25"><input type="number" id="backText" min="21" max="63" value="42.6" step="0.25"><p>
+bust<input id="bustSlider" type="range" min="61" max="183" value="122.0" step=".25"><input type="number" id="bustText" min="61" max="183" value="122.0" step="0.25"><p>
+chest<input id="chestSlider" type="range" min="21" max="63" value="42.6" step=".25"><input type="number" id="chestText" min="21" max="63" value="42.6" step="0.25"><p>
+dart<input id="dartSlider" type="range" min="5" max="24" value="11.2" step=".25"><input type="number" id="dartText" min="5" max="24" value="11.2" step="0.25"><p>
+napeToWaist<input id="napeToWaistSlider" type="range" min="21" max="65" value="43.8" step=".25"><input type="number" id="napeToWaistText" min="21" max="65" value="43.8" step="0.25"><p>
+neck<input id="neckSlider" type="range" min="22" max="67" value="45.2" step=".25"><input type="number" id="neckText" min="22" max="67" value="45.2" step="0.25"><p>
+shoulderLength<input id="shoulderLengthSlider" type="range" min="7" max="21" value="14.2" step=".25"><input type="number" id="shoulderLengthText" min="7" max="21" value="14.2" step="0.25"><p>
+sizes Above 14<input id="sizesSlider" type="range" min="0" max="8" value="0.0" step="1"><input type="number" id="sizesText" min="0" max="8" value="0.0" step="1"><p>
+waistToHip<input id="waistToHipSlider" type="range" min="11" max="34" value="22.7" step=".25"><input type="number" id="waistToHipText" min="11" max="34" value="22.7" step="0.25"><p>
+<form>PointA<input id="pointA" type="text"><p> PointB<input id="pointB" type="text"><p> distance<input id="distanceField" type="number"> </form>
+<p><input type='button' onclick='make_download("littlegirlsdress.las")' value="Download" /></p></div>
+<div class="maincontent" id="container"></div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>
+<script type="text/javascript" src="/patterns/patternobject.js"></script>
+<script type="text/javascript" src="/patterns/las.js"></script>
+<script type="text/javascript" src="easy_fitting.js "></script>
+</body>
+</html>
