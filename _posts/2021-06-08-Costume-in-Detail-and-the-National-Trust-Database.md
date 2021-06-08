@@ -76,7 +76,7 @@ Search strategies:
 
 	- p89 1800-1810 White spotted muslin dress [An early 19th century (1800-1810) white muslin dress with embroidered spots](http://www.nationaltrustcollections.org.uk/object/1349114) 
 
-	- p91-92 1806-09 Plain white muslin dress with long sleeves [Dress - Late 18th century (c.1795) dress of plain white muslin.]
+	- p91-92 1806-09 Plain white muslin dress with long sleeves [Dress - Late 18th century (c.1795) dress of plain white muslin.](http://www.nationaltrustcollections.org.uk/object/1349109)
 
 	- p87 1816 Heavy cream cloth caped coat or pelisse [Coat; Pelisse Woman's pelisse (coat) dating from 1820-30.](http://www.nationaltrustcollections.org.uk/object/1349181)
 
