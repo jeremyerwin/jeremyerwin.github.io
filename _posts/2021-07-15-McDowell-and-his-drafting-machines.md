@@ -3,18 +3,18 @@ layout: post
 date: 2021-07-15
 ---
 
-This is an aimless collectdion of notes on A McDowell, an inventor and publisher. I am not lucky enough to own one of his brass dressmaking machines; my interest lies mostly in his carreer as a magazine publisher. Nevertheless, here are some references i've discovered from pouring through the Library of Congress's fashion periodicals-- an activity interrupted by the epidemic. I have quite a few research angles to investigate!
+This is a somewhat aimless collection of notes on Albert McDowell, an inventor and publisher. I am not lucky enough to own one of his brass dressmaking machines; my interest lies mostly in his carreer as a magazine publisher. Nevertheless, here are some references i've discovered from pouring through the Library of Congress's fashion periodicals-- an activity interrupted by the epidemic. I have quite a few research angles to investigate!
 
-- One particularly useful reference on the McDowell Drafting Machines is Claudia Kidwell's *Cutting a Fashionable Fit* (1979), available free from the Smithsonian Institution.  I would recommend getting the High resolution PDF, as the low resolution version has illegible diagrams, and the mobi and epub versions contain many OCR errors. 
+One particularly useful reference on the McDowell Drafting Machines is Claudia Kidwell's *Cutting a Fashionable Fit* (1979), available free from the Smithsonian Institution.  I would recommend getting the High resolution PDF, as the low resolution version has illegible diagrams, and the mobi and epub versions contain many OCR errors. 
 
 [Cutting a Fashionable Fit: Dressmakers' Drafting Systems in the United States](https://repository.si.edu/handle/10088/2441)
 
 
 Albert McDowell was granted several patents for his drafting machines, sometimes too late to withstand the changing fashions. The actual drafting machine does not appear to give numbers, but Kidwell lists them as follows.
-Patented 
-Mar 18 1878 [213436](https://patents.google.com/patent/US213436A)
-Jan 6 1885 [310297](https://patents.google.com/patent/US310297A/)
-May 18 1886 [342216](https://patents.google.com/patent/US342216A)
+ 
+- Mar 18 1878 [213436](https://patents.google.com/patent/US213436A)
+- Jan 6 1885 [310297](https://patents.google.com/patent/US310297A/)
+- May 18 1886 [342216](https://patents.google.com/patent/US342216A)
 
 McDowell also published several books on his pattern making systems
 
@@ -24,13 +24,12 @@ McDowell also published several books on his pattern making systems
 
 - [Instruction book for drafting and cutting dresses, basques, sacks, coats, etc, New York A McDowell 1883](https://archive.org/details/instructionbook00mcdo) (archive.org)
 
-and Periodicals 
+Throughout the 1890s, he published a number of fashion periodicals, all purporting to bring news of the latest Parisian fashions
 
 - [The French dressmaker, formerly "La Couturière," first professional fashion journal of Paris ... New York, A. McDowell & co.; Paris, L. Michau, 18  v. illus., col. plates. 40 cm.  TT500 .F84](https://lccn.loc.gov/ca06001188) (LCC permalink)
 
-
 - [The Paris album of fashions \(formerly: Album des modes\) a monthly journal of new and artistic styles for ladies and dressmakers. New York, A. McDowell and co.; Paris \[etc. 18 \]  v. illus., col. plates, charts. 40 cm.  TT500 .P2](https://lccn.loc.gov/ca06001187) (LCC permalink)
- merged into Mode de Paris in 1896
+    merged into *Mode de Paris* in 1896
 
 - [Pictorial review. New York, N.Y. : The Pictorial Review Company, 1899-1939 volumes : illustrations ; 34-41 cm TT500 .P6 ](https://lccn.loc.gov/08036998) (LCC permalink)
 
@@ -63,74 +62,138 @@ For example, the internet archive hosts three copies of [La Couturière](https:/
 
 ----
 
-# A list of Practical Lessons in Dressmaking
+## A list of Practical Lessons in Dressmaking
 These were published as the "Practical Lessons on Dressmaking" on the inside front cover of certain McDowell magazines. Here are the ones I have images of. Others may exist.
 
 
 - 1830 Skirt. (1893). La Mode de Paris, 4(3).
+
 - 1830 Sleeve. (1893). La Mode de Paris, 4(6).
+
 - 1830 Spring Jacket. (1893). La Mode de Paris, 4(4).
+
 - Box Pleated Skirt for Wash Materials. (1895). La Mode de Paris, 6(5 (May)).
+
 - Box-Pleated Skirt for Wash Materials. (1895). The French Dressmaker.
+
 - Circular Flounce Sleeve. (1893). La Mode de Paris, 4(10).
+
 - Combination Waist and Cape. (1891). La Mode de Paris, 2(8).
+
 - Cross Skirts. (1891). La Mode de Paris, (November).
+
 - Dauphine Skirt. (1894). La Mode de Paris, 5(3 (March)).
+
 - Duchess of York Sleeve. (1893). La Mode de Paris, 4(9).
+
 - Early Spring Cape à Godets. (1895). La Mode de Paris, 6(3 (March)).
+
 - Elbow Puff Sleeve for Summer Fabrics. (1895). La Mode de Paris, 6(8 (AUgust)).
+
 - Elbow Puffed Sleeve For Summer Fabrics. (1895). The French Dressmaker.
+
 - Empire Gored Skirt. (1892). La Mode de Paris, 3(12).
+
 - Empire Sleeve. (1893). La Mode de Paris, 4(2 (February)).
+
 - Eton Jacket. (1892). La Mode de Paris, 3(7 (July)).
+
 - Fanback Skirt. (1891). La Mode de Paris, 1(May).
+
 - Felix Eleven Gored Skirt. (1895). La Mode de Paris, 6(10 (October)).
+
 - Felix Gored Skirt without Interlining. (1895). The French Dressmaker.
+
 - Felix Gored Skirt without interlining. (1895). La Mode de Paris, 6(7 (July)).
+
 - Felix Pleated Circular Skirt. (1895). La Mode de Paris, 6(1 (January)).
+
 - Five Godet Skirt. (1894). La Mode de Paris, 5(6 (June)).
+
 - Five Gored Skirt. (1894). La Mode de Paris, 5(5 (May)).
+
 - French Gored Skirt. (1891). La Mode de Paris, 2(7).
+
 - French Skirt for Light Summer Materials. (1895). The French Dressmaker.
+
 - French Skirt for Light Summer Materials. (1895). La Mode de Paris, 6(6 (June)).
+
 - Godet Skirt. (1894). La Mode de Paris, 5(6 (June)).
+
 - Golf Cape. (1894). La Mode de Paris, 5(9 (September)).
+
 - Henry II. Cape. (1893).
+
 - How to Match Plaids and Stripes. (1891). La Mode de Paris, (2).
+
 - Imperitrice Skirt. (1893). La Mode de Paris, 4(5).
-- Lessons on Fancy Sleeves No. 3 “The Conchita.” (1892). La Mode de Paris, 3(3 (March)).
+
 - Lessons on Fancy Sleeves No.1 the Fernande. (1892). La Mode de Paris, 3(1).
+
 - Lessons on Fancy Sleeves, No 2 the Adrienne. (1892). La Mode de Paris, 3(2).
+
+- Lessons on Fancy Sleeves No. 3 “The Conchita.” (1892). La Mode de Paris, 3(3 (March)).
+
 - Lessons on Fancy Sleeves: “The Gilberte.” (1892). La Mode de Paris, 3(9).
+
 - Melba Gigot Sleeve. (1894). La Mode de Paris, 5(4 (April)).
+
 - New French Nine Gored Skirt for Autumn. (1895). French Dressmaker.
+
 - New Jacket Sleeve. (1894). French Dressmaker.
+
 - New Panquin Skirt with Box Pleated Front. (1895). French Dressmaker.
+
 - New Princess without Darts. No opening down the center of the front. (1891). La Mode de Paris, 2(3).
+
 - New Puff Gigot Sleeve. (1894). La Mode de Paris, 5(8 (August)).
+
 - Panquin Summer Skirt. (1896). French Dressmaker.
+
 - Panquin Train Skirt. (1895). La Mode de Paris, 6(11 (November)).
+
 - Panquinette Skirt. (1895). French Dressmaker.
+
 - Pompadour Skirt. (1893). La Mode de Paris, 4.
+
 - Princess Maud Sleeve. (1894). French Dressmaker.
+
 - Recamier Gored Skirt. (1893). La Mode de Paris, 4(8).
+
 - Rejane Sleeve. (1895). La Mode de Paris, 6(9 September).
+
 - Russian Skirt. (1892). La Mode de Paris, 3(6 (June)).
+
 - Santuzza Sleeve. (1894). La Mode de Paris, 5(2 (February)).
+
 - Seamless Skirt. (1892). La Mode de Paris, 3(8).
+
 - Sham Skirt. (1891). La Mode de Paris.
+
 - Six Godets Panquin Yoke Skirt. (1894). The French Dressmaker.
+
 - Six Godets Panquin Yoke Skirt. (1895). La Mode de Paris, 6(2 (February)).
+
 - Theatre Cape. (1893). La Mode de Paris, 4(11).
+
 - Three Godets Train Skirt. (1894). La Mode de Paris, 5(11(November)).
+
 - Train Skirt. (1892). La Mode de Paris, 2(9 (September)).
+
 - Travelling Mantle. (1891). La Mode de Paris, 1(10 (October)).
+
 - Tripple Flounce Circular Skirt. (1893). La Mode de Paris, 4(7).
+
 - Tzarina Sleeve. (1893). La Mode de Paris, 4(12 (December)).
+
 - Watteau Jacket. (1892). La Mode de Paris, 3(11 (November)).
+
 - Watteau Skirt. (1892). La Mode de Paris, 3(5 (May)).
+
 - Worth Godet Skirt. (1894). The French Dressmaker.
+
 - Worth Godet Skirt. (1895). La Mode de Paris, 6(4 (April)).
+
 - Worth Gored Skirt. (1895). La Mode de Paris, 6(12 (December)).
 
 
