@@ -3,7 +3,7 @@ layout: post
 date: 2021-07-15
 ---
 
-This is a somewhat aimless collection of notes on Albert McDowell, an inventor and publisher. I am not lucky enough to own one of his brass dressmaking machines; my interest lies mostly in his carreer as a magazine publisher. Nevertheless, here are some references i've discovered from pouring through the Library of Congress's fashion periodicals-- an activity interrupted by the epidemic. I have quite a few research angles to investigate!
+This is a somewhat aimless collection of notes on Albert McDowell, an inventor and publisher. I am not lucky enough to own one of his brass dressmaking machines; my interest lies mostly in his career as a magazine publisher. Nevertheless, here are some references i've discovered from pouring through the Library of Congress's fashion periodicals-- an activity interrupted by the epidemic. I have quite a few research angles to investigate!
 
 One particularly useful reference on the McDowell Drafting Machines is Claudia Kidwell's *Cutting a Fashionable Fit* (1979), available free from the Smithsonian Institution.  I would recommend getting the High resolution PDF, as the low resolution version has illegible diagrams, and the mobi and epub versions contain many OCR errors. 
 
