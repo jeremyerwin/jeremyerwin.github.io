@@ -20,7 +20,7 @@ McDowell also published several books on his pattern making systems
 
 - [A McDowells American Scientific Pantaloon Delineator New York A McDowell 1891 TT605.M18](https://archive.org/details/amcdowellsameric00mcdo/mode/2up) (archive.org)
 
-- [Instruction book for drafting and cutting dresses, basques, sacks, coats, etc, New York A McDowell 1885](https://archive.org/details/amcdowellsameric00mcdo/mode/2up) (archive.org)
+- [Instruction book for drafting and cutting dresses, basques, sacks, coats, etc, New York A McDowell 1885](https://archive.org/details/instructionbookf00mcdo) (archive.org)
 
 - [Instruction book for drafting and cutting dresses, basques, sacks, coats, etc, New York A McDowell 1883](https://archive.org/details/instructionbook00mcdo) (archive.org)
 
