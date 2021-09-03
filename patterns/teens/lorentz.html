@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><title>lorentz</title>
+<link href="/css/pattern.css" rel="stylesheet">
+</head>
+<body>
+<div class="sidebar">
+Scale<input id="scaleSlider" type="range" min="1" max="100" value="15.0" step=".25"><input type="number" id="scaleText" min="1" max="100" value="15.0" step="0.25"><p>
+Demi-tour des hanches<input id="hanchesSlider" type="range" min="21" max="63" value="42.0" step=".25"><input type="number" id="hanchesText" min="21" max="63" value="42.0" step="0.25"><p>
+Hauteur du dessous de bras<input id="hauteurBrasSlider" type="range" min="9" max="28" value="19.0" step=".25"><input type="number" id="hauteurBrasText" min="9" max="28" value="19.0" step="0.25"><p>
+Hauteur des pinces<input id="hauteurPincesSlider" type="range" min="9" max="27" value="18.0" step=".25"><input type="number" id="hauteurPincesText" min="9" max="27" value="18.0" step="0.25"><p>
+Longeuer de taille devant<input id="longueurDevantSlider" type="range" min="17" max="51" value="34.0" step=".25"><input type="number" id="longueurDevantText" min="17" max="51" value="34.0" step="0.25"><p>
+Longueur du dos<input id="longueurDosSlider" type="range" min="17" max="51" value="34.0" step=".25"><input type="number" id="longueurDosText" min="17" max="51" value="34.0" step="0.25"><p>
+Demi-tour de poitrine<input id="poitrineSlider" type="range" min="20" max="60" value="40.0" step=".25"><input type="number" id="poitrineText" min="20" max="60" value="40.0" step="0.25"><p>
+Demi-tour de taille<input id="tailleSlider" type="range" min="15" max="45" value="30.0" step=".25"><input type="number" id="tailleText" min="15" max="45" value="30.0" step="0.25"><p>
+<form>PointA<input id="pointA" type="text"><p> PointB<input id="pointB" type="text"><p> distance<input id="distanceField" type="number"> </form>
+<p><input type='button' onclick='make_download("lorentz.las")' value="Download" /></p></div>
+<div class="maincontent" id="container"></div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>
+<script type="text/javascript" src="/patterns/patternobject.js"></script>
+<script type="text/javascript" src="/patterns/las.js"></script>
+<script type="text/javascript" src="lorentz.js "></script>
+</body>
+</html>

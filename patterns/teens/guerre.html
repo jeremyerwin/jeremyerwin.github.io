@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><title>guerre</title>
+<link href="/css/pattern.css" rel="stylesheet">
+</head>
+<body>
+<div class="sidebar">
+Scale<input id="scaleSlider" type="range" min="1" max="100" value="15.0" step=".25"><input type="number" id="scaleText" min="1" max="100" value="15.0" step="0.25"><p>
+apexDepth<input id="apexDepthSlider" type="range" min="13" max="39" value="26.0" step=".25"><input type="number" id="apexDepthText" min="13" max="39" value="26.0" step="0.25"><p>
+hauteur de dessous de bras<input id="armHeightSlider" type="range" min="9" max="28" value="19.0" step=".25"><input type="number" id="armHeightText" min="9" max="28" value="19.0" step="0.25"><p>
+Longueur du dos<input id="backLengthSlider" type="range" min="18" max="54" value="36.0" step=".25"><input type="number" id="backLengthText" min="18" max="54" value="36.0" step="0.25"><p>
+Point d'aplomb<input id="balancePointSlider" type="range" min="6" max="18" value="12.5" step=".25"><input type="number" id="balancePointText" min="6" max="18" value="12.5" step="0.25"><p>
+bust<input id="bustSlider" type="range" min="21" max="63" value="42.0" step=".25"><input type="number" id="bustText" min="21" max="63" value="42.0" step="0.25"><p>
+Longueur diagonale du dos<input id="diagonalBackSlider" type="range" min="19" max="58" value="39.0" step=".25"><input type="number" id="diagonalBackText" min="19" max="58" value="39.0" step="0.25"><p>
+frontLength<input id="frontLengthSlider" type="range" min="23" max="69" value="46.0" step=".25"><input type="number" id="frontLengthText" min="23" max="69" value="46.0" step="0.25"><p>
+hanches<input id="hipsSlider" type="range" min="21" max="64" value="43.0" step=".25"><input type="number" id="hipsText" min="21" max="64" value="43.0" step="0.25"><p>
+Longueur totale du dos<input id="totalBackLengthSlider" type="range" min="24" max="73" value="49.0" step=".25"><input type="number" id="totalBackLengthText" min="24" max="73" value="49.0" step="0.25"><p>
+Longueur totale devant<input id="totalFrontLengthSlider" type="range" min="28" max="85" value="57.0" step=".25"><input type="number" id="totalFrontLengthText" min="28" max="85" value="57.0" step="0.25"><p>
+Tour de taille<input id="waistSlider" type="range" min="15" max="45" value="30.0" step=".25"><input type="number" id="waistText" min="15" max="45" value="30.0" step="0.25"><p>
+<form>PointA<input id="pointA" type="text"><p> PointB<input id="pointB" type="text"><p> distance<input id="distanceField" type="number"> </form>
+<p><input type='button' onclick='make_download("guerre.las")' value="Download" /></p></div>
+<div class="maincontent" id="container"></div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>
+<script type="text/javascript" src="/patterns/patternobject.js"></script>
+<script type="text/javascript" src="/patterns/las.js"></script>
+<script type="text/javascript" src="guerre.js "></script>
+</body>
+</html>
