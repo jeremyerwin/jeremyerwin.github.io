@@ -16,6 +16,7 @@ Revue de la Mode
 
 
 [1891 Jun 6](https://archive.org/details/revuedelamode20-23)
+
 [1891 Jun 20](https://archive.org/details/revue-de-la-mode-20-25/)
 
 Moniteur de la Mode
