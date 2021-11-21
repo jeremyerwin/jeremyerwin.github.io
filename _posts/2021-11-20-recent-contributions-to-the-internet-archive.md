@@ -7,9 +7,9 @@ I have recently acquired some more French Women's periodicals, from the Goubaud 
 
 The Library of congress has a incomplete collection of [*Revue de La Mode*](https://lccn.loc.gov/ca15000289), lavishly illustrated with colour plates. Originally, it was this collection that led me to collect "Etude de Coupe", an irregular column on pattermaking. This column was first written by Alice Guerre, but in 1892  was taken over by "A Domage"-- who may well have been the editorial director of the periodical [*Madame*](https://catalogue.bnf.fr/ark:/12148/cb43625346p) 
 
-In 1889, *Revue de la Mode* essentially merged with another Goubaud journal, *Le Moniteur de la Mode*, meaning that if one does not have access to an issue of one magazine, an issue of the other magazine may well suffice. 
+In 1889, *Revue de la Mode* essentially merged with another Goubaud journal, *Le Moniteur de la Mode*, meaning that if one does not have access to an issue of one magazine, an issue of the other magazine may well suffice. I've also acquired a few issues of *Moniteur* from 1884 (deep inside the second bustle era), so that I might compare them to LOC's *Revue*. Sadly I can't afford the colour plates.
 
-Hence, my recent collecting habits, and my contributions to the internet archive. There are a few copies of Moniteur de La Mode from 1884 still left to scan. 
+Hence, my recent collecting habits, and my contributions to the internet archive. 
 
 Revue de la Mode
 
