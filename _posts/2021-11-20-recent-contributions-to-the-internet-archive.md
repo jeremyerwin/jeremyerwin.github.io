@@ -22,6 +22,7 @@ Revue de la Mode
 Moniteur de la Mode
 
 - 1884
+
     - [1884 Apr 5](https://archive.org/details/moniteur42-14)
 
     - [1884 May 31](https://archive.org/details/moniteur42-22)
@@ -35,6 +36,7 @@ Moniteur de la Mode
     - [1884 Dec 6](https://archive.org/details/moniteur49-1884)
 
 - 1891
+
     - [1891 Dec 26](https://archive.org/details/moniteur52-1891) this has an index.
 
 - 1894
