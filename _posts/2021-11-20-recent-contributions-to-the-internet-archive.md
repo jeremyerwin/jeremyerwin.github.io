@@ -13,28 +13,46 @@ Hence, my recent collecting habits, and my contributions to the internet archive
 
 Revue de la Mode
 
+- 1891
 
+    - [1891 Jun 6](https://archive.org/details/revuedelamode20-23)
 
-[1891 Jun 6](https://archive.org/details/revuedelamode20-23)
-
-[1891 Jun 20](https://archive.org/details/revue-de-la-mode-20-25/)
+    - [1891 Jun 20](https://archive.org/details/revue-de-la-mode-20-25/)
 
 Moniteur de la Mode
 
-[1884 Jul 26](https://archive.org/details/moniteur42-30/mode/2up)
+- 1884
+    - [1884 Apr 5](https://archive.org/details/moniteur42-14)
 
-[1884 Dec 6](https://archive.org/details/moniteur49-1884)
+    - [1884 May 31](https://archive.org/details/moniteur42-22)
 
-[1891 Dec 26](https://archive.org/details/moniteur52-1891) this has an index.
+    - [1884 Jul 26](https://archive.org/details/moniteur42-30)
 
-[1894 Aug 11](https://archive.org/details/moniteur32-1894)
-[1894 Dec 29](https://archive.org/details/moniteur52-1894_202012) this has an index.
+    - [1884 Oct 11](https://archive.org/details/moniteur42-41)
 
-[1895 Jan 5](https://archive.org/details/moniteur1-1895)
+    - [1884 Oct 25](https://archive.org/details/moniteur42-43)
 
-[1897 May 8](https://archive.org/details/moniteur19-1897)
+    - [1884 Dec 6](https://archive.org/details/moniteur49-1884)
 
-[1901 Feb 23](https://archive.org/details/moniteur59-8)
+- 1891
+    - [1891 Dec 26](https://archive.org/details/moniteur52-1891) this has an index.
 
-[1901 Mar 23](https://archive.org/details/moniteur59-12)
+- 1894
+
+    - [1894 Aug 11](https://archive.org/details/moniteur32-1894)
+
+    - [1894 Dec 29](https://archive.org/details/moniteur52-1894_202012) this has an index.
+
+- 1895
+
+    - [1895 Jan 5](https://archive.org/details/moniteur1-1895)
+
+- 1897
+
+    - [1897 May 8](https://archive.org/details/moniteur19-1897)
+
+- 1901
+    - [1901 Feb 23](https://archive.org/details/moniteur59-8)
+
+    - [1901 Mar 23](https://archive.org/details/moniteur59-12)
 
