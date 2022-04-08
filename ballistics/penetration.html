@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><title>The Garzke and Dulin Empirical Formula for Armor Penetration</title>
+</head>
+<body>
+
+<form>
+    Shell Diameter<input id="diameter" type="text" value="18.11"> <select id=
+        "diameterUnit">
+        <option value="imperial">inches</option>
+        <option value="metric">cm</option>
+        </select>
+    Shell Weight<input id="weight" type="text" value="3219">  
+    <select id=
+    "weightUnit">
+    <option value="imperial">lbs</option>
+    <option value="metric">kg</option>
+    </select>
+
+    Impact Velocity<input id="velocity" type="text" value="2559"> 
+    <select id="velocityUnit">
+    <option value="imperial">ft/sec</option>
+    <option value="metric">m/s</option>
+    </select>
+
+<p> Penetration <input id="penetration" type="text"> 
+    <select id="penetrationUnit">
+    <option value="imperial">inches</option>
+    <option value="metric">cm</option>
+    </select>
+</form>
+
+<input type='button' onclick='doCalculation()' value="Calculate" />
+
+
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>
+
+<script type="text/javascript" src="penetrate.js "></script>
+</body>
