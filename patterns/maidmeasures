@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.11" class="java.beans.XMLDecoder">
+ <object class="measurements.Measurements" id="Measurements0">
+  <void property="measurements">
+   <void method="put">
+    <string>armpitToWaist</string>
+    <object class="measurements.Measurement">
+     <void property="description">
+      <string>armpitToWaist</string>
+     </void>
+     <void property="name">
+      <string>armpitToWaist</string>
+     </void>
+     <void property="value">
+      <double>792.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>backDart</string>
+    <object class="measurements.Measurement">
+     <void property="description">
+      <string>backDart</string>
+     </void>
+     <void property="name">
+      <string>backDart</string>
+     </void>
+     <void property="value">
+      <double>72.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>backShoulderToWaist</string>
+    <object class="measurements.Measurement">
+     <void property="description">
+      <string>backShoulderToWaist</string>
+     </void>
+     <void property="name">
+      <string>backShoulderToWaist</string>
+     </void>
+     <void property="value">
+      <double>1224.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>ease</string>
+    <object class="measurements.Measurement">
+     <void property="description">
+      <string>ease</string>
+     </void>
+     <void property="name">
+      <string>ease</string>
+     </void>
+     <void property="value">
+      <double>72.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>frontBust</string>
+    <object class="measurements.Measurement">
+     <void property="description">
+      <string>frontBust</string>
+     </void>
+     <void property="name">
+      <string>frontBust</string>
+     </void>
+     <void property="value">
+      <double>1656.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>frontDart</string>
+    <object class="measurements.Measurement">
+     <void property="description">
+      <string>frontDart</string>
+     </void>
+     <void property="name">
+      <string>frontDart</string>
+     </void>
+     <void property="value">
+      <double>72.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>frontShoulderToWaist</string>
+    <object class="measurements.Measurement">
+     <void property="description">
+      <string>frontShoulderToWaist</string>
+     </void>
+     <void property="name">
+      <string>frontShoulderToWaist</string>
+     </void>
+     <void property="value">
+      <double>1224.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>napeToWaist</string>
+    <object class="measurements.Measurement">
+     <void property="description">
+      <string>napeToWaist</string>
+     </void>
+     <void property="name">
+      <string>napeToWaist</string>
+     </void>
+     <void property="value">
+      <double>1152.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>neck</string>
+    <object class="measurements.Measurement">
+     <void property="description">
+      <string>neck</string>
+     </void>
+     <void property="name">
+      <string>neck</string>
+     </void>
+     <void property="value">
+      <double>1152.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>neckToBust</string>
+    <object class="measurements.Measurement">
+     <void property="description">
+      <string>neckToBust</string>
+     </void>
+     <void property="name">
+      <string>neckToBust</string>
+     </void>
+     <void property="value">
+      <double>648.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>shoulderToBust</string>
+    <object class="measurements.Measurement">
+     <void property="description">
+      <string>shoulderToBust</string>
+     </void>
+     <void property="name">
+      <string>shoulderToBust</string>
+     </void>
+     <void property="value">
+      <double>792.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>shoulderToShoulder</string>
+    <object class="measurements.Measurement">
+     <void property="description">
+      <string>shoulderToShoulder</string>
+     </void>
+     <void property="name">
+      <string>shoulderToShoulder</string>
+     </void>
+     <void property="value">
+      <double>1152.0</double>
+     </void>
+    </object>
+   </void>
+   <void method="put">
+    <string>waist</string>
+    <object class="measurements.Measurement">
+     <void property="description">
+      <string>waist</string>
+     </void>
+     <void property="name">
+      <string>waist</string>
+     </void>
+     <void property="value">
+      <double>2304.0</double>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>

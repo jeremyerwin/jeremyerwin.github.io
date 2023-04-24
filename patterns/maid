@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.11" class="java.beans.XMLDecoder">
+ <object class="pattern.PatternModel" id="PatternModel0">
+  <void property="lines">
+   <void method="add">
+    <object class="shapes.HandleLine">
+     <object class="shapes.FixedPoint" id="FixedPoint0">
+      <string>A</string>
+      <string>32.9 cm</string>
+      <string>10.9 cm</string>
+      <object idref="PatternModel0"/>
+      <void property="color">
+       <object class="java.awt.Color" id="Color0">
+        <int>0</int>
+        <int>0</int>
+        <int>0</int>
+        <int>255</int>
+       </object>
+      </void>
+     </object>
+     <object class="shapes.DirectionPoint" id="DirectionPoint0">
+      <string>C</string>
+      <object idref="FixedPoint0"/>
+      <double>90.0</double>
+      <string>napeToWaist+ease</string>
+      <object idref="PatternModel0"/>
+      <void property="color">
+       <object idref="Color0"/>
+      </void>
+      <void property="x">
+       <double>932.5984251968504</double>
+      </void>
+      <void property="y">
+       <double>1532.976377952756</double>
+      </void>
+     </object>
+     <string>1.5 cm</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.HandleLine">
+     <object class="shapes.AlongPoint" id="AlongPoint0">
+      <string>D</string>
+      <object idref="DirectionPoint0"/>
+      <object class="shapes.DirectionPoint" id="DirectionPoint1">
+       <string>B</string>
+       <object idref="FixedPoint0"/>
+       <double>0.0</double>
+       <string>shoulderToShoulder/2</string>
+       <object idref="PatternModel0"/>
+       <void property="color">
+        <object idref="Color0"/>
+       </void>
+       <void property="x">
+        <double>1508.5984251968503</double>
+       </void>
+      </object>
+      <string>frontShoulderToWaist</string>
+      <object idref="PatternModel0"/>
+      <void property="color">
+       <object idref="Color0"/>
+      </void>
+      <void property="x">
+       <double>1453.7739976646228</double>
+      </void>
+      <void property="y">
+       <double>425.47828645873915</double>
+      </void>
+     </object>
+     <object idref="DirectionPoint0"/>
+     <string>1.5 cm</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.HandleLine">
+     <object class="shapes.AlongPoint" id="AlongPoint1">
+      <string>E</string>
+      <object idref="AlongPoint0"/>
+      <object idref="DirectionPoint0"/>
+      <string>shoulderToBust</string>
+      <object idref="PatternModel0"/>
+      <void property="color">
+       <object idref="Color0"/>
+      </void>
+      <void property="x">
+       <double>1116.5427448913583</double>
+      </void>
+      <void property="y">
+       <double>1142.0946986019267</double>
+      </void>
+     </object>
+     <object class="shapes.AngleAnglePoint" id="AngleAnglePoint0">
+      <string>G</string>
+      <object idref="AlongPoint1"/>
+      <object idref="DirectionPoint0"/>
+      <double>90.0</double>
+      <double>0.0</double>
+      <object idref="PatternModel0"/>
+      <void property="color">
+       <object idref="Color0"/>
+      </void>
+     </object>
+     <string>1.5 cm</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.HandleLine">
+     <object idref="AlongPoint1"/>
+     <object class="shapes.DirectionPoint" id="DirectionPoint2">
+      <string>H</string>
+      <object idref="AngleAnglePoint0"/>
+      <double>0.0</double>
+      <string>frontDart</string>
+      <object idref="PatternModel0"/>
+      <void property="color">
+       <object idref="Color0"/>
+      </void>
+      <void property="x">
+       <double>1188.5427448913583</double>
+      </void>
+     </object>
+     <string>1.5 cm</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.HandleLine">
+     <object class="shapes.DirectionPoint" id="DirectionPoint3">
+      <string>L</string>
+      <object idref="FixedPoint0"/>
+      <double>0.0</double>
+      <string>neck/5 - ease</string>
+      <object idref="PatternModel0"/>
+      <void property="color">
+       <object idref="Color0"/>
+      </void>
+      <void property="x">
+       <double>1090.9984251968503</double>
+      </void>
+     </object>
+     <object idref="AlongPoint0"/>
+     <string>1.5 cm</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.DisplacedQuad">
+     <object class="shapes.AlongPoint" id="AlongPoint2">
+      <string>N</string>
+      <object class="shapes.AlongPoint" id="AlongPoint3">
+       <string>M</string>
+       <object idref="FixedPoint0"/>
+       <object idref="DirectionPoint0"/>
+       <string>length(A,L)</string>
+       <object idref="PatternModel0"/>
+       <void property="color">
+        <object idref="Color0"/>
+       </void>
+       <void property="x">
+        <double>932.5984251968503</double>
+       </void>
+       <void property="y">
+        <double>467.376377952756</double>
+       </void>
+      </object>
+      <object idref="DirectionPoint0"/>
+      <string>neckToBust/2</string>
+      <object idref="PatternModel0"/>
+      <void property="color">
+       <object idref="Color0"/>
+      </void>
+      <void property="y">
+       <double>791.376377952756</double>
+      </void>
+     </object>
+     <object class="shapes.MidPoint" id="MidPoint0">
+      <string>O</string>
+      <object idref="DirectionPoint3"/>
+      <object idref="AlongPoint0"/>
+      <object idref="PatternModel0"/>
+      <void property="color">
+       <object idref="Color0"/>
+      </void>
+     </object>
+     <string>length(N,O)/2.0</string>
+     <string>2.8 cm</string>
+     <string>1.5 cm</string>
+     <object class="java.lang.Enum" id="Quad_Segment0" method="valueOf">
+      <class>shapes.Quad_Segment</class>
+      <string>BOTH</string>
+     </object>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.DisplacedQuad">
+     <object idref="AlongPoint0"/>
+     <object class="shapes.CircleLinePoint" id="CircleLinePoint0">
+      <string>K</string>
+      <object class="shapes.PerpendicularPoint" id="PerpendicularPoint0">
+       <string>I</string>
+       <object idref="DirectionPoint2"/>
+       <object idref="AlongPoint1"/>
+       <string>waist/4+ease - length(C,G)</string>
+       <object idref="PatternModel0"/>
+      </object>
+      <object class="shapes.DirectionPoint" id="DirectionPoint4">
+       <string>J</string>
+       <object idref="DirectionPoint0"/>
+       <double>0.0</double>
+       <string>frontBust/2 + ease</string>
+       <object idref="PatternModel0"/>
+       <void property="color">
+        <object idref="Color0"/>
+       </void>
+       <void property="x">
+        <double>1832.5984251968503</double>
+       </void>
+      </object>
+      <double>-90.0</double>
+      <string>armpitToWaist-2*ease</string>
+      <object idref="PatternModel0"/>
+      <void property="color">
+       <object idref="Color0"/>
+      </void>
+      <void property="x">
+       <double>1832.5984251968503</double>
+      </void>
+      <void property="y">
+       <double>828.685391291721</double>
+      </void>
+     </object>
+     <string>length(D,K)/2.0</string>
+     <string>6.8 cm</string>
+     <string>1.5 cm</string>
+     <object idref="Quad_Segment0"/>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.HandleLine">
+     <object idref="CircleLinePoint0"/>
+     <object idref="CircleLinePoint0"/>
+     <string>1.5 cm</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.HandleLine">
+     <object idref="PerpendicularPoint0"/>
+     <object idref="CircleLinePoint0"/>
+     <string>1.5 cm</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.HandleLine">
+     <object idref="PerpendicularPoint0"/>
+     <object idref="DirectionPoint2"/>
+     <string>1.5 cm</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.HandleLine">
+     <object idref="AngleAnglePoint0"/>
+     <object idref="DirectionPoint0"/>
+     <string>1.5 cm</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void id="Measurements0" property="measurements">
+   <void id="TreeMap0" property="measurements">
+    <void method="get">
+     <string>armpitToWaist</string>
+     <void property="value">
+      <double>792.0</double>
+     </void>
+    </void>
+    <void method="put">
+     <string>backDart</string>
+     <object class="measurements.Measurement">
+      <void property="description">
+       <string>backDart</string>
+      </void>
+      <void property="name">
+       <string>backDart</string>
+      </void>
+      <void property="value">
+       <double>72.0</double>
+      </void>
+     </object>
+    </void>
+    <void method="put">
+     <string>backShoulderToWaist</string>
+     <object class="measurements.Measurement">
+      <void property="description">
+       <string>backShoulderToWaist</string>
+      </void>
+      <void property="name">
+       <string>backShoulderToWaist</string>
+      </void>
+      <void property="value">
+       <double>1224.0</double>
+      </void>
+     </object>
+    </void>
+    <void method="get">
+     <string>ease</string>
+     <void property="value">
+      <double>72.0</double>
+     </void>
+    </void>
+    <void method="get">
+     <string>frontBust</string>
+     <void property="value">
+      <double>1656.0</double>
+     </void>
+    </void>
+    <void method="get">
+     <string>frontDart</string>
+     <void property="value">
+      <double>72.0</double>
+     </void>
+    </void>
+    <void method="get">
+     <string>frontShoulderToWaist</string>
+     <void property="value">
+      <double>1224.0</double>
+     </void>
+    </void>
+    <void method="get">
+     <string>napeToWaist</string>
+     <void property="value">
+      <double>1152.0</double>
+     </void>
+    </void>
+    <void method="get">
+     <string>neck</string>
+     <void property="value">
+      <double>1152.0</double>
+     </void>
+    </void>
+    <void method="get">
+     <string>neckToBust</string>
+     <void property="value">
+      <double>648.0</double>
+     </void>
+    </void>
+    <void method="get">
+     <string>shoulderToBust</string>
+     <void property="value">
+      <double>792.0</double>
+     </void>
+    </void>
+    <void method="get">
+     <string>shoulderToShoulder</string>
+     <void property="value">
+      <double>1152.0</double>
+     </void>
+    </void>
+    <void method="get">
+     <string>waist</string>
+     <void property="value">
+      <double>2304.0</double>
+     </void>
+    </void>
+   </void>
+  </void>
+  <void property="name">
+   <string>maid</string>
+  </void>
+  <void property="points">
+   <void method="add">
+    <object idref="FixedPoint0"/>
+   </void>
+   <void method="add">
+    <object idref="DirectionPoint1"/>
+   </void>
+   <void method="add">
+    <object idref="DirectionPoint0"/>
+   </void>
+   <void method="add">
+    <object idref="AlongPoint0"/>
+   </void>
+   <void method="add">
+    <object idref="AlongPoint1"/>
+   </void>
+   <void method="add">
+    <object class="shapes.TeeIntersectionPoint">
+     <string>F</string>
+     <object idref="AlongPoint1"/>
+     <object idref="DirectionPoint0"/>
+     <object idref="DirectionPoint0"/>
+     <double>90.0</double>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object idref="AngleAnglePoint0"/>
+   </void>
+   <void method="add">
+    <object idref="DirectionPoint2"/>
+   </void>
+   <void method="add">
+    <object idref="PerpendicularPoint0"/>
+   </void>
+   <void method="add">
+    <object idref="DirectionPoint4"/>
+   </void>
+   <void method="add">
+    <object idref="CircleLinePoint0"/>
+   </void>
+   <void method="add">
+    <object idref="DirectionPoint3"/>
+   </void>
+   <void method="add">
+    <object idref="AlongPoint3"/>
+   </void>
+   <void method="add">
+    <object idref="AlongPoint2"/>
+   </void>
+   <void method="add">
+    <object idref="MidPoint0"/>
+   </void>
+   <void method="add">
+    <object class="shapes.DirectionPoint" id="DirectionPoint5">
+     <string>P</string>
+     <object idref="FixedPoint0"/>
+     <double>0.0</double>
+     <string>53.1 cm</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.DirectionPoint" id="DirectionPoint6">
+     <string>Q</string>
+     <object idref="DirectionPoint5"/>
+     <double>90.0</double>
+     <string>napeToWaist+ease</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.DirectionPoint" id="DirectionPoint7">
+     <string>R</string>
+     <object idref="DirectionPoint5"/>
+     <double>0.0</double>
+     <string>shoulderToShoulder/2</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.AlongPoint" id="AlongPoint4">
+     <string>S</string>
+     <object idref="DirectionPoint6"/>
+     <object idref="DirectionPoint7"/>
+     <string>backShoulderToWaist</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.DirectionPoint" id="DirectionPoint8">
+     <string>T</string>
+     <object idref="DirectionPoint6"/>
+     <double>0.0</double>
+     <string>waist/4+backDart+ease</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.DirectionPoint">
+     <string>U</string>
+     <object idref="DirectionPoint8"/>
+     <double>-90.0</double>
+     <string>armpitToWaist-2*ease</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.DirectionPoint" id="DirectionPoint9">
+     <string>V</string>
+     <object idref="DirectionPoint5"/>
+     <double>0.0</double>
+     <string>neck/5 + ease</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="shapes.AlongPoint">
+     <string>W</string>
+     <object idref="AlongPoint4"/>
+     <object idref="DirectionPoint9"/>
+     <string>length(D,O)</string>
+     <object idref="PatternModel0"/>
+     <void property="color">
+      <object idref="Color0"/>
+     </void>
+     <void property="x">
+      <double>2790.815399677075</double>
+     </void>
+     <void property="y">
+      <double>335.9325001485209</double>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
