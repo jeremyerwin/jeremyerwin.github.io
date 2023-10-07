@@ -1,7 +1,6 @@
-var paper=Raphael("container",2000,2000);
-var scale=15;
-var points= new Map();
-var makePattern=function(withPoints){
+pat=new Pattern();
+pat.document=document;
+var makePattern = function() {
     paper.clear()
     myMeasurements={}
     var backLength=document.getElementById('backLengthSlider').value*scale;
