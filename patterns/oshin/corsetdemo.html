@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Oshin Corset Pattern</title>
+<link href="pattern.css" rel="stylesheet">
+
+</head>
+
+
+<body>
+    <div class="col-1">Scale<input id="scaleSlider" type="range" min="1" max="100" value="15" step=".25" /><input type="number" for="scaleSlider" id='scaleText' min="1" max="100" value="15" step=".25"><p>
+        <div class="col-1">Bust <input id="bustSlider" type="range" min="24" max="100" value="48" step=".25" ><input type="number" id="bustText" min="24" max="100" value="48" step=".25" ></div>
+        <div class="col-2">Waist<input id="waistSlider" type="range" min="18" max="100" value="30" step=".25"> <input type="number" id="waistText" min="18" max="100" value="30" step=".25"></div>
+        <div class="col-1">Hip<input id="hipSlider" type="range" min="24" max="100" step=".25" value="54." /><input type="number" id="hipText" min="24" max="100" step=".25" value="54"></div>
+
+        <div class="col-1">SideHeight<input id="sideHeightSlider" type="range" min="10" max="40" step=".25" value="20.5" /><input type="number" id="sideHeightText" min="10" max="40" step=".25" value="20.5" ></div>
+        <div class="col-2">HipDepth<input id="hipDepthSlider" type="range" min="10" max="25" step=".25" value="12" /><input type="number" id="hipDepthText"  min="10" max="25" step=".25" value="12" ></div>
+<p>
+<div class="col-1"><form>PointA<input id="pointA" type="text"> PointB<input id="pointB" type="text"> distance<input id="distanceField" type="number"> </form></div>
+<div id="container"></div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>
+<script type="text/javascript" src="pattern.js"></script>
+
+<script type="text/javascript" src="oshinblockcorset.js"></script>
+<script>
+
+</script>
+</body>
+</html>

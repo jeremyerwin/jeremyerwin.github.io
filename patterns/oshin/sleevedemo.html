@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Oshin Sleeve</title>
+<link href="pattern.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="col-1">Scale<input id="scaleSlider" type="range" min="1" max="100" value="15" step=".25" /><input type="number" for="scaleSlider" id='scaleText' min="1" max="100" value="15" step=".25"><p>
+<div class="col-1">
+BackLength<input id="backLengthSlider" type="range" min="1" max="100" step=".25" value="37" /><input type="number" for="backLengthSlider"  id="backLengthText" min="1" max="100" step=".25" value="37">
+</div><div class="col-2">
+SideHeight<input id="sideHeightSlider" type="range" min="1" max="100" step=".25" value="21" /><input type="number" for="sideHeightSlider"  id="sideHeightText" min="1" max="100" step=".25" value="21">
+</div><div class="col-1">
+SleeveLength<input id="sleeveLengthSlider" type="range" min="1" max="100" step=".25" value="42" /><input type="number" for="sleeveLengthSlider"  id="sleeveLengthText" min="1" max="100" step=".25" value="42">
+</div><div class="col-2">
+SleeveWidth<input id="sleeveWidthSlider" type="range" min="1" max="100" step=".25" value="40" /><input type="number" for="sleeveWidthSlider"  id="sleeveWidthText" min="1" max="100" step=".25" value="40">
+</div>
+<div class="col-1"><form>PointA<input id="pointA" type="text"> PointB<input id="pointB" type="text"> distance<input id="distanceField" type="number"> </form></div>
+<div id="container"></div>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/3.9.2/math.min.js"></script>
+<script type="text/javascript" src="pattern.js"></script>
+
+<script type="text/javascript" src="oshinBlockSleeve.js"></script>
+
+</body>
+</html>
