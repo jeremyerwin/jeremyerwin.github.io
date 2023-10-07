@@ -42,19 +42,19 @@ var makePattern = function() {
     pat.midPoint("p18","p6","p4");
 
    
-    pat.displacedQuad("p2","N",distance("p2","N")/2.0,-1.0 *scale);
-    pat.displacedQuad("N","p13",distance("N","p13")/2.0,-0.4 *scale);
+    pat.displacedQuad("p2","N",pat.distance("p2","N")/2.0,-1.0 *scale);
+    pat.displacedQuad("N","p13",pat.distance("N","p13")/2.0,-0.4 *scale);
     pat.fittedQuad("p2","p15","p4");
     pat.line("p17","D");
-    pat.displacedQuad("D","p14",distance("D","p14")/2.0,0.7 *scale);
+    pat.displacedQuad("D","p14",pat.distance("D","p14")/2.0,0.7 *scale);
     pat.line("p14","p12");
-    pat.displacedQuad("p4","p10",distance("p4","p10")/2.0,0.7 *scale);
-    pat.displacedQuad("p18","p4",distance("p18","p4")/2.0,0.4 *scale);
-    pat.displacedQuad("p18","p6",distance("p18","p6")/2.0,0.3 *scale);
+    pat.displacedQuad("p4","p10",pat.distance("p4","p10")/2.0,0.7 *scale);
+    pat.displacedQuad("p18","p4",pat.distance("p18","p4")/2.0,0.4 *scale);
+    pat.displacedQuad("p18","p6",pat.distance("p18","p6")/2.0,0.3 *scale);
     pat.fittedQuad("p6","p7","p17");
-    pat.displacedQuad("p10","p12",distance("p10","p12")/2.0,1.0 *scale);
-    pat.displacedQuad("p9","p11",distance("p9","p11")/2.0,-0.6 *scale);
-    pat.displacedQuad("p9","p4",distance("p9","p4")/2.0,0.4 *scale);
+    pat.displacedQuad("p10","p12",pat.distance("p10","p12")/2.0,1.0 *scale);
+    pat.displacedQuad("p9","p11",pat.distance("p9","p11")/2.0,-0.6 *scale);
+    pat.displacedQuad("p9","p4",pat.distance("p9","p4")/2.0,0.4 *scale);
     pat.line("p11","p13");
     displaydistance(document);
 }
