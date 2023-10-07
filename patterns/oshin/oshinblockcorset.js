@@ -5,7 +5,7 @@
 var paper=Raphael("container",2000,2000);
 var scale=15;
 var points= new Map();
-var makePattern=function(withPoints){
+var makePattern=function(){
 	pat.paper.clear();
     scale=pat.scale;
 
