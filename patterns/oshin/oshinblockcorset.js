@@ -2,9 +2,8 @@
  * version 1.0
  */
 
-var paper=Raphael("container",2000,2000);
-var scale=15;
-var points= new Map();
+pat=new Pattern();
+pat.document=document;
 var makePattern=function(){
 	pat.paper.clear();
     scale=pat.scale;
