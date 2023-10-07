@@ -17,7 +17,6 @@ var makePattern=function(){
 	var reduction=3.0*scale;
 	var sideHeight=document.getElementById('sideHeightSlider').value*scale;
 	var waist=document.getElementById('waistSlider').value*scale;
-    setDocumentScale(scale);
 	pat.addPoint("G",100,100)
     pat.rightPoint("H","G",bust-reduction);
     pat.downPoint("C","G",sideHeight);
