@@ -46,7 +46,7 @@ var makePattern = function() {
     pat.displacedQuad("p2","N",pat.distance("p2","N")/2.0,-1.0 *scale);
     pat.displacedQuad("N","p13",pat.distance("N","p13")/2.0,-0.4 *scale);
     pat.fittedQuad("p2","p15","p4");
-   
+    pat.line("p17", "D");   
     pat.displacedQuad("D","p14",pat.distance("D","p14")/2.0,0.7 *scale);
     pat.line("p14","p12");
     pat.displacedQuad("p4","p10",pat.distance("p4","p10")/2.0,0.7 *scale);
